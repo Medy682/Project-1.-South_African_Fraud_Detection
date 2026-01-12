@@ -1,6 +1,7 @@
 South African Fraud Detection Project Using Machine Learning With EDA
 
 Author: Kidima Medy Masuka
+
 Date: 2026
 
 ✅ Project Overview
