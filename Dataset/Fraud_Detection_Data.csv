@@ -1,0 +1,1501 @@
+transaction_amount,merchant_category,customer_region,transaction_type,card_present,hour_of_day,device_type,previous_fraud_flag,transaction_datetime,day_of_week,is_weekend,device_id,is_fraud
+2634.29,Online Store,Eastern Cape,EFT,1,19,Unknown,0,2023-01-01 00:00:00,Sunday,1,UNK_59895,0
+6655.99,Clothing,Mpumalanga,EFT,1,4,iPhone,0,2023-01-01 00:12:00,Sunday,1,IPH_86639,0
+5129.32,Fuel,Gauteng,Online,1,20,Windows,0,2023-01-01 00:52:00,Sunday,1,WIN_25174,0
+4198.64,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,3,Windows,0,2023-01-01 01:40:00,Sunday,1,WIN_97329,0
+1109.01,Restaurants,KwaZulu-Natal,ATM Withdrawal,1,3,Unknown,0,2023-01-01 02:44:00,Sunday,1,UNK_37597,0
+1108.84,Online Store,Western Cape,EFT,1,3,Android,0,2023-01-01 03:04:00,Sunday,1,AND_84289,0
+425.42,Groceries,Eastern Cape,EFT,1,3,Unknown,0,2023-01-01 02:25:00,Sunday,1,UNK_48397,0
+6065.91,Fuel,Eastern Cape,POS,1,19,Android,0,2023-01-01 01:56:00,Sunday,1,AND_81854,0
+4215.78,Restaurants,Eastern Cape,POS,0,20,Windows,0,2023-01-01 01:27:00,Sunday,1,WIN_43069,0
+4962.35,Online Store,Mpumalanga,EFT,0,17,Android,0,2023-01-01 06:17:00,Sunday,1,AND_95687,0
+163.68,Restaurants,Western Cape,POS,0,17,Windows,0,2023-01-01 06:30:00,Sunday,1,WIN_50274,0
+6789.97,Fuel,Eastern Cape,POS,1,15,Windows,0,2023-01-01 07:37:00,Sunday,1,WIN_84237,0
+5830.45,Fuel,Mpumalanga,EFT,1,8,iPhone,0,2023-01-01 04:35:00,Sunday,1,IPH_82498,0
+1502.13,Electronics,KwaZulu-Natal,EFT,0,17,Android,0,2023-01-01 03:34:00,Sunday,1,AND_48197,0
+1289.14,Clothing,Gauteng,ATM Withdrawal,1,21,Android,0,2023-01-01 10:41:00,Sunday,1,AND_58634,0
+1300.16,Clothing,Mpumalanga,EFT,1,1,Android,0,2023-01-01 11:39:00,Sunday,1,AND_40041,0
+2143.61,Online Store,KwaZulu-Natal,EFT,1,20,Unknown,0,2023-01-01 07:26:00,Sunday,1,UNK_17248,0
+3682.8,Fuel,KwaZulu-Natal,Online,1,3,iPhone,0,2023-01-01 10:30:00,Sunday,1,IPH_95365,1
+3034.98,Electronics,Gauteng,ATM Withdrawal,1,11,iPhone,0,2023-01-01 06:54:00,Sunday,1,IPH_12203,0
+2052.78,Electronics,KwaZulu-Natal,ATM Withdrawal,1,6,iPhone,0,2023-01-01 13:25:00,Sunday,1,IPH_61986,0
+4290.73,Restaurants,Western Cape,ATM Withdrawal,0,14,Unknown,0,2023-01-01 16:46:00,Sunday,1,UNK_35370,0
+993.67,Restaurants,Gauteng,Online,0,6,Android,1,2023-01-01 14:33:00,Sunday,1,AND_45247,0
+2059.17,Electronics,KwaZulu-Natal,EFT,1,21,Android,0,2023-01-01 11:27:00,Sunday,1,AND_85922,0
+2577.21,Restaurants,Limpopo,ATM Withdrawal,1,20,Android,1,2023-01-01 10:45:00,Sunday,1,AND_10434,0
+3203.37,Fuel,Mpumalanga,ATM Withdrawal,1,16,iPhone,0,2023-01-01 15:33:00,Sunday,1,IPH_72982,0
+5500.53,Groceries,KwaZulu-Natal,POS,0,15,iPhone,0,2023-01-01 17:07:00,Sunday,1,IPH_75180,0
+1413.72,Fuel,Western Cape,ATM Withdrawal,0,18,Windows,0,2023-01-01 14:43:00,Sunday,1,WIN_44474,0
+3609.36,Electronics,Eastern Cape,EFT,1,8,Unknown,0,2023-01-01 17:02:00,Sunday,1,UNK_34644,0
+4155.05,Electronics,KwaZulu-Natal,EFT,0,13,Unknown,0,2023-01-01 03:07:00,Sunday,1,UNK_48493,0
+344.22,Fuel,Eastern Cape,POS,1,16,iPhone,0,2023-01-02 03:37:00,Monday,0,IPH_93824,0
+4260.66,Restaurants,Limpopo,ATM Withdrawal,1,4,Windows,0,2023-01-01 23:49:00,Sunday,1,WIN_13959,0
+1210.26,Restaurants,KwaZulu-Natal,ATM Withdrawal,1,1,Android,0,2023-01-01 11:54:00,Sunday,1,AND_57289,0
+474.06,Clothing,Gauteng,ATM Withdrawal,1,19,iPhone,1,2023-01-01 18:14:00,Sunday,1,IPH_21143,0
+6643.22,Electronics,Eastern Cape,Online,1,15,Unknown,0,2023-01-01 02:05:00,Sunday,1,UNK_49593,0
+6760.11,Online Store,Limpopo,ATM Withdrawal,0,13,Unknown,0,2023-01-01 01:56:00,Sunday,1,UNK_49115,0
+5662.61,Clothing,Gauteng,EFT,1,13,Unknown,1,2023-01-01 09:12:00,Sunday,1,UNK_32540,0
+2146.2,Restaurants,Gauteng,EFT,1,0,Android,0,2023-01-02 01:00:00,Monday,0,AND_45481,0
+701.75,Fuel,Gauteng,Online,1,2,Unknown,0,2023-01-02 07:37:00,Monday,0,UNK_87097,0
+4795.95,Restaurants,Gauteng,Online,1,6,Android,0,2023-01-01 21:31:00,Sunday,1,AND_32578,0
+3092.26,Fuel,KwaZulu-Natal,ATM Withdrawal,1,14,Android,0,2023-01-01 21:03:00,Sunday,1,AND_22787,0
+871.83,Clothing,Mpumalanga,POS,1,18,Android,0,2023-01-01 16:29:00,Sunday,1,AND_82048,0
+3476.33,Electronics,KwaZulu-Natal,Online,0,19,iPhone,0,2023-01-01 07:11:00,Sunday,1,IPH_62879,0
+260.03,Restaurants,KwaZulu-Natal,Online,1,1,Android,0,2023-01-01 05:35:00,Sunday,1,AND_20596,0
+6367.06,Fuel,Limpopo,ATM Withdrawal,1,18,Windows,0,2023-01-02 08:52:00,Monday,0,WIN_70669,0
+1826.28,Electronics,Limpopo,ATM Withdrawal,1,8,Unknown,0,2023-01-02 16:51:00,Monday,0,UNK_29930,0
+4644.41,Online Store,Mpumalanga,Online,1,18,iPhone,0,2023-01-01 21:01:00,Sunday,1,IPH_57950,0
+2195.74,Fuel,Limpopo,POS,0,4,Unknown,1,2023-01-02 06:35:00,Monday,0,UNK_28687,0
+3650.07,Clothing,Western Cape,Online,1,17,Android,0,2023-01-02 19:02:00,Monday,0,AND_62833,0
+3836.04,Online Store,Mpumalanga,ATM Withdrawal,1,15,iPhone,0,2023-01-01 05:03:00,Sunday,1,IPH_45989,0
+1310.28,Online Store,Limpopo,ATM Withdrawal,1,3,Windows,0,2023-01-02 13:56:00,Monday,0,WIN_40183,0
+6787.7,Groceries,Mpumalanga,Online,1,11,Android,0,2023-01-02 07:09:00,Monday,0,AND_30758,0
+5430.43,Restaurants,KwaZulu-Natal,POS,0,6,Unknown,0,2023-01-02 06:52:00,Monday,0,UNK_11082,0
+6577.7,Fuel,KwaZulu-Natal,Online,0,13,Windows,0,2023-01-01 15:49:00,Sunday,1,WIN_55891,0
+6265.89,Online Store,Mpumalanga,Online,1,22,Android,0,2023-01-02 12:31:00,Monday,0,AND_55810,0
+4193.34,Groceries,Western Cape,ATM Withdrawal,0,11,Windows,0,2023-01-02 19:06:00,Monday,0,WIN_56901,0
+6454.68,Clothing,Western Cape,POS,1,2,Android,0,2023-01-01 07:01:00,Sunday,1,AND_93512,0
+637.68,Electronics,Mpumalanga,EFT,0,4,iPhone,1,2023-01-02 06:18:00,Monday,0,IPH_81062,0
+1387.96,Fuel,Limpopo,POS,0,16,Android,1,2023-01-01 06:37:00,Sunday,1,AND_31563,0
+335.69,Online Store,Eastern Cape,Online,1,9,iPhone,0,2023-01-03 02:43:00,Tuesday,0,IPH_82008,0
+2290.81,Restaurants,Western Cape,Online,1,9,Android,0,2023-01-02 06:26:00,Monday,0,AND_12775,0
+2732.97,Groceries,Gauteng,Online,1,10,Android,0,2023-01-03 00:40:00,Tuesday,0,AND_25828,0
+1914.02,Online Store,KwaZulu-Natal,POS,1,16,Unknown,0,2023-01-01 23:05:00,Sunday,1,UNK_27974,0
+5804.59,Restaurants,Mpumalanga,ATM Withdrawal,0,4,Windows,0,2023-01-01 08:39:00,Sunday,1,WIN_32388,0
+2510.14,Online Store,Gauteng,Online,1,12,Windows,0,2023-01-01 03:37:00,Sunday,1,WIN_90591,0
+1980.92,Fuel,Mpumalanga,Online,1,9,Windows,0,2023-01-01 18:46:00,Sunday,1,WIN_28615,0
+3808.02,Fuel,KwaZulu-Natal,POS,0,8,Android,0,2023-01-01 16:41:00,Sunday,1,AND_47886,0
+1003.65,Fuel,KwaZulu-Natal,EFT,1,16,Android,0,2023-01-02 13:28:00,Monday,0,AND_32838,0
+5619.33,Clothing,Western Cape,EFT,1,0,Android,0,2023-01-01 02:32:00,Sunday,1,AND_50728,0
+540.36,Clothing,Western Cape,ATM Withdrawal,1,3,iPhone,0,2023-01-02 11:56:00,Monday,0,IPH_88000,0
+6908.47,Groceries,Gauteng,ATM Withdrawal,0,3,iPhone,0,2023-01-02 03:43:00,Monday,0,IPH_62798,0
+5410.27,Fuel,Mpumalanga,Online,0,17,Unknown,0,2023-01-02 16:53:00,Monday,0,UNK_82776,0
+1407.04,Restaurants,KwaZulu-Natal,POS,0,8,Android,0,2023-01-03 02:13:00,Tuesday,0,AND_80478,0
+58.54,Online Store,Gauteng,Online,1,17,Windows,0,2023-01-02 22:05:00,Monday,0,WIN_29622,0
+5711.92,Electronics,Eastern Cape,ATM Withdrawal,1,13,Windows,0,2023-01-03 23:53:00,Tuesday,0,WIN_23536,0
+4953.86,Restaurants,Gauteng,POS,0,14,Unknown,0,2023-01-01 11:17:00,Sunday,1,UNK_77136,0
+5108.47,Clothing,Limpopo,POS,1,5,Windows,0,2023-01-02 08:56:00,Monday,0,WIN_15700,0
+5403.47,Clothing,Gauteng,ATM Withdrawal,1,23,Unknown,0,2023-01-02 09:00:00,Monday,0,UNK_48839,0
+536.83,Restaurants,Limpopo,EFT,1,9,Android,0,2023-01-02 08:51:00,Monday,0,AND_20248,0
+2522.09,Clothing,Limpopo,EFT,1,14,Windows,1,2023-01-03 04:12:00,Tuesday,0,WIN_55291,0
+828.77,Fuel,Limpopo,POS,0,3,Android,0,2023-01-02 15:22:00,Monday,0,AND_92629,0
+6044.46,Groceries,Eastern Cape,Online,1,17,iPhone,0,2023-01-02 18:02:00,Monday,0,IPH_94891,0
+4370.62,Online Store,Gauteng,EFT,1,17,Windows,1,2023-01-02 11:47:00,Monday,0,WIN_27177,1
+2329.67,Groceries,Gauteng,Online,1,16,iPhone,0,2023-01-04 09:19:00,Wednesday,0,IPH_29483,0
+463.64,Online Store,Eastern Cape,EFT,1,11,Windows,0,2023-01-04 05:05:00,Wednesday,0,WIN_53815,0
+2190.66,Online Store,KwaZulu-Natal,EFT,0,6,Android,0,2023-01-02 02:49:00,Monday,0,AND_48533,0
+2289.78,Groceries,Western Cape,Online,1,15,Unknown,0,2023-01-01 10:44:00,Sunday,1,UNK_10026,0
+5112.65,Restaurants,Gauteng,ATM Withdrawal,0,10,Android,0,2023-01-04 00:26:00,Wednesday,0,AND_70611,0
+4470.15,Online Store,Western Cape,EFT,1,13,Android,0,2023-01-04 14:45:00,Wednesday,0,AND_97242,0
+6212.74,Groceries,Mpumalanga,EFT,1,2,Android,0,2023-01-02 02:47:00,Monday,0,AND_34660,0
+3316.06,Online Store,Mpumalanga,Online,0,18,Windows,0,2023-01-02 08:47:00,Monday,0,WIN_65103,0
+854.77,Electronics,Eastern Cape,ATM Withdrawal,1,17,Unknown,0,2023-01-04 12:50:00,Wednesday,0,UNK_62253,0
+4998.45,Restaurants,Mpumalanga,EFT,0,9,iPhone,0,2023-01-03 17:09:00,Tuesday,0,IPH_52082,0
+5330.28,Fuel,Mpumalanga,EFT,1,5,Android,0,2023-01-02 04:16:00,Monday,0,AND_26258,0
+3937.71,Online Store,KwaZulu-Natal,ATM Withdrawal,1,12,Windows,0,2023-01-03 06:41:00,Tuesday,0,WIN_99690,0
+5401.35,Electronics,KwaZulu-Natal,EFT,1,9,iPhone,0,2023-01-04 16:50:00,Wednesday,0,IPH_25389,0
+3466.69,Fuel,KwaZulu-Natal,ATM Withdrawal,1,17,Android,0,2023-01-04 05:25:00,Wednesday,0,AND_37685,0
+3668.68,Fuel,Mpumalanga,ATM Withdrawal,1,19,iPhone,0,2023-01-03 23:37:00,Tuesday,0,IPH_69220,0
+3004.24,Online Store,Eastern Cape,Online,1,15,Android,0,2023-01-03 23:54:00,Tuesday,0,AND_37195,0
+197.43,Groceries,Limpopo,POS,1,5,iPhone,0,2023-01-01 18:47:00,Sunday,1,IPH_31797,0
+773.08,Online Store,Limpopo,ATM Withdrawal,1,12,iPhone,0,2023-01-04 09:55:00,Wednesday,0,IPH_81310,0
+239.38,Electronics,Western Cape,Online,0,3,Unknown,0,2023-01-02 04:49:00,Monday,0,UNK_76332,0
+4462.14,Fuel,Limpopo,POS,1,22,Unknown,0,2023-01-04 22:05:00,Wednesday,0,UNK_72907,0
+2214.2,Online Store,Limpopo,EFT,0,13,Android,0,2023-01-02 14:16:00,Monday,0,AND_17188,0
+3569.82,Groceries,KwaZulu-Natal,POS,1,0,Windows,0,2023-01-04 16:35:00,Wednesday,0,WIN_33696,0
+6354.81,Online Store,KwaZulu-Natal,ATM Withdrawal,0,19,Unknown,1,2023-01-02 04:57:00,Monday,0,UNK_12024,0
+1760.06,Restaurants,Mpumalanga,ATM Withdrawal,0,4,iPhone,0,2023-01-03 06:52:00,Tuesday,0,IPH_83202,0
+2884.47,Groceries,Western Cape,ATM Withdrawal,1,7,Unknown,0,2023-01-01 12:54:00,Sunday,1,UNK_45985,0
+5293.75,Electronics,Gauteng,ATM Withdrawal,1,11,Unknown,0,2023-01-03 23:14:00,Tuesday,0,UNK_16584,0
+1617.01,Fuel,Western Cape,ATM Withdrawal,1,1,Android,0,2023-01-04 18:35:00,Wednesday,0,AND_37044,0
+557.32,Online Store,Western Cape,Online,0,11,Unknown,0,2023-01-04 06:49:00,Wednesday,0,UNK_15285,0
+2042.47,Groceries,Eastern Cape,ATM Withdrawal,1,4,Unknown,1,2023-01-03 10:25:00,Tuesday,0,UNK_73115,0
+1145.32,Restaurants,Mpumalanga,Online,1,21,iPhone,0,2023-01-01 06:46:00,Sunday,1,IPH_17370,0
+6509.29,Groceries,Eastern Cape,EFT,1,4,Unknown,0,2023-01-05 08:40:00,Thursday,0,UNK_27903,0
+5660.68,Clothing,Western Cape,ATM Withdrawal,0,12,iPhone,0,2023-01-04 08:16:00,Wednesday,0,IPH_42499,1
+4441.16,Restaurants,Western Cape,ATM Withdrawal,1,8,Unknown,0,2023-01-04 13:30:00,Wednesday,0,UNK_32995,0
+6102.79,Electronics,Western Cape,POS,0,9,Unknown,0,2023-01-04 19:46:00,Wednesday,0,UNK_45200,0
+5629.63,Fuel,Limpopo,EFT,1,0,Windows,0,2023-01-04 15:13:00,Wednesday,0,WIN_98377,0
+1322.26,Electronics,Eastern Cape,ATM Withdrawal,1,2,Unknown,0,2023-01-03 04:42:00,Tuesday,0,UNK_80402,0
+6250.06,Online Store,Western Cape,ATM Withdrawal,1,17,iPhone,0,2023-01-04 15:05:00,Wednesday,0,IPH_23566,0
+3784.61,Groceries,KwaZulu-Natal,EFT,1,11,iPhone,0,2023-01-04 03:07:00,Wednesday,0,IPH_47822,0
+5655.93,Clothing,Mpumalanga,Online,1,2,Android,0,2023-01-05 06:46:00,Thursday,0,AND_61222,0
+6274.72,Restaurants,Mpumalanga,ATM Withdrawal,1,8,Android,0,2023-01-05 01:29:00,Thursday,0,AND_60668,0
+2239.66,Restaurants,KwaZulu-Natal,POS,1,1,Windows,0,2023-01-01 06:59:00,Sunday,1,WIN_73853,0
+788.16,Groceries,Mpumalanga,ATM Withdrawal,1,2,iPhone,0,2023-01-02 23:52:00,Monday,0,IPH_64643,0
+1610.99,Clothing,Limpopo,POS,1,13,iPhone,1,2023-01-01 06:17:00,Sunday,1,IPH_32333,0
+3001.21,Groceries,Limpopo,POS,1,3,iPhone,0,2023-01-01 14:37:00,Sunday,1,IPH_25958,0
+5729.74,Online Store,Gauteng,ATM Withdrawal,1,18,Windows,0,2023-01-04 04:36:00,Wednesday,0,WIN_62442,0
+6027.9,Electronics,Gauteng,ATM Withdrawal,1,12,iPhone,1,2023-01-05 15:14:00,Thursday,0,IPH_30954,0
+68.53,Restaurants,Gauteng,POS,1,6,Android,0,2023-01-01 17:12:00,Sunday,1,AND_85174,0
+3585.02,Online Store,Mpumalanga,EFT,1,11,Windows,0,2023-01-03 11:22:00,Tuesday,0,WIN_19675,0
+2933.53,Electronics,Limpopo,EFT,0,2,Android,0,2023-01-05 22:36:00,Thursday,0,AND_99590,0
+1570.31,Online Store,Limpopo,ATM Withdrawal,1,22,Android,0,2023-01-05 11:04:00,Thursday,0,AND_41661,0
+856.66,Clothing,Limpopo,Online,1,22,Windows,0,2023-01-03 21:39:00,Tuesday,0,WIN_74289,0
+2376.55,Restaurants,KwaZulu-Natal,EFT,0,8,Unknown,0,2023-01-05 07:07:00,Thursday,0,UNK_27184,0
+6601.51,Groceries,Limpopo,ATM Withdrawal,0,1,Unknown,0,2023-01-03 23:06:00,Tuesday,0,UNK_57963,0
+2275.96,Groceries,KwaZulu-Natal,EFT,1,21,Android,0,2023-01-01 23:14:00,Sunday,1,AND_35822,0
+3641.16,Electronics,Gauteng,Online,1,8,Unknown,0,2023-01-01 18:56:00,Sunday,1,UNK_72303,0
+4927.07,Fuel,Gauteng,ATM Withdrawal,1,11,iPhone,0,2023-01-02 03:39:00,Monday,0,IPH_86465,0
+2558.13,Clothing,Mpumalanga,Online,0,11,Windows,0,2023-01-03 01:55:00,Tuesday,0,WIN_15267,0
+6803.04,Electronics,Gauteng,ATM Withdrawal,1,14,Android,0,2023-01-06 09:30:00,Friday,0,AND_62647,0
+6737.88,Fuel,Mpumalanga,Online,0,1,iPhone,0,2023-01-05 16:25:00,Thursday,0,IPH_72814,0
+1777.44,Online Store,Western Cape,EFT,1,17,Unknown,0,2023-01-03 14:21:00,Tuesday,0,UNK_46025,0
+3490.79,Clothing,Western Cape,EFT,0,12,iPhone,0,2023-01-03 23:12:00,Tuesday,0,IPH_87605,0
+2120.13,Online Store,Eastern Cape,Online,0,13,Unknown,0,2023-01-02 15:43:00,Monday,0,UNK_10981,0
+2008.19,Restaurants,Mpumalanga,Online,0,4,Android,0,2023-01-05 06:08:00,Thursday,0,AND_53436,1
+277.47,Clothing,Eastern Cape,Online,1,9,iPhone,0,2023-01-05 20:52:00,Thursday,0,IPH_28472,0
+4274.76,Fuel,Eastern Cape,ATM Withdrawal,0,11,Windows,0,2023-01-02 12:43:00,Monday,0,WIN_29336,0
+3528.7,Restaurants,Western Cape,EFT,1,9,Android,0,2023-01-01 08:29:00,Sunday,1,AND_35587,0
+379.32,Groceries,Mpumalanga,ATM Withdrawal,1,23,iPhone,0,2023-01-04 21:15:00,Wednesday,0,IPH_87192,0
+1964.95,Fuel,Western Cape,EFT,1,10,iPhone,0,2023-01-04 12:54:00,Wednesday,0,IPH_94046,0
+6359.7,Electronics,Eastern Cape,POS,1,1,Unknown,0,2023-01-03 13:48:00,Tuesday,0,UNK_63013,0
+1692.14,Groceries,Mpumalanga,ATM Withdrawal,1,4,Android,1,2023-01-05 02:07:00,Thursday,0,AND_94511,0
+1031.37,Groceries,Eastern Cape,EFT,0,6,Android,1,2023-01-04 12:49:00,Wednesday,0,AND_19665,0
+3436.38,Electronics,Limpopo,EFT,1,5,Android,0,2023-01-02 16:14:00,Monday,0,AND_37097,0
+6899.84,Clothing,Mpumalanga,ATM Withdrawal,0,21,Android,0,2023-01-03 14:47:00,Tuesday,0,AND_62474,0
+1709.55,Groceries,Mpumalanga,ATM Withdrawal,0,22,Unknown,0,2023-01-03 19:50:00,Tuesday,0,UNK_81973,0
+4711.51,Fuel,Eastern Cape,EFT,1,2,Windows,0,2023-01-06 17:37:00,Friday,0,WIN_35185,0
+5336.1,Restaurants,Limpopo,ATM Withdrawal,1,12,Android,0,2023-01-07 06:57:00,Saturday,1,AND_85911,0
+1678.71,Groceries,KwaZulu-Natal,Online,1,2,Unknown,0,2023-01-06 21:22:00,Friday,0,UNK_40484,0
+5102.95,Fuel,Western Cape,ATM Withdrawal,1,23,Windows,0,2023-01-05 19:05:00,Thursday,0,WIN_55610,0
+2587.13,Online Store,Eastern Cape,ATM Withdrawal,1,20,Windows,0,2023-01-04 22:42:00,Wednesday,0,WIN_60807,0
+4433.49,Fuel,Mpumalanga,ATM Withdrawal,0,5,Unknown,0,2023-01-05 15:48:00,Thursday,0,UNK_60907,0
+4442.04,Restaurants,Western Cape,EFT,0,10,Android,0,2023-01-07 08:18:00,Saturday,1,AND_67389,0
+3759.71,Fuel,Western Cape,Online,0,16,Windows,0,2023-01-02 18:47:00,Monday,0,WIN_35835,0
+650.22,Electronics,Western Cape,POS,0,9,Android,0,2023-01-04 17:01:00,Wednesday,0,AND_63790,0
+5850.41,Restaurants,KwaZulu-Natal,POS,1,11,Android,0,2023-01-05 18:38:00,Thursday,0,AND_86960,0
+2259.04,Clothing,Gauteng,Online,1,16,iPhone,0,2023-01-05 17:38:00,Thursday,0,IPH_19643,0
+1321.9,Online Store,Eastern Cape,Online,0,3,Android,0,2023-01-02 20:12:00,Monday,0,AND_85846,1
+304.61,Electronics,Gauteng,Online,1,1,iPhone,0,2023-01-05 03:43:00,Thursday,0,IPH_28951,0
+4144.43,Clothing,Gauteng,EFT,1,10,Windows,1,2023-01-06 15:05:00,Friday,0,WIN_25233,0
+4749.4,Fuel,Gauteng,POS,0,6,Unknown,0,2023-01-04 10:15:00,Wednesday,0,UNK_23200,0
+135.78,Restaurants,Western Cape,Online,0,1,iPhone,0,2023-01-06 16:14:00,Friday,0,IPH_62275,0
+3594.41,Online Store,Limpopo,EFT,0,17,Unknown,0,2023-01-03 15:44:00,Tuesday,0,UNK_97084,0
+1600.94,Electronics,Western Cape,POS,0,20,Windows,0,2023-01-07 18:34:00,Saturday,1,WIN_86068,0
+4523.31,Clothing,Western Cape,ATM Withdrawal,0,3,Android,1,2023-01-04 22:15:00,Wednesday,0,AND_99001,0
+1237.08,Clothing,Mpumalanga,EFT,1,7,Windows,0,2023-01-05 09:28:00,Thursday,0,WIN_31291,0
+4842.75,Online Store,Mpumalanga,POS,0,19,Unknown,0,2023-01-01 08:21:00,Sunday,1,UNK_52448,0
+2719.41,Fuel,Gauteng,EFT,1,13,Windows,0,2023-01-02 08:35:00,Monday,0,WIN_40580,0
+6558.38,Online Store,Western Cape,POS,1,11,Android,0,2023-01-05 17:45:00,Thursday,0,AND_31346,0
+979.9,Clothing,Gauteng,POS,1,21,Windows,0,2023-01-04 04:53:00,Wednesday,0,WIN_20619,0
+2400.64,Groceries,Mpumalanga,ATM Withdrawal,1,20,Android,0,2023-01-04 20:56:00,Wednesday,0,AND_11766,0
+812.05,Electronics,Limpopo,EFT,0,17,iPhone,0,2023-01-01 14:13:00,Sunday,1,IPH_13549,0
+6474.36,Online Store,Eastern Cape,Online,1,10,Unknown,0,2023-01-07 08:18:00,Saturday,1,UNK_28693,0
+6143.83,Clothing,Gauteng,ATM Withdrawal,1,7,Android,0,2023-01-07 00:13:00,Saturday,1,AND_72019,0
+1820.43,Fuel,Limpopo,ATM Withdrawal,0,1,Android,0,2023-01-02 12:36:00,Monday,0,AND_58328,1
+4626.69,Clothing,Eastern Cape,POS,0,14,Windows,0,2023-01-05 22:28:00,Thursday,0,WIN_87701,0
+5724.21,Fuel,KwaZulu-Natal,Online,1,8,iPhone,0,2023-01-07 08:46:00,Saturday,1,IPH_99100,0
+3895.3,Online Store,Gauteng,EFT,1,18,Android,0,2023-01-06 00:57:00,Friday,0,AND_35301,0
+3716.96,Fuel,Gauteng,Online,1,19,iPhone,0,2023-01-03 12:30:00,Tuesday,0,IPH_54763,0
+1708.13,Restaurants,KwaZulu-Natal,Online,1,7,iPhone,0,2023-01-06 05:05:00,Friday,0,IPH_30765,0
+669.86,Restaurants,KwaZulu-Natal,Online,1,18,Windows,0,2023-01-02 18:29:00,Monday,0,WIN_54787,0
+6282.57,Restaurants,Gauteng,Online,0,4,Android,0,2023-01-03 14:57:00,Tuesday,0,AND_17425,0
+6304.92,Groceries,KwaZulu-Natal,Online,0,10,Windows,0,2023-01-03 00:31:00,Tuesday,0,WIN_22857,1
+4439.05,Online Store,Western Cape,POS,0,14,Unknown,0,2023-01-05 12:54:00,Thursday,0,UNK_62771,0
+2386.43,Clothing,Eastern Cape,POS,0,7,Unknown,0,2023-01-01 23:52:00,Sunday,1,UNK_32444,0
+2457.48,Clothing,Eastern Cape,ATM Withdrawal,1,18,Android,0,2023-01-08 14:12:00,Sunday,1,AND_51457,0
+5087.17,Groceries,Eastern Cape,POS,1,22,iPhone,0,2023-01-03 19:32:00,Tuesday,0,IPH_89741,0
+6281.83,Fuel,Western Cape,ATM Withdrawal,1,7,Android,0,2023-01-02 21:42:00,Monday,0,AND_10704,0
+6211.86,Groceries,KwaZulu-Natal,ATM Withdrawal,0,18,Android,0,2023-01-05 03:58:00,Thursday,0,AND_15452,0
+5463.53,Fuel,Limpopo,EFT,1,17,Unknown,0,2023-01-03 09:31:00,Tuesday,0,UNK_48862,0
+4501.38,Fuel,KwaZulu-Natal,Online,0,9,Unknown,0,2023-01-05 12:31:00,Thursday,0,UNK_71471,1
+607.3,Electronics,Gauteng,POS,0,6,iPhone,0,2023-01-04 00:13:00,Wednesday,0,IPH_79217,0
+1148.17,Clothing,Mpumalanga,EFT,0,8,iPhone,0,2023-01-02 05:35:00,Monday,0,IPH_96058,0
+6291.91,Restaurants,Eastern Cape,POS,1,0,Android,0,2023-01-03 08:27:00,Tuesday,0,AND_28300,0
+4252.87,Fuel,KwaZulu-Natal,ATM Withdrawal,1,18,Windows,0,2023-01-04 19:21:00,Wednesday,0,WIN_19566,0
+84.2,Electronics,Limpopo,POS,1,4,Android,0,2023-01-01 09:31:00,Sunday,1,AND_17501,0
+728.27,Clothing,Gauteng,Online,1,18,iPhone,1,2023-01-07 15:32:00,Saturday,1,IPH_11845,0
+4651.24,Restaurants,Western Cape,ATM Withdrawal,1,0,Windows,1,2023-01-06 10:01:00,Friday,0,WIN_49181,0
+55.33,Fuel,Western Cape,ATM Withdrawal,0,14,Unknown,0,2023-01-06 06:27:00,Friday,0,UNK_67263,0
+1142.44,Fuel,Limpopo,EFT,0,15,iPhone,1,2023-01-05 19:42:00,Thursday,0,IPH_88766,0
+3850.16,Groceries,Gauteng,Online,0,22,iPhone,0,2023-01-06 05:23:00,Friday,0,IPH_73038,0
+4849.43,Groceries,Eastern Cape,ATM Withdrawal,1,6,Windows,0,2023-01-09 05:26:00,Monday,0,WIN_93290,0
+4570.69,Clothing,KwaZulu-Natal,Online,1,11,iPhone,0,2023-01-01 05:19:00,Sunday,1,IPH_44404,0
+1585.4,Restaurants,Gauteng,POS,0,7,iPhone,1,2023-01-01 13:33:00,Sunday,1,IPH_32564,0
+4991.01,Fuel,Western Cape,Online,1,4,iPhone,0,2023-01-02 19:51:00,Monday,0,IPH_67435,1
+1676.0,Clothing,Limpopo,ATM Withdrawal,1,9,iPhone,0,2023-01-02 14:57:00,Monday,0,IPH_28227,0
+2291.29,Clothing,Limpopo,EFT,0,20,iPhone,0,2023-01-02 18:05:00,Monday,0,IPH_57475,0
+5230.51,Online Store,KwaZulu-Natal,ATM Withdrawal,1,4,iPhone,0,2023-01-07 02:59:00,Saturday,1,IPH_27215,0
+4554.44,Groceries,Limpopo,Online,1,16,iPhone,0,2023-01-05 06:07:00,Thursday,0,IPH_81074,0
+5947.58,Restaurants,Limpopo,Online,1,4,iPhone,0,2023-01-10 01:13:00,Tuesday,0,IPH_31699,0
+4610.14,Fuel,Gauteng,ATM Withdrawal,0,21,Unknown,0,2023-01-03 04:44:00,Tuesday,0,UNK_22454,0
+3986.79,Clothing,Eastern Cape,Online,1,14,iPhone,0,2023-01-03 23:13:00,Tuesday,0,IPH_58217,0
+673.85,Fuel,KwaZulu-Natal,POS,0,12,Unknown,0,2023-01-10 02:33:00,Tuesday,0,UNK_31711,0
+2586.66,Online Store,Gauteng,ATM Withdrawal,1,0,Unknown,0,2023-01-08 18:06:00,Sunday,1,UNK_25059,0
+1871.11,Restaurants,Eastern Cape,EFT,1,10,Android,0,2023-01-05 11:12:00,Thursday,0,AND_58398,0
+1723.05,Clothing,Gauteng,ATM Withdrawal,1,22,Android,0,2023-01-06 06:27:00,Friday,0,AND_11286,0
+6811.61,Fuel,Mpumalanga,POS,1,0,Unknown,0,2023-01-08 23:08:00,Sunday,1,UNK_44297,0
+2763.82,Groceries,Gauteng,POS,1,10,Unknown,0,2023-01-05 15:08:00,Thursday,0,UNK_36485,0
+6246.48,Online Store,Limpopo,POS,1,17,iPhone,0,2023-01-03 01:59:00,Tuesday,0,IPH_69967,0
+4425.35,Restaurants,Eastern Cape,POS,0,17,Android,0,2023-01-08 22:22:00,Sunday,1,AND_64583,0
+5567.78,Online Store,KwaZulu-Natal,POS,1,20,Windows,0,2023-01-06 05:27:00,Friday,0,WIN_61630,0
+3528.41,Groceries,KwaZulu-Natal,EFT,0,15,Android,0,2023-01-02 14:36:00,Monday,0,AND_37086,0
+4046.79,Restaurants,Eastern Cape,Online,1,12,Unknown,0,2023-01-05 23:12:00,Thursday,0,UNK_26484,0
+3457.77,Online Store,Limpopo,POS,1,6,Unknown,0,2023-01-05 02:33:00,Thursday,0,UNK_78623,0
+1382.8,Electronics,Western Cape,POS,1,0,iPhone,0,2023-01-09 13:39:00,Monday,0,IPH_69263,0
+5062.72,Groceries,Gauteng,ATM Withdrawal,1,15,iPhone,0,2023-01-02 09:02:00,Monday,0,IPH_28675,0
+1979.79,Groceries,Limpopo,EFT,1,0,Android,0,2023-01-09 15:02:00,Monday,0,AND_70664,0
+189.73,Groceries,Mpumalanga,EFT,0,16,iPhone,0,2023-01-06 03:19:00,Friday,0,IPH_34680,0
+4525.4,Electronics,Eastern Cape,Online,1,5,Windows,0,2023-01-05 02:36:00,Thursday,0,WIN_27077,0
+1256.23,Electronics,Gauteng,EFT,1,1,Windows,0,2023-01-02 18:02:00,Monday,0,WIN_48174,0
+6584.4,Fuel,KwaZulu-Natal,ATM Withdrawal,0,16,iPhone,0,2023-01-08 01:23:00,Sunday,1,IPH_86968,0
+6678.42,Clothing,Western Cape,ATM Withdrawal,0,5,Windows,0,2023-01-10 07:39:00,Tuesday,0,WIN_13491,0
+6405.75,Online Store,Mpumalanga,Online,1,13,Windows,0,2023-01-04 21:21:00,Wednesday,0,WIN_56126,0
+2603.71,Fuel,KwaZulu-Natal,ATM Withdrawal,1,17,Android,0,2023-01-03 13:46:00,Tuesday,0,AND_13392,0
+127.89,Online Store,Eastern Cape,POS,1,5,Windows,0,2023-01-06 17:11:00,Friday,0,WIN_72257,0
+6499.66,Clothing,Gauteng,POS,1,9,Unknown,0,2023-01-09 03:53:00,Monday,0,UNK_77804,0
+3008.73,Electronics,Eastern Cape,ATM Withdrawal,0,23,Unknown,0,2023-01-01 05:00:00,Sunday,1,UNK_48400,0
+6767.25,Clothing,Gauteng,Online,1,17,Android,0,2023-01-07 13:28:00,Saturday,1,AND_46551,0
+6746.07,Electronics,Limpopo,EFT,1,8,iPhone,0,2023-01-07 05:36:00,Saturday,1,IPH_38088,0
+5974.01,Clothing,Western Cape,Online,1,7,Android,0,2023-01-04 10:02:00,Wednesday,0,AND_90015,0
+2075.25,Fuel,Limpopo,EFT,1,9,iPhone,0,2023-01-05 19:08:00,Thursday,0,IPH_35465,0
+2707.98,Restaurants,Limpopo,ATM Withdrawal,1,16,iPhone,0,2023-01-03 17:08:00,Tuesday,0,IPH_58155,0
+5960.93,Fuel,Eastern Cape,ATM Withdrawal,1,22,iPhone,0,2023-01-09 07:56:00,Monday,0,IPH_97893,0
+2232.12,Online Store,Western Cape,POS,1,5,iPhone,0,2023-01-07 18:04:00,Saturday,1,IPH_15969,0
+1203.06,Fuel,Gauteng,EFT,0,13,iPhone,0,2023-01-06 17:17:00,Friday,0,IPH_18981,0
+3906.47,Groceries,Gauteng,Online,1,21,Android,0,2023-01-05 06:40:00,Thursday,0,AND_31032,0
+6554.36,Online Store,Mpumalanga,ATM Withdrawal,1,21,iPhone,0,2023-01-04 05:37:00,Wednesday,0,IPH_64091,0
+4878.29,Clothing,KwaZulu-Natal,Online,1,5,Windows,0,2023-01-09 20:12:00,Monday,0,WIN_34408,0
+3999.03,Online Store,Mpumalanga,POS,0,6,Windows,1,2023-01-05 22:49:00,Thursday,0,WIN_34241,0
+698.29,Restaurants,Mpumalanga,EFT,1,11,iPhone,0,2023-01-06 12:01:00,Friday,0,IPH_57940,0
+4312.75,Electronics,Gauteng,EFT,0,2,Windows,0,2023-01-06 17:29:00,Friday,0,WIN_92938,0
+6930.58,Clothing,Eastern Cape,ATM Withdrawal,1,13,Unknown,0,2023-01-05 23:25:00,Thursday,0,UNK_61105,0
+997.79,Online Store,Limpopo,EFT,1,21,Android,0,2023-01-03 22:20:00,Tuesday,0,AND_71050,0
+3637.94,Clothing,Limpopo,ATM Withdrawal,1,18,Android,0,2023-01-02 11:30:00,Monday,0,AND_13657,0
+6144.06,Clothing,Limpopo,POS,0,22,iPhone,0,2023-01-02 05:58:00,Monday,0,IPH_31230,0
+5190.56,Clothing,Western Cape,EFT,1,15,iPhone,1,2023-01-09 09:47:00,Monday,0,IPH_28680,0
+4885.17,Electronics,Gauteng,ATM Withdrawal,1,6,Unknown,0,2023-01-03 14:54:00,Tuesday,0,UNK_92694,0
+4923.34,Fuel,Eastern Cape,Online,1,7,iPhone,0,2023-01-01 19:04:00,Sunday,1,IPH_94731,0
+2529.25,Clothing,Western Cape,ATM Withdrawal,1,17,Windows,0,2023-01-09 22:38:00,Monday,0,WIN_52340,0
+2069.27,Groceries,KwaZulu-Natal,EFT,1,12,Unknown,0,2023-01-02 21:14:00,Monday,0,UNK_45950,0
+5669.34,Restaurants,Eastern Cape,POS,1,20,Windows,0,2023-01-08 02:28:00,Sunday,1,WIN_88515,0
+5674.59,Electronics,Mpumalanga,EFT,0,8,Android,0,2023-01-04 22:45:00,Wednesday,0,AND_17867,0
+6072.16,Online Store,Eastern Cape,EFT,0,9,Windows,0,2023-01-02 14:21:00,Monday,0,WIN_90691,0
+6394.42,Electronics,Eastern Cape,ATM Withdrawal,1,20,Android,0,2023-01-05 19:49:00,Thursday,0,AND_88542,0
+3589.17,Online Store,Limpopo,Online,1,22,Windows,0,2023-01-01 08:33:00,Sunday,1,WIN_14329,0
+3520.58,Electronics,Eastern Cape,EFT,1,8,Android,0,2023-01-10 16:00:00,Tuesday,0,AND_98087,0
+5592.1,Online Store,Mpumalanga,Online,0,14,iPhone,0,2023-01-06 23:57:00,Friday,0,IPH_45865,0
+4556.75,Clothing,Mpumalanga,ATM Withdrawal,0,19,Windows,1,2023-01-02 18:31:00,Monday,0,WIN_76940,0
+4919.73,Fuel,Gauteng,Online,1,1,Android,0,2023-01-03 21:24:00,Tuesday,0,AND_47869,1
+5574.63,Online Store,Eastern Cape,ATM Withdrawal,0,12,Windows,0,2023-01-06 07:33:00,Friday,0,WIN_76905,0
+6232.24,Online Store,Limpopo,POS,1,1,Unknown,0,2023-01-03 08:40:00,Tuesday,0,UNK_93984,0
+2379.21,Groceries,Eastern Cape,Online,0,18,iPhone,0,2023-01-04 06:54:00,Wednesday,0,IPH_99711,1
+2641.57,Online Store,KwaZulu-Natal,Online,1,1,Android,1,2023-01-07 08:53:00,Saturday,1,AND_76252,0
+675.99,Groceries,KwaZulu-Natal,POS,1,2,Unknown,0,2023-01-10 20:25:00,Tuesday,0,UNK_89386,0
+4056.4,Restaurants,Limpopo,Online,0,5,Windows,0,2023-01-05 20:57:00,Thursday,0,WIN_11711,0
+270.88,Clothing,Gauteng,POS,1,2,Unknown,0,2023-01-09 13:40:00,Monday,0,UNK_35801,0
+3269.87,Groceries,Gauteng,EFT,0,9,Windows,0,2023-01-11 11:19:00,Wednesday,0,WIN_97287,0
+3807.66,Fuel,Mpumalanga,ATM Withdrawal,1,23,iPhone,0,2023-01-03 17:49:00,Tuesday,0,IPH_63270,0
+2020.06,Clothing,Mpumalanga,POS,1,5,Unknown,0,2023-01-10 17:23:00,Tuesday,0,UNK_81622,0
+4144.02,Groceries,Western Cape,Online,1,22,iPhone,0,2023-01-10 04:03:00,Tuesday,0,IPH_65535,0
+232.89,Clothing,Limpopo,POS,1,15,Android,1,2023-01-05 10:37:00,Thursday,0,AND_86759,0
+280.69,Clothing,Eastern Cape,Online,1,16,Windows,0,2023-01-13 00:00:00,Friday,0,WIN_26220,0
+5761.75,Clothing,Limpopo,EFT,0,18,Windows,0,2023-01-04 08:15:00,Wednesday,0,WIN_23392,0
+2534.13,Restaurants,Western Cape,POS,0,2,iPhone,0,2023-01-04 06:17:00,Wednesday,0,IPH_95587,0
+906.88,Fuel,Mpumalanga,EFT,1,17,iPhone,0,2023-01-10 12:09:00,Tuesday,0,IPH_12246,0
+3665.26,Electronics,Limpopo,ATM Withdrawal,1,6,Android,0,2023-01-06 11:00:00,Friday,0,AND_30010,0
+5394.56,Electronics,Limpopo,Online,1,8,Unknown,1,2023-01-05 05:13:00,Thursday,0,UNK_78358,0
+1526.43,Groceries,Mpumalanga,Online,1,19,Windows,0,2023-01-03 09:07:00,Tuesday,0,WIN_27234,0
+4367.78,Clothing,Western Cape,EFT,1,11,Windows,1,2023-01-10 13:14:00,Tuesday,0,WIN_59451,0
+615.73,Groceries,Mpumalanga,ATM Withdrawal,1,4,Android,0,2023-01-10 20:10:00,Tuesday,0,AND_85205,0
+380.74,Restaurants,Gauteng,POS,1,2,Android,0,2023-01-08 04:08:00,Sunday,1,AND_31784,1
+3728.86,Restaurants,Eastern Cape,POS,1,10,iPhone,0,2023-01-13 00:21:00,Friday,0,IPH_39672,0
+3793.63,Online Store,Mpumalanga,Online,1,3,iPhone,0,2023-01-05 03:31:00,Thursday,0,IPH_11082,0
+4469.26,Restaurants,Western Cape,EFT,0,4,Unknown,0,2023-01-03 22:29:00,Tuesday,0,UNK_21148,0
+5088.12,Online Store,KwaZulu-Natal,EFT,0,0,Android,0,2023-01-09 15:35:00,Monday,0,AND_37494,0
+6831.45,Fuel,Gauteng,POS,0,17,Unknown,0,2023-01-10 16:32:00,Tuesday,0,UNK_85093,0
+3623.78,Groceries,KwaZulu-Natal,ATM Withdrawal,0,11,Android,0,2023-01-04 00:46:00,Wednesday,0,AND_61952,0
+2274.24,Fuel,Mpumalanga,ATM Withdrawal,0,12,Windows,1,2023-01-02 04:14:00,Monday,0,WIN_46719,0
+5570.4,Restaurants,Gauteng,POS,1,8,Android,0,2023-01-11 10:36:00,Wednesday,0,AND_58737,0
+1910.41,Fuel,Eastern Cape,POS,1,1,Android,0,2023-01-13 13:51:00,Friday,0,AND_69453,0
+3084.02,Fuel,Mpumalanga,EFT,1,4,Windows,0,2023-01-09 09:41:00,Monday,0,WIN_49536,0
+567.63,Fuel,Eastern Cape,ATM Withdrawal,1,12,Android,0,2023-01-04 18:09:00,Wednesday,0,AND_60604,0
+196.95,Restaurants,Limpopo,POS,0,15,Unknown,0,2023-01-13 22:58:00,Friday,0,UNK_60833,0
+6739.29,Clothing,KwaZulu-Natal,POS,0,15,iPhone,1,2023-01-12 16:08:00,Thursday,0,IPH_24039,0
+5855.14,Fuel,Gauteng,Online,0,23,iPhone,0,2023-01-07 19:44:00,Saturday,1,IPH_77839,0
+4877.9,Online Store,Eastern Cape,POS,1,2,Unknown,0,2023-01-11 20:53:00,Wednesday,0,UNK_57931,0
+2874.49,Restaurants,Western Cape,POS,0,21,Windows,0,2023-01-11 18:46:00,Wednesday,0,WIN_49925,0
+1229.59,Fuel,Eastern Cape,ATM Withdrawal,0,3,Android,0,2023-01-13 08:40:00,Friday,0,AND_61003,0
+1111.93,Clothing,Western Cape,EFT,1,10,Unknown,0,2023-01-12 04:15:00,Thursday,0,UNK_93817,0
+1766.7,Restaurants,Mpumalanga,ATM Withdrawal,1,22,iPhone,0,2023-01-09 15:13:00,Monday,0,IPH_58897,0
+3853.6,Electronics,Gauteng,EFT,0,13,iPhone,0,2023-01-09 05:03:00,Monday,0,IPH_97745,0
+5007.88,Clothing,Eastern Cape,Online,1,2,Unknown,0,2023-01-07 08:52:00,Saturday,1,UNK_52287,0
+4628.18,Online Store,Eastern Cape,POS,1,15,iPhone,0,2023-01-09 11:43:00,Monday,0,IPH_43012,0
+1973.94,Fuel,Gauteng,Online,1,21,Unknown,0,2023-01-11 17:57:00,Wednesday,0,UNK_51783,0
+6684.96,Electronics,Eastern Cape,EFT,1,14,iPhone,0,2023-01-14 02:08:00,Saturday,1,IPH_95727,0
+5170.52,Electronics,Western Cape,ATM Withdrawal,0,9,Unknown,1,2023-01-07 10:45:00,Saturday,1,UNK_78315,0
+3889.39,Restaurants,Eastern Cape,ATM Withdrawal,0,8,Android,0,2023-01-08 21:19:00,Sunday,1,AND_93766,0
+4289.81,Electronics,KwaZulu-Natal,Online,1,10,Android,1,2023-01-07 04:28:00,Saturday,1,AND_56491,0
+2948.81,Online Store,Mpumalanga,EFT,1,15,Android,0,2023-01-10 05:04:00,Tuesday,0,AND_98941,0
+1749.16,Online Store,Limpopo,Online,1,9,Android,0,2023-01-09 17:16:00,Monday,0,AND_68584,0
+2504.69,Groceries,Western Cape,Online,1,16,iPhone,0,2023-01-01 11:17:00,Sunday,1,IPH_22803,0
+5309.77,Online Store,KwaZulu-Natal,POS,1,18,Windows,0,2023-01-08 13:39:00,Sunday,1,WIN_59625,0
+120.47,Clothing,Mpumalanga,Online,1,1,Unknown,0,2023-01-02 10:25:00,Monday,0,UNK_23698,1
+830.19,Electronics,Gauteng,POS,1,23,Windows,0,2023-01-01 14:11:00,Sunday,1,WIN_44560,0
+341.1,Online Store,Western Cape,POS,1,22,iPhone,0,2023-01-12 01:25:00,Thursday,0,IPH_25376,0
+304.29,Restaurants,Limpopo,ATM Withdrawal,0,1,iPhone,0,2023-01-04 18:47:00,Wednesday,0,IPH_93654,0
+5991.11,Groceries,Mpumalanga,POS,1,5,Windows,0,2023-01-05 22:09:00,Thursday,0,WIN_23117,0
+4931.53,Electronics,Limpopo,POS,0,18,Windows,0,2023-01-02 02:51:00,Monday,0,WIN_66381,0
+3329.73,Groceries,Gauteng,ATM Withdrawal,0,7,iPhone,0,2023-01-03 17:17:00,Tuesday,0,IPH_47956,0
+702.88,Electronics,Gauteng,Online,1,2,iPhone,1,2023-01-11 20:51:00,Wednesday,0,IPH_58786,0
+3451.48,Restaurants,Western Cape,EFT,0,13,Unknown,0,2023-01-08 02:40:00,Sunday,1,UNK_97778,0
+3324.83,Groceries,Eastern Cape,EFT,0,15,Android,0,2023-01-13 12:59:00,Friday,0,AND_76480,0
+1228.95,Fuel,Gauteng,EFT,0,0,Android,0,2023-01-06 19:17:00,Friday,0,AND_41695,0
+3048.28,Clothing,Mpumalanga,Online,1,20,Unknown,0,2023-01-05 00:20:00,Thursday,0,UNK_11511,0
+2801.56,Clothing,Eastern Cape,POS,1,2,Windows,0,2023-01-06 03:18:00,Friday,0,WIN_63233,0
+4318.63,Electronics,KwaZulu-Natal,EFT,1,21,iPhone,0,2023-01-11 07:33:00,Wednesday,0,IPH_32502,0
+4452.95,Fuel,Limpopo,Online,0,17,Windows,0,2023-01-09 02:35:00,Monday,0,WIN_60010,0
+336.22,Groceries,Eastern Cape,POS,1,8,Android,0,2023-01-14 02:18:00,Saturday,1,AND_83905,0
+2634.8,Fuel,Limpopo,ATM Withdrawal,1,5,Android,0,2023-01-09 19:51:00,Monday,0,AND_56489,0
+4388.5,Fuel,Eastern Cape,EFT,0,22,Windows,0,2023-01-08 07:00:00,Sunday,1,WIN_93533,0
+3531.89,Groceries,KwaZulu-Natal,POS,1,20,Android,0,2023-01-12 12:15:00,Thursday,0,AND_91165,0
+5998.3,Restaurants,Gauteng,EFT,0,0,iPhone,0,2023-01-14 20:53:00,Saturday,1,IPH_41949,0
+4617.68,Fuel,KwaZulu-Natal,EFT,1,20,Unknown,0,2023-01-06 09:02:00,Friday,0,UNK_78376,0
+1157.28,Fuel,Gauteng,EFT,1,9,Windows,0,2023-01-04 20:37:00,Wednesday,0,WIN_89587,0
+512.57,Restaurants,Gauteng,POS,1,5,iPhone,1,2023-01-10 04:24:00,Tuesday,0,IPH_77310,0
+4504.09,Fuel,Limpopo,Online,0,22,iPhone,0,2023-01-08 12:03:00,Sunday,1,IPH_88798,0
+205.05,Fuel,Mpumalanga,POS,1,11,Android,0,2023-01-15 16:12:00,Sunday,1,AND_79407,0
+4108.71,Fuel,KwaZulu-Natal,EFT,1,3,iPhone,0,2023-01-08 00:15:00,Sunday,1,IPH_83809,0
+6582.81,Clothing,Eastern Cape,POS,1,12,Windows,0,2023-01-02 08:08:00,Monday,0,WIN_27229,0
+4036.81,Online Store,KwaZulu-Natal,ATM Withdrawal,1,16,iPhone,1,2023-01-15 15:00:00,Sunday,1,IPH_37385,0
+2729.43,Restaurants,Limpopo,Online,1,7,Unknown,0,2023-01-13 16:37:00,Friday,0,UNK_52176,0
+4510.15,Fuel,Gauteng,POS,0,19,iPhone,0,2023-01-03 21:17:00,Tuesday,0,IPH_13260,0
+3218.61,Clothing,Limpopo,ATM Withdrawal,1,2,iPhone,0,2023-01-14 16:02:00,Saturday,1,IPH_13145,0
+3828.41,Restaurants,Western Cape,Online,1,11,Unknown,0,2023-01-06 07:39:00,Friday,0,UNK_17802,0
+6591.42,Electronics,Western Cape,ATM Withdrawal,1,6,iPhone,0,2023-01-06 21:02:00,Friday,0,IPH_12263,0
+2715.0,Electronics,Eastern Cape,Online,0,11,iPhone,0,2023-01-14 19:24:00,Saturday,1,IPH_36913,0
+6729.11,Fuel,Limpopo,POS,1,1,Android,0,2023-01-09 04:53:00,Monday,0,AND_67788,0
+6339.35,Clothing,Eastern Cape,ATM Withdrawal,0,23,Windows,0,2023-01-03 07:49:00,Tuesday,0,WIN_18155,0
+1386.62,Clothing,Eastern Cape,EFT,1,13,Android,0,2023-01-06 19:40:00,Friday,0,AND_10922,0
+504.14,Restaurants,Western Cape,ATM Withdrawal,1,21,Windows,0,2023-01-12 04:09:00,Thursday,0,WIN_82231,0
+723.43,Restaurants,Eastern Cape,Online,1,22,Unknown,0,2023-01-03 21:32:00,Tuesday,0,UNK_30672,0
+147.19,Clothing,Western Cape,POS,0,4,Unknown,0,2023-01-10 05:30:00,Tuesday,0,UNK_48526,0
+679.21,Restaurants,Gauteng,Online,1,8,Unknown,0,2023-01-11 20:31:00,Wednesday,0,UNK_55344,0
+4787.39,Clothing,Limpopo,ATM Withdrawal,0,20,Windows,0,2023-01-06 12:20:00,Friday,0,WIN_29014,0
+516.9,Online Store,Eastern Cape,ATM Withdrawal,0,10,Windows,0,2023-01-11 21:25:00,Wednesday,0,WIN_83352,0
+2246.45,Clothing,Western Cape,EFT,1,4,Windows,0,2023-01-14 20:18:00,Saturday,1,WIN_50324,0
+5917.23,Electronics,KwaZulu-Natal,POS,1,2,Unknown,0,2023-01-08 12:49:00,Sunday,1,UNK_48698,0
+182.44,Restaurants,Eastern Cape,POS,1,16,Windows,0,2023-01-07 04:14:00,Saturday,1,WIN_87169,0
+5704.99,Clothing,Mpumalanga,ATM Withdrawal,1,1,iPhone,0,2023-01-05 03:39:00,Thursday,0,IPH_33384,0
+1987.35,Clothing,Gauteng,POS,1,23,Android,0,2023-01-10 15:29:00,Tuesday,0,AND_13512,0
+844.79,Restaurants,Gauteng,EFT,1,0,Unknown,0,2023-01-14 23:06:00,Saturday,1,UNK_16066,0
+4883.23,Online Store,KwaZulu-Natal,Online,0,6,Android,0,2023-01-06 07:59:00,Friday,0,AND_41500,0
+4410.02,Online Store,Western Cape,POS,1,13,iPhone,0,2023-01-07 11:12:00,Saturday,1,IPH_88743,0
+6144.75,Restaurants,Eastern Cape,ATM Withdrawal,1,4,Windows,0,2023-01-07 15:31:00,Saturday,1,WIN_95642,0
+5150.8,Groceries,Western Cape,Online,0,18,Android,0,2023-01-10 02:09:00,Tuesday,0,AND_89858,0
+5628.3,Restaurants,Gauteng,Online,0,10,iPhone,0,2023-01-04 20:53:00,Wednesday,0,IPH_64800,0
+1988.6,Restaurants,Western Cape,EFT,1,22,iPhone,0,2023-01-14 06:31:00,Saturday,1,IPH_73140,0
+1258.53,Online Store,Gauteng,ATM Withdrawal,0,1,Android,0,2023-01-05 22:56:00,Thursday,0,AND_94954,0
+5259.29,Online Store,Western Cape,POS,0,7,Unknown,0,2023-01-12 11:35:00,Thursday,0,UNK_12387,0
+5651.71,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,8,Android,0,2023-01-09 10:47:00,Monday,0,AND_66160,0
+6933.73,Restaurants,Limpopo,Online,1,2,Unknown,0,2023-01-10 15:11:00,Tuesday,0,UNK_69241,0
+2900.07,Restaurants,KwaZulu-Natal,ATM Withdrawal,1,1,Windows,0,2023-01-04 03:34:00,Wednesday,0,WIN_83567,0
+2616.69,Online Store,KwaZulu-Natal,POS,0,6,Unknown,0,2023-01-13 01:51:00,Friday,0,UNK_11799,0
+5439.36,Restaurants,Limpopo,POS,1,4,Windows,0,2023-01-04 07:26:00,Wednesday,0,WIN_45548,0
+2398.81,Restaurants,Limpopo,EFT,1,20,Android,0,2023-01-03 02:31:00,Tuesday,0,AND_43895,0
+6516.69,Fuel,Eastern Cape,POS,1,4,Windows,0,2023-01-10 02:55:00,Tuesday,0,WIN_90171,0
+6011.72,Groceries,Eastern Cape,POS,0,19,iPhone,0,2023-01-12 18:48:00,Thursday,0,IPH_50379,0
+3014.38,Electronics,KwaZulu-Natal,ATM Withdrawal,1,12,Windows,0,2023-01-02 02:08:00,Monday,0,WIN_55414,0
+5261.08,Groceries,KwaZulu-Natal,ATM Withdrawal,1,20,Unknown,0,2023-01-02 09:47:00,Monday,0,UNK_83071,0
+5286.71,Fuel,Gauteng,Online,1,19,Unknown,0,2023-01-14 09:34:00,Saturday,1,UNK_78344,0
+739.8,Electronics,Gauteng,EFT,0,5,Unknown,0,2023-01-14 12:53:00,Saturday,1,UNK_88591,0
+6319.82,Restaurants,Eastern Cape,ATM Withdrawal,1,19,Windows,1,2023-01-05 07:24:00,Thursday,0,WIN_14297,0
+3546.66,Fuel,Mpumalanga,POS,1,17,Unknown,0,2023-01-11 09:53:00,Wednesday,0,UNK_96479,0
+5788.67,Restaurants,Mpumalanga,Online,1,1,Unknown,0,2023-01-08 14:20:00,Sunday,1,UNK_15008,0
+2253.95,Online Store,Eastern Cape,ATM Withdrawal,0,5,iPhone,0,2023-01-11 18:04:00,Wednesday,0,IPH_96813,0
+6270.75,Clothing,Gauteng,EFT,0,8,Windows,0,2023-01-15 14:23:00,Sunday,1,WIN_26820,0
+2736.63,Fuel,Gauteng,EFT,1,2,iPhone,0,2023-01-02 14:38:00,Monday,0,IPH_81548,0
+95.65,Online Store,Mpumalanga,Online,1,0,Unknown,0,2023-01-14 06:08:00,Saturday,1,UNK_32253,0
+6339.57,Fuel,Western Cape,Online,0,0,Unknown,0,2023-01-09 12:36:00,Monday,0,UNK_39202,0
+657.18,Fuel,Western Cape,Online,1,18,Unknown,0,2023-01-10 17:41:00,Tuesday,0,UNK_39236,0
+2248.81,Online Store,Gauteng,Online,0,4,Windows,0,2023-01-12 06:28:00,Thursday,0,WIN_77156,0
+6651.43,Electronics,Western Cape,Online,1,12,Android,0,2023-01-16 19:43:00,Monday,0,AND_70263,0
+6655.24,Groceries,Limpopo,POS,1,18,Unknown,0,2023-01-02 05:50:00,Monday,0,UNK_84855,0
+4022.6,Restaurants,Eastern Cape,POS,1,11,Unknown,0,2023-01-01 18:51:00,Sunday,1,UNK_26575,0
+4430.22,Fuel,Eastern Cape,ATM Withdrawal,1,15,Unknown,0,2023-01-04 07:28:00,Wednesday,0,UNK_22204,0
+3150.15,Restaurants,Gauteng,EFT,0,18,Unknown,0,2023-01-18 01:28:00,Wednesday,0,UNK_21952,0
+2066.61,Clothing,KwaZulu-Natal,POS,1,2,Windows,0,2023-01-13 11:26:00,Friday,0,WIN_93323,0
+2314.08,Online Store,Mpumalanga,POS,0,11,Android,0,2023-01-11 18:59:00,Wednesday,0,AND_61142,0
+4714.18,Restaurants,Gauteng,POS,1,4,Android,0,2023-01-02 02:18:00,Monday,0,AND_43872,0
+5271.57,Online Store,Western Cape,ATM Withdrawal,1,1,Android,0,2023-01-16 09:11:00,Monday,0,AND_39376,0
+5545.22,Restaurants,Mpumalanga,Online,1,21,Unknown,0,2023-01-15 06:40:00,Sunday,1,UNK_76084,0
+5531.53,Groceries,KwaZulu-Natal,ATM Withdrawal,0,6,Unknown,1,2023-01-12 18:13:00,Thursday,0,UNK_21640,0
+656.62,Groceries,Western Cape,EFT,1,12,Android,0,2023-01-07 03:45:00,Saturday,1,AND_36437,0
+3471.05,Groceries,Limpopo,EFT,0,14,Android,0,2023-01-02 12:22:00,Monday,0,AND_97681,0
+421.76,Groceries,Western Cape,EFT,0,21,Unknown,0,2023-01-11 08:54:00,Wednesday,0,UNK_17903,0
+3855.71,Groceries,Limpopo,EFT,1,2,Unknown,0,2023-01-13 19:51:00,Friday,0,UNK_93704,0
+3101.88,Groceries,Mpumalanga,POS,1,20,iPhone,0,2023-01-02 22:34:00,Monday,0,IPH_36863,0
+6216.18,Online Store,Limpopo,POS,1,19,iPhone,0,2023-01-12 09:13:00,Thursday,0,IPH_53381,0
+2469.39,Fuel,Mpumalanga,ATM Withdrawal,1,4,iPhone,0,2023-01-06 07:39:00,Friday,0,IPH_38548,0
+837.13,Restaurants,Mpumalanga,Online,0,23,Android,0,2023-01-14 17:32:00,Saturday,1,AND_59956,0
+1018.08,Groceries,Mpumalanga,EFT,1,7,Windows,1,2023-01-10 19:20:00,Tuesday,0,WIN_84526,0
+5335.34,Online Store,Mpumalanga,ATM Withdrawal,1,21,Unknown,0,2023-01-03 13:52:00,Tuesday,0,UNK_21467,0
+4335.16,Online Store,Mpumalanga,POS,0,0,iPhone,0,2023-01-10 14:51:00,Tuesday,0,IPH_67954,0
+725.84,Online Store,Western Cape,POS,1,7,Windows,0,2023-01-08 07:42:00,Sunday,1,WIN_33901,0
+607.07,Fuel,Mpumalanga,Online,1,23,Unknown,0,2023-01-04 12:12:00,Wednesday,0,UNK_65983,0
+4912.76,Restaurants,Western Cape,Online,1,17,Windows,0,2023-01-16 07:12:00,Monday,0,WIN_33301,0
+527.89,Fuel,Mpumalanga,Online,1,19,Android,0,2023-01-01 11:59:00,Sunday,1,AND_95180,0
+5756.58,Electronics,Limpopo,ATM Withdrawal,1,15,Android,0,2023-01-06 21:24:00,Friday,0,AND_79903,0
+4949.57,Online Store,Mpumalanga,POS,1,17,Android,0,2023-01-01 12:43:00,Sunday,1,AND_26204,0
+587.81,Electronics,KwaZulu-Natal,POS,1,19,iPhone,0,2023-01-03 00:45:00,Tuesday,0,IPH_29755,0
+612.17,Clothing,Mpumalanga,Online,0,11,Unknown,0,2023-01-06 15:52:00,Friday,0,UNK_69817,0
+6906.74,Groceries,Mpumalanga,EFT,1,12,Android,0,2023-01-02 06:53:00,Monday,0,AND_12093,0
+2632.41,Groceries,Limpopo,Online,1,12,iPhone,0,2023-01-12 02:40:00,Thursday,0,IPH_79537,1
+2607.08,Fuel,Eastern Cape,ATM Withdrawal,1,9,iPhone,0,2023-01-02 21:13:00,Monday,0,IPH_32940,0
+5693.34,Restaurants,Limpopo,Online,1,6,iPhone,0,2023-01-14 01:46:00,Saturday,1,IPH_83346,0
+6631.8,Electronics,KwaZulu-Natal,Online,1,13,iPhone,0,2023-01-02 06:27:00,Monday,0,IPH_54040,0
+6902.29,Restaurants,Eastern Cape,ATM Withdrawal,1,23,Android,0,2023-01-02 09:26:00,Monday,0,AND_47322,0
+5278.58,Fuel,Gauteng,Online,0,15,iPhone,0,2023-01-06 21:39:00,Friday,0,IPH_94437,0
+2646.29,Groceries,Gauteng,POS,1,14,Android,0,2023-01-17 18:26:00,Tuesday,0,AND_97725,0
+602.84,Restaurants,KwaZulu-Natal,EFT,1,11,Android,0,2023-01-13 02:40:00,Friday,0,AND_19236,0
+5444.49,Restaurants,Limpopo,Online,0,8,iPhone,0,2023-01-15 12:16:00,Sunday,1,IPH_82597,0
+3917.66,Groceries,Western Cape,ATM Withdrawal,1,7,Android,0,2023-01-03 22:17:00,Tuesday,0,AND_94124,0
+2981.07,Electronics,KwaZulu-Natal,EFT,1,17,Unknown,0,2023-01-16 18:16:00,Monday,0,UNK_13902,0
+6346.35,Groceries,Eastern Cape,ATM Withdrawal,1,22,Unknown,0,2023-01-01 11:10:00,Sunday,1,UNK_44364,0
+796.16,Restaurants,Eastern Cape,EFT,0,17,Windows,0,2023-01-05 06:40:00,Thursday,0,WIN_30096,0
+3458.52,Electronics,Mpumalanga,EFT,0,12,Unknown,1,2023-01-12 19:13:00,Thursday,0,UNK_22020,0
+99.25,Electronics,Gauteng,Online,1,17,Android,0,2023-01-08 07:51:00,Sunday,1,AND_68473,0
+3291.25,Groceries,Eastern Cape,POS,0,14,Android,0,2023-01-19 17:53:00,Thursday,0,AND_54153,0
+413.0,Restaurants,KwaZulu-Natal,Online,1,3,Unknown,0,2023-01-01 21:17:00,Sunday,1,UNK_51277,0
+849.35,Fuel,Eastern Cape,ATM Withdrawal,1,16,iPhone,0,2023-01-20 02:22:00,Friday,0,IPH_97221,0
+840.33,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,4,iPhone,0,2023-01-13 01:45:00,Friday,0,IPH_48502,0
+4551.49,Online Store,Western Cape,EFT,0,21,Android,0,2023-01-11 20:57:00,Wednesday,0,AND_25675,0
+5227.39,Clothing,Mpumalanga,EFT,1,15,iPhone,0,2023-01-02 10:44:00,Monday,0,IPH_34365,0
+4091.91,Fuel,Gauteng,POS,1,8,Windows,0,2023-01-06 12:09:00,Friday,0,WIN_97812,0
+6735.96,Electronics,Eastern Cape,Online,1,9,Windows,0,2023-01-18 21:37:00,Wednesday,0,WIN_88229,0
+2636.6,Fuel,KwaZulu-Natal,ATM Withdrawal,1,23,Unknown,0,2023-01-08 01:43:00,Sunday,1,UNK_99049,0
+2014.27,Electronics,Limpopo,EFT,0,17,Unknown,1,2023-01-13 22:57:00,Friday,0,UNK_62148,0
+6082.82,Electronics,Gauteng,POS,1,16,iPhone,0,2023-01-20 10:46:00,Friday,0,IPH_99157,0
+1580.7,Fuel,Western Cape,ATM Withdrawal,1,17,Android,0,2023-01-06 08:51:00,Friday,0,AND_99247,0
+6743.29,Electronics,KwaZulu-Natal,EFT,1,6,Unknown,0,2023-01-12 09:29:00,Thursday,0,UNK_78078,0
+104.84,Electronics,Mpumalanga,ATM Withdrawal,1,3,Windows,0,2023-01-14 17:42:00,Saturday,1,WIN_92598,0
+6789.75,Online Store,Mpumalanga,POS,1,4,Unknown,1,2023-01-04 12:05:00,Wednesday,0,UNK_80902,0
+321.26,Restaurants,Western Cape,POS,0,22,Unknown,0,2023-01-04 04:52:00,Wednesday,0,UNK_36465,0
+6240.18,Restaurants,Western Cape,ATM Withdrawal,1,15,Windows,0,2023-01-10 04:07:00,Tuesday,0,WIN_42286,0
+3703.35,Clothing,Mpumalanga,Online,0,2,Android,0,2023-01-08 19:43:00,Sunday,1,AND_64795,0
+6950.89,Clothing,Eastern Cape,ATM Withdrawal,0,17,Unknown,0,2023-01-15 05:30:00,Sunday,1,UNK_50178,0
+535.1,Online Store,Eastern Cape,EFT,1,22,Unknown,0,2023-01-02 16:28:00,Monday,0,UNK_89183,0
+3885.9,Clothing,KwaZulu-Natal,Online,1,20,Unknown,0,2023-01-20 07:56:00,Friday,0,UNK_59986,0
+6785.73,Fuel,Limpopo,EFT,1,13,iPhone,0,2023-01-01 14:40:00,Sunday,1,IPH_53201,0
+3671.22,Groceries,KwaZulu-Natal,ATM Withdrawal,1,14,Unknown,1,2023-01-13 03:12:00,Friday,0,UNK_53315,0
+4413.2,Groceries,Limpopo,Online,1,16,Windows,1,2023-01-12 09:33:00,Thursday,0,WIN_85396,0
+4876.33,Groceries,Western Cape,EFT,0,0,Android,0,2023-01-03 23:44:00,Tuesday,0,AND_65178,0
+3192.7,Online Store,Gauteng,ATM Withdrawal,1,20,Android,0,2023-01-04 07:33:00,Wednesday,0,AND_20745,0
+4400.36,Online Store,KwaZulu-Natal,ATM Withdrawal,1,16,Windows,0,2023-01-17 00:31:00,Tuesday,0,WIN_82354,0
+4098.51,Electronics,KwaZulu-Natal,Online,1,22,iPhone,0,2023-01-18 22:29:00,Wednesday,0,IPH_89637,0
+6310.08,Groceries,Limpopo,ATM Withdrawal,1,10,Windows,0,2023-01-06 23:03:00,Friday,0,WIN_15028,0
+337.22,Fuel,Western Cape,POS,0,16,Android,0,2023-01-10 01:24:00,Tuesday,0,AND_58566,0
+1981.12,Clothing,Western Cape,EFT,1,13,Windows,0,2023-01-08 10:07:00,Sunday,1,WIN_53722,0
+6653.87,Fuel,Limpopo,EFT,1,19,iPhone,0,2023-01-02 18:56:00,Monday,0,IPH_96623,0
+6234.04,Clothing,Western Cape,ATM Withdrawal,0,18,Android,0,2023-01-14 19:51:00,Saturday,1,AND_84974,0
+3200.48,Groceries,Mpumalanga,ATM Withdrawal,1,20,iPhone,0,2023-01-17 21:46:00,Tuesday,0,IPH_93692,0
+4348.53,Groceries,Eastern Cape,POS,1,6,Windows,1,2023-01-07 11:23:00,Saturday,1,WIN_94084,1
+1956.12,Groceries,Mpumalanga,Online,1,23,Unknown,0,2023-01-21 07:14:00,Saturday,1,UNK_49879,0
+1333.09,Online Store,Gauteng,ATM Withdrawal,1,12,Windows,0,2023-01-02 20:59:00,Monday,0,WIN_34767,0
+3256.61,Clothing,KwaZulu-Natal,ATM Withdrawal,0,17,iPhone,0,2023-01-14 17:42:00,Saturday,1,IPH_78099,0
+2486.4,Online Store,Gauteng,ATM Withdrawal,0,22,Windows,0,2023-01-10 10:25:00,Tuesday,0,WIN_58657,0
+4093.92,Online Store,KwaZulu-Natal,ATM Withdrawal,0,13,Unknown,1,2023-01-10 10:05:00,Tuesday,0,UNK_18498,0
+562.59,Restaurants,Eastern Cape,EFT,1,0,iPhone,0,2023-01-10 15:56:00,Tuesday,0,IPH_83667,0
+6821.28,Fuel,Western Cape,ATM Withdrawal,0,6,Windows,0,2023-01-06 14:58:00,Friday,0,WIN_35107,0
+6903.75,Fuel,Mpumalanga,EFT,0,7,iPhone,0,2023-01-15 23:25:00,Sunday,1,IPH_38793,0
+4893.17,Electronics,Limpopo,ATM Withdrawal,1,17,iPhone,0,2023-01-16 03:06:00,Monday,0,IPH_12696,0
+3761.95,Online Store,Mpumalanga,Online,1,8,Android,0,2023-01-07 03:28:00,Saturday,1,AND_63839,0
+2180.5,Clothing,Eastern Cape,POS,1,0,Android,1,2023-01-18 12:42:00,Wednesday,0,AND_99241,0
+5700.29,Restaurants,Gauteng,Online,0,21,iPhone,0,2023-01-07 21:06:00,Saturday,1,IPH_33397,0
+4799.42,Restaurants,Limpopo,ATM Withdrawal,0,16,Windows,0,2023-01-16 07:45:00,Monday,0,WIN_17704,0
+1155.07,Fuel,Western Cape,ATM Withdrawal,0,18,Windows,0,2023-01-03 20:30:00,Tuesday,0,WIN_26442,0
+6378.27,Online Store,Eastern Cape,ATM Withdrawal,1,5,Windows,0,2023-01-04 20:22:00,Wednesday,0,WIN_73788,0
+5761.31,Electronics,Limpopo,Online,1,2,Unknown,0,2023-01-07 21:53:00,Saturday,1,UNK_19765,0
+6649.6,Online Store,Eastern Cape,ATM Withdrawal,1,23,iPhone,0,2023-01-13 17:07:00,Friday,0,IPH_20002,0
+5085.52,Groceries,Eastern Cape,Online,0,4,iPhone,0,2023-01-14 19:34:00,Saturday,1,IPH_21390,0
+4301.64,Online Store,Western Cape,EFT,1,1,Unknown,0,2023-01-09 15:16:00,Monday,0,UNK_54436,0
+2939.34,Groceries,KwaZulu-Natal,POS,0,19,iPhone,0,2023-01-02 23:37:00,Monday,0,IPH_94482,0
+6530.44,Groceries,Limpopo,POS,1,3,iPhone,0,2023-01-09 04:38:00,Monday,0,IPH_16641,0
+6065.13,Electronics,Western Cape,Online,1,9,Unknown,0,2023-01-15 19:59:00,Sunday,1,UNK_43709,0
+335.63,Clothing,Eastern Cape,EFT,1,9,Android,0,2023-01-15 11:42:00,Sunday,1,AND_49309,0
+204.04,Fuel,Western Cape,Online,0,23,iPhone,0,2023-01-04 17:42:00,Wednesday,0,IPH_25624,0
+2647.71,Online Store,KwaZulu-Natal,EFT,0,20,Unknown,0,2023-01-01 12:32:00,Sunday,1,UNK_19966,0
+5677.66,Groceries,Mpumalanga,ATM Withdrawal,1,10,Windows,0,2023-01-17 07:25:00,Tuesday,0,WIN_99350,0
+6911.19,Online Store,Limpopo,EFT,0,15,Android,0,2023-01-03 14:48:00,Tuesday,0,AND_44189,0
+1069.91,Clothing,KwaZulu-Natal,EFT,0,16,Windows,0,2023-01-03 02:40:00,Tuesday,0,WIN_81301,0
+4167.03,Fuel,Gauteng,EFT,0,15,iPhone,0,2023-01-01 10:02:00,Sunday,1,IPH_27223,1
+2678.62,Clothing,Limpopo,POS,0,6,Android,0,2023-01-10 14:18:00,Tuesday,0,AND_88183,0
+6790.0,Fuel,KwaZulu-Natal,EFT,1,15,Unknown,0,2023-01-12 03:01:00,Thursday,0,UNK_14959,0
+5897.99,Restaurants,Eastern Cape,ATM Withdrawal,1,2,iPhone,0,2023-01-15 00:39:00,Sunday,1,IPH_37257,0
+5871.53,Fuel,Limpopo,ATM Withdrawal,0,15,Unknown,0,2023-01-07 17:17:00,Saturday,1,UNK_60802,0
+3291.48,Electronics,Limpopo,ATM Withdrawal,1,7,Android,0,2023-01-16 15:30:00,Monday,0,AND_97748,0
+2915.44,Clothing,Western Cape,EFT,1,11,Windows,0,2023-01-05 00:21:00,Thursday,0,WIN_37215,0
+1928.38,Groceries,Eastern Cape,Online,1,2,iPhone,0,2023-01-19 07:56:00,Thursday,0,IPH_65046,0
+413.5,Restaurants,Gauteng,Online,1,16,iPhone,1,2023-01-13 17:42:00,Friday,0,IPH_44094,0
+6055.76,Electronics,Mpumalanga,ATM Withdrawal,1,20,Unknown,0,2023-01-14 00:32:00,Saturday,1,UNK_48669,0
+5694.05,Online Store,KwaZulu-Natal,POS,0,17,Android,0,2023-01-05 22:09:00,Thursday,0,AND_46126,0
+6998.03,Clothing,Western Cape,Online,1,10,Unknown,0,2023-01-02 23:32:00,Monday,0,UNK_89036,0
+6976.53,Groceries,KwaZulu-Natal,EFT,1,3,Android,0,2023-01-11 11:58:00,Wednesday,0,AND_26772,0
+3896.91,Fuel,Gauteng,Online,1,15,iPhone,0,2023-01-14 19:32:00,Saturday,1,IPH_58586,0
+5387.53,Groceries,Gauteng,ATM Withdrawal,1,16,Android,0,2023-01-03 10:48:00,Tuesday,0,AND_61943,0
+6614.46,Online Store,Limpopo,POS,1,8,iPhone,0,2023-01-22 04:58:00,Sunday,1,IPH_78868,0
+5950.54,Restaurants,Gauteng,Online,1,5,Android,1,2023-01-22 21:40:00,Sunday,1,AND_59855,0
+1746.49,Restaurants,KwaZulu-Natal,Online,0,23,Windows,0,2023-01-13 08:58:00,Friday,0,WIN_32218,0
+3164.8,Clothing,Eastern Cape,ATM Withdrawal,1,19,Android,0,2023-01-22 07:35:00,Sunday,1,AND_91008,0
+921.53,Restaurants,Eastern Cape,POS,1,1,Windows,0,2023-01-05 08:05:00,Thursday,0,WIN_67205,0
+6679.28,Clothing,Limpopo,POS,1,8,Android,0,2023-01-01 22:29:00,Sunday,1,AND_14959,0
+4251.1,Clothing,Mpumalanga,ATM Withdrawal,0,20,Android,0,2023-01-02 05:58:00,Monday,0,AND_92979,0
+1615.93,Clothing,KwaZulu-Natal,EFT,1,5,Unknown,0,2023-01-14 10:09:00,Saturday,1,UNK_55134,0
+4708.47,Fuel,KwaZulu-Natal,Online,0,2,Unknown,0,2023-01-02 17:57:00,Monday,0,UNK_35874,0
+4334.54,Electronics,Gauteng,EFT,0,19,iPhone,0,2023-01-22 17:49:00,Sunday,1,IPH_11301,0
+2519.98,Clothing,KwaZulu-Natal,Online,1,5,Unknown,0,2023-01-04 13:08:00,Wednesday,0,UNK_68017,0
+812.63,Clothing,Western Cape,Online,0,6,Android,0,2023-01-08 04:42:00,Sunday,1,AND_53319,0
+4707.58,Electronics,Mpumalanga,EFT,1,0,Unknown,0,2023-01-19 19:32:00,Thursday,0,UNK_99616,0
+3651.75,Groceries,Gauteng,ATM Withdrawal,0,22,Android,0,2023-01-06 07:00:00,Friday,0,AND_96219,0
+5410.78,Clothing,Western Cape,ATM Withdrawal,1,0,Windows,0,2023-01-06 20:18:00,Friday,0,WIN_32455,0
+3650.74,Fuel,Limpopo,Online,0,4,Android,0,2023-01-15 20:32:00,Sunday,1,AND_14112,0
+5968.23,Restaurants,Eastern Cape,ATM Withdrawal,0,5,iPhone,0,2023-01-07 14:46:00,Saturday,1,IPH_67033,0
+3872.31,Restaurants,Limpopo,Online,0,12,Windows,0,2023-01-06 07:13:00,Friday,0,WIN_68360,1
+3935.35,Online Store,Eastern Cape,ATM Withdrawal,0,1,iPhone,0,2023-01-07 03:26:00,Saturday,1,IPH_92418,0
+6139.04,Online Store,Limpopo,Online,0,14,iPhone,0,2023-01-12 12:31:00,Thursday,0,IPH_42145,0
+2836.31,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,14,iPhone,0,2023-01-23 08:29:00,Monday,0,IPH_42735,1
+955.43,Restaurants,Western Cape,POS,1,12,Unknown,0,2023-01-20 08:16:00,Friday,0,UNK_82781,0
+220.9,Fuel,Eastern Cape,EFT,0,13,iPhone,0,2023-01-07 21:10:00,Saturday,1,IPH_77641,0
+5290.86,Electronics,Gauteng,POS,1,21,Windows,0,2023-01-09 16:40:00,Monday,0,WIN_31711,0
+4349.76,Online Store,Western Cape,EFT,1,6,Android,0,2023-01-12 00:39:00,Thursday,0,AND_15630,0
+4934.48,Electronics,Gauteng,EFT,1,13,iPhone,0,2023-01-23 20:23:00,Monday,0,IPH_75488,0
+1506.49,Fuel,Western Cape,Online,1,23,Windows,0,2023-01-05 08:26:00,Thursday,0,WIN_13206,0
+971.87,Restaurants,Western Cape,EFT,1,9,iPhone,0,2023-01-09 14:55:00,Monday,0,IPH_66289,0
+121.52,Clothing,Limpopo,POS,0,16,Android,0,2023-01-18 05:12:00,Wednesday,0,AND_28953,0
+2467.1,Electronics,Eastern Cape,POS,0,13,Windows,0,2023-01-23 16:00:00,Monday,0,WIN_20068,0
+4137.63,Restaurants,Eastern Cape,ATM Withdrawal,1,7,Windows,0,2023-01-04 23:54:00,Wednesday,0,WIN_88930,0
+2757.86,Restaurants,Western Cape,POS,0,3,Android,0,2023-01-06 15:59:00,Friday,0,AND_65916,0
+3073.57,Groceries,KwaZulu-Natal,ATM Withdrawal,0,15,Windows,0,2023-01-06 15:17:00,Friday,0,WIN_11067,0
+6331.03,Electronics,KwaZulu-Natal,EFT,0,23,Android,0,2023-01-01 21:09:00,Sunday,1,AND_60658,0
+2450.82,Clothing,Gauteng,POS,0,12,Windows,0,2023-01-15 11:29:00,Sunday,1,WIN_62165,0
+3607.65,Electronics,Gauteng,EFT,0,21,Windows,0,2023-01-17 01:25:00,Tuesday,0,WIN_90781,0
+5489.9,Restaurants,Limpopo,POS,1,19,Android,0,2023-01-15 11:49:00,Sunday,1,AND_19859,0
+2787.87,Clothing,Western Cape,POS,0,17,Android,0,2023-01-03 01:39:00,Tuesday,0,AND_39164,0
+4362.17,Fuel,Gauteng,ATM Withdrawal,1,13,Windows,0,2023-01-03 00:33:00,Tuesday,0,WIN_90913,0
+6039.3,Groceries,Gauteng,EFT,0,17,Windows,0,2023-01-06 08:18:00,Friday,0,WIN_30773,0
+6647.65,Restaurants,Mpumalanga,POS,0,4,Android,1,2023-01-08 05:43:00,Sunday,1,AND_67295,0
+1046.57,Online Store,Western Cape,Online,1,8,Unknown,0,2023-01-19 23:05:00,Thursday,0,UNK_43939,0
+6487.58,Online Store,Limpopo,EFT,0,2,Android,0,2023-01-05 04:03:00,Thursday,0,AND_58599,0
+3454.97,Groceries,Gauteng,EFT,1,7,Windows,0,2023-01-02 10:41:00,Monday,0,WIN_16114,0
+1822.55,Fuel,Limpopo,EFT,1,19,Windows,0,2023-01-10 17:58:00,Tuesday,0,WIN_22818,0
+3224.77,Restaurants,Eastern Cape,ATM Withdrawal,0,21,Windows,0,2023-01-11 07:08:00,Wednesday,0,WIN_19335,0
+6860.63,Electronics,Limpopo,Online,1,9,Android,0,2023-01-12 03:17:00,Thursday,0,AND_65008,0
+3458.47,Groceries,KwaZulu-Natal,EFT,0,21,Windows,0,2023-01-21 02:56:00,Saturday,1,WIN_81745,0
+2314.69,Fuel,KwaZulu-Natal,POS,1,18,Unknown,0,2023-01-03 17:54:00,Tuesday,0,UNK_53148,0
+4441.14,Electronics,Limpopo,POS,0,20,iPhone,0,2023-01-18 05:59:00,Wednesday,0,IPH_13577,0
+1696.22,Online Store,KwaZulu-Natal,ATM Withdrawal,1,2,Unknown,0,2023-01-09 12:09:00,Monday,0,UNK_83916,0
+549.53,Online Store,Eastern Cape,POS,0,10,Android,0,2023-01-08 20:23:00,Sunday,1,AND_14076,0
+919.58,Electronics,Western Cape,EFT,1,10,Windows,0,2023-01-23 20:03:00,Monday,0,WIN_42925,0
+913.76,Groceries,KwaZulu-Natal,POS,1,16,Android,0,2023-01-07 09:27:00,Saturday,1,AND_61869,0
+1080.28,Online Store,KwaZulu-Natal,EFT,1,15,iPhone,0,2023-01-16 21:57:00,Monday,0,IPH_69314,0
+989.01,Restaurants,Limpopo,POS,1,6,Android,0,2023-01-08 01:27:00,Sunday,1,AND_51205,0
+4493.31,Clothing,Eastern Cape,Online,1,3,Windows,0,2023-01-13 16:34:00,Friday,0,WIN_21095,0
+1289.52,Electronics,Western Cape,ATM Withdrawal,1,22,iPhone,0,2023-01-20 11:35:00,Friday,0,IPH_94715,0
+2432.76,Electronics,Limpopo,ATM Withdrawal,0,18,iPhone,0,2023-01-22 20:01:00,Sunday,1,IPH_66680,0
+6279.58,Online Store,Limpopo,Online,0,11,Windows,0,2023-01-21 19:46:00,Saturday,1,WIN_38400,1
+3328.25,Groceries,Mpumalanga,Online,0,14,Windows,0,2023-01-15 14:32:00,Sunday,1,WIN_94297,0
+4679.55,Restaurants,Eastern Cape,ATM Withdrawal,1,10,Windows,0,2023-01-07 11:45:00,Saturday,1,WIN_77346,0
+1222.79,Groceries,Western Cape,Online,1,4,Android,1,2023-01-17 14:07:00,Tuesday,0,AND_97110,1
+1362.18,Fuel,Eastern Cape,EFT,1,4,Unknown,0,2023-01-18 19:24:00,Wednesday,0,UNK_38562,0
+305.26,Fuel,Western Cape,POS,0,14,Android,0,2023-01-01 16:16:00,Sunday,1,AND_50663,0
+1199.17,Clothing,Eastern Cape,ATM Withdrawal,1,17,Android,0,2023-01-12 05:08:00,Thursday,0,AND_28510,0
+1964.56,Online Store,Limpopo,Online,0,10,Unknown,0,2023-01-22 04:22:00,Sunday,1,UNK_71608,0
+1255.53,Online Store,Limpopo,EFT,0,11,Windows,0,2023-01-13 11:51:00,Friday,0,WIN_82489,0
+639.14,Online Store,Gauteng,ATM Withdrawal,1,1,Windows,0,2023-01-09 02:40:00,Monday,0,WIN_62182,0
+862.04,Clothing,KwaZulu-Natal,Online,1,19,Unknown,0,2023-01-22 23:51:00,Sunday,1,UNK_97667,0
+3236.24,Fuel,Mpumalanga,ATM Withdrawal,1,14,Unknown,0,2023-01-05 06:49:00,Thursday,0,UNK_36883,0
+1460.21,Groceries,Eastern Cape,Online,1,19,Android,0,2023-01-06 13:07:00,Friday,0,AND_81427,0
+2562.6,Clothing,Mpumalanga,ATM Withdrawal,0,3,iPhone,0,2023-01-18 12:23:00,Wednesday,0,IPH_45844,0
+3533.85,Clothing,Gauteng,EFT,1,21,Unknown,0,2023-01-10 04:50:00,Tuesday,0,UNK_28728,0
+4838.96,Groceries,KwaZulu-Natal,EFT,0,17,Android,0,2023-01-19 05:08:00,Thursday,0,AND_21094,0
+294.4,Online Store,Eastern Cape,POS,1,5,iPhone,0,2023-01-05 08:45:00,Thursday,0,IPH_12407,0
+5599.88,Restaurants,Western Cape,ATM Withdrawal,1,22,Windows,0,2023-01-07 17:45:00,Saturday,1,WIN_65412,0
+4402.74,Groceries,KwaZulu-Natal,POS,0,18,Windows,1,2023-01-05 08:28:00,Thursday,0,WIN_22644,0
+590.68,Fuel,Limpopo,ATM Withdrawal,0,10,Android,1,2023-01-25 08:36:00,Wednesday,0,AND_95834,0
+6117.58,Electronics,Gauteng,Online,1,23,Android,0,2023-01-11 15:00:00,Wednesday,0,AND_70746,0
+6447.69,Electronics,KwaZulu-Natal,Online,1,1,Unknown,0,2023-01-09 22:11:00,Monday,0,UNK_62748,0
+446.32,Clothing,KwaZulu-Natal,POS,1,7,Windows,0,2023-01-01 18:52:00,Sunday,1,WIN_69021,0
+1952.61,Electronics,Limpopo,ATM Withdrawal,0,10,Android,0,2023-01-05 07:21:00,Thursday,0,AND_72651,0
+5647.28,Restaurants,Eastern Cape,POS,0,4,Windows,0,2023-01-12 02:13:00,Thursday,0,WIN_46807,0
+5242.85,Online Store,Western Cape,EFT,1,17,Windows,0,2023-01-03 04:00:00,Tuesday,0,WIN_44072,0
+1307.96,Fuel,Limpopo,POS,1,22,Unknown,0,2023-01-14 09:42:00,Saturday,1,UNK_48398,0
+1481.26,Restaurants,Western Cape,POS,0,17,iPhone,0,2023-01-13 00:12:00,Friday,0,IPH_38669,0
+2605.9,Fuel,Eastern Cape,Online,1,13,Unknown,0,2023-01-20 23:35:00,Friday,0,UNK_40161,0
+3401.97,Fuel,KwaZulu-Natal,POS,0,21,Android,0,2023-01-18 06:35:00,Wednesday,0,AND_17282,0
+4335.42,Online Store,Western Cape,ATM Withdrawal,1,9,Unknown,0,2023-01-12 20:01:00,Thursday,0,UNK_36539,0
+2595.02,Clothing,Gauteng,Online,1,2,Unknown,0,2023-01-07 04:29:00,Saturday,1,UNK_13307,0
+3248.49,Electronics,Gauteng,POS,1,8,Windows,0,2023-01-20 01:51:00,Friday,0,WIN_27745,0
+5237.35,Online Store,Limpopo,EFT,0,2,Unknown,0,2023-01-19 14:52:00,Thursday,0,UNK_49433,0
+276.05,Restaurants,Eastern Cape,POS,1,10,Android,0,2023-01-05 09:07:00,Thursday,0,AND_44555,0
+1782.01,Clothing,Limpopo,POS,0,11,iPhone,0,2023-01-25 00:16:00,Wednesday,0,IPH_11073,0
+4999.18,Restaurants,Limpopo,POS,0,11,Unknown,0,2023-01-03 02:23:00,Tuesday,0,UNK_42683,0
+6268.54,Clothing,Mpumalanga,Online,1,2,Unknown,0,2023-01-02 20:39:00,Monday,0,UNK_35741,0
+3591.51,Restaurants,Limpopo,ATM Withdrawal,1,20,iPhone,0,2023-01-06 06:57:00,Friday,0,IPH_32286,0
+3734.15,Online Store,Mpumalanga,EFT,1,6,Android,0,2023-01-25 00:38:00,Wednesday,0,AND_13599,0
+768.06,Clothing,Gauteng,POS,1,13,Android,0,2023-01-14 22:45:00,Saturday,1,AND_37293,0
+3142.94,Clothing,Gauteng,ATM Withdrawal,1,23,Unknown,0,2023-01-21 22:35:00,Saturday,1,UNK_25389,0
+3737.67,Fuel,Limpopo,ATM Withdrawal,0,10,Windows,0,2023-01-07 09:05:00,Saturday,1,WIN_22318,0
+1712.44,Fuel,Gauteng,Online,0,6,Unknown,1,2023-01-14 05:41:00,Saturday,1,UNK_58875,0
+1899.32,Groceries,Eastern Cape,EFT,0,20,iPhone,0,2023-01-10 19:24:00,Tuesday,0,IPH_13055,0
+2653.44,Restaurants,Mpumalanga,Online,1,9,iPhone,1,2023-01-23 02:48:00,Monday,0,IPH_92579,0
+160.1,Fuel,Mpumalanga,ATM Withdrawal,1,10,iPhone,0,2023-01-02 00:53:00,Monday,0,IPH_16320,0
+2268.11,Groceries,Limpopo,ATM Withdrawal,0,14,Unknown,0,2023-01-07 20:22:00,Saturday,1,UNK_14642,0
+1495.91,Fuel,Gauteng,ATM Withdrawal,1,18,Unknown,0,2023-01-05 11:01:00,Thursday,0,UNK_19321,0
+2305.93,Restaurants,Western Cape,Online,1,15,Android,0,2023-01-24 01:58:00,Tuesday,0,AND_89968,0
+855.94,Clothing,Mpumalanga,EFT,1,21,Windows,0,2023-01-13 18:48:00,Friday,0,WIN_98293,0
+6235.88,Electronics,Limpopo,POS,0,20,Unknown,0,2023-01-12 03:07:00,Thursday,0,UNK_69618,0
+4163.28,Restaurants,Limpopo,Online,0,19,Android,0,2023-01-13 08:17:00,Friday,0,AND_36044,0
+4760.13,Online Store,Eastern Cape,ATM Withdrawal,0,11,Unknown,0,2023-01-27 05:08:00,Friday,0,UNK_31971,0
+5528.42,Fuel,KwaZulu-Natal,Online,0,17,Android,0,2023-01-24 00:35:00,Tuesday,0,AND_35727,0
+3499.13,Fuel,KwaZulu-Natal,ATM Withdrawal,1,22,Android,0,2023-01-20 05:36:00,Friday,0,AND_32559,0
+626.7,Clothing,Mpumalanga,POS,1,12,Windows,0,2023-01-09 04:29:00,Monday,0,WIN_83820,0
+3769.0,Online Store,Eastern Cape,POS,1,4,Unknown,0,2023-01-05 20:35:00,Thursday,0,UNK_93201,0
+4116.15,Clothing,Eastern Cape,EFT,1,3,Android,0,2023-01-26 01:37:00,Thursday,0,AND_37476,0
+5223.17,Online Store,Eastern Cape,ATM Withdrawal,1,13,iPhone,0,2023-01-12 18:32:00,Thursday,0,IPH_72683,0
+3032.98,Electronics,Mpumalanga,EFT,0,7,iPhone,1,2023-01-08 22:10:00,Sunday,1,IPH_20991,0
+910.51,Fuel,KwaZulu-Natal,EFT,1,8,iPhone,0,2023-01-14 02:13:00,Saturday,1,IPH_95097,0
+2000.76,Fuel,Eastern Cape,POS,1,18,Windows,1,2023-01-26 03:00:00,Thursday,0,WIN_80047,0
+2554.31,Electronics,Gauteng,Online,0,2,Android,0,2023-01-11 21:00:00,Wednesday,0,AND_20796,0
+4528.5,Groceries,Limpopo,Online,0,4,Windows,0,2023-01-16 15:00:00,Monday,0,WIN_13881,0
+4004.03,Clothing,Limpopo,EFT,1,20,Unknown,0,2023-01-23 03:19:00,Monday,0,UNK_25668,0
+2505.56,Electronics,Western Cape,POS,0,17,Unknown,0,2023-01-13 00:12:00,Friday,0,UNK_44312,0
+6905.88,Clothing,Western Cape,ATM Withdrawal,1,0,Android,0,2023-01-07 18:48:00,Saturday,1,AND_38106,0
+4248.31,Restaurants,Mpumalanga,Online,0,7,iPhone,0,2023-01-28 10:26:00,Saturday,1,IPH_25729,0
+1675.84,Fuel,Mpumalanga,EFT,1,18,Android,0,2023-01-27 10:41:00,Friday,0,AND_80320,0
+730.44,Clothing,Limpopo,Online,0,16,Android,0,2023-01-24 09:48:00,Tuesday,0,AND_64913,0
+1086.96,Online Store,Gauteng,Online,0,16,Android,0,2023-01-20 05:13:00,Friday,0,AND_67026,0
+1736.78,Clothing,KwaZulu-Natal,ATM Withdrawal,1,10,Windows,0,2023-01-09 12:12:00,Monday,0,WIN_69402,0
+1141.56,Restaurants,KwaZulu-Natal,POS,0,1,Unknown,0,2023-01-26 10:12:00,Thursday,0,UNK_47282,0
+1322.24,Fuel,Mpumalanga,ATM Withdrawal,1,5,Android,0,2023-01-09 00:08:00,Monday,0,AND_84638,0
+2009.96,Electronics,Gauteng,POS,0,21,Android,0,2023-01-23 09:57:00,Monday,0,AND_48218,0
+1230.15,Restaurants,Mpumalanga,Online,0,13,Android,0,2023-01-26 16:08:00,Thursday,0,AND_27950,0
+6279.42,Fuel,KwaZulu-Natal,EFT,0,2,Windows,0,2023-01-18 01:03:00,Wednesday,0,WIN_69739,0
+580.03,Clothing,Mpumalanga,ATM Withdrawal,0,11,Windows,0,2023-01-23 13:51:00,Monday,0,WIN_14507,0
+3681.09,Groceries,Eastern Cape,POS,1,3,Windows,0,2023-01-23 07:08:00,Monday,0,WIN_56303,0
+2884.57,Groceries,Mpumalanga,Online,0,11,Android,0,2023-01-06 19:15:00,Friday,0,AND_89059,1
+6877.0,Online Store,Limpopo,POS,1,12,iPhone,0,2023-01-19 22:35:00,Thursday,0,IPH_34667,0
+802.03,Fuel,Mpumalanga,POS,0,1,iPhone,0,2023-01-04 01:23:00,Wednesday,0,IPH_13992,0
+2797.03,Groceries,Limpopo,POS,0,1,iPhone,0,2023-01-15 13:22:00,Sunday,1,IPH_83563,0
+6786.9,Electronics,Gauteng,Online,1,14,Unknown,0,2023-01-05 23:27:00,Thursday,0,UNK_97680,0
+6061.24,Fuel,KwaZulu-Natal,EFT,0,22,Android,0,2023-01-13 01:18:00,Friday,0,AND_35530,0
+5723.16,Electronics,Western Cape,EFT,1,16,iPhone,0,2023-01-24 16:19:00,Tuesday,0,IPH_25305,0
+1820.16,Electronics,Western Cape,EFT,0,6,iPhone,0,2023-01-29 00:24:00,Sunday,1,IPH_62129,0
+1212.8,Groceries,KwaZulu-Natal,POS,1,13,iPhone,0,2023-01-10 08:36:00,Tuesday,0,IPH_97267,0
+4687.13,Fuel,Western Cape,Online,1,11,Android,0,2023-01-16 08:39:00,Monday,0,AND_96209,0
+6507.04,Clothing,Mpumalanga,POS,1,16,iPhone,0,2023-01-15 19:17:00,Sunday,1,IPH_62044,0
+3906.2,Restaurants,Gauteng,EFT,1,13,iPhone,0,2023-01-28 06:17:00,Saturday,1,IPH_99363,0
+4009.86,Groceries,Gauteng,EFT,1,5,Android,0,2023-01-14 22:16:00,Saturday,1,AND_68817,0
+1974.25,Groceries,KwaZulu-Natal,Online,0,18,Unknown,0,2023-01-21 03:43:00,Saturday,1,UNK_56666,0
+5391.06,Clothing,Western Cape,POS,0,23,Windows,0,2023-01-27 11:05:00,Friday,0,WIN_36173,0
+1325.57,Fuel,Mpumalanga,ATM Withdrawal,1,5,iPhone,0,2023-01-12 00:27:00,Thursday,0,IPH_28909,0
+2279.28,Fuel,Gauteng,ATM Withdrawal,0,17,Windows,0,2023-01-26 23:35:00,Thursday,0,WIN_73967,0
+2989.55,Electronics,Gauteng,EFT,1,23,Unknown,0,2023-01-27 10:54:00,Friday,0,UNK_41007,0
+3563.12,Clothing,Eastern Cape,Online,1,4,Unknown,0,2023-01-27 20:49:00,Friday,0,UNK_22985,0
+1712.02,Clothing,Eastern Cape,POS,0,23,iPhone,0,2023-01-09 03:50:00,Monday,0,IPH_32525,0
+821.56,Fuel,Gauteng,POS,1,23,Android,0,2023-01-12 20:46:00,Thursday,0,AND_47403,0
+4282.13,Electronics,KwaZulu-Natal,EFT,1,5,Unknown,0,2023-01-26 06:25:00,Thursday,0,UNK_47193,0
+2034.64,Groceries,Limpopo,EFT,1,1,Windows,0,2023-01-11 17:24:00,Wednesday,0,WIN_13830,0
+4077.04,Online Store,Limpopo,POS,1,7,Windows,1,2023-01-18 15:01:00,Wednesday,0,WIN_66144,0
+1097.45,Restaurants,Mpumalanga,POS,0,14,Windows,0,2023-01-04 20:39:00,Wednesday,0,WIN_10533,0
+3378.36,Groceries,Gauteng,EFT,0,14,Windows,0,2023-01-03 02:19:00,Tuesday,0,WIN_30946,0
+3737.47,Fuel,Gauteng,POS,1,10,Unknown,0,2023-01-13 07:15:00,Friday,0,UNK_33504,0
+381.73,Restaurants,Gauteng,ATM Withdrawal,0,21,iPhone,0,2023-01-18 02:44:00,Wednesday,0,IPH_65715,0
+2369.5,Online Store,KwaZulu-Natal,EFT,1,21,iPhone,1,2023-01-12 18:46:00,Thursday,0,IPH_38255,0
+958.21,Online Store,Eastern Cape,POS,1,23,Windows,0,2023-01-18 03:05:00,Wednesday,0,WIN_66441,0
+462.36,Electronics,Gauteng,EFT,1,0,iPhone,0,2023-01-16 08:18:00,Monday,0,IPH_46855,0
+6929.92,Restaurants,Gauteng,Online,0,17,Windows,0,2023-01-21 07:06:00,Saturday,1,WIN_51721,1
+2270.03,Electronics,Western Cape,EFT,1,11,Windows,0,2023-01-20 06:41:00,Friday,0,WIN_51850,0
+5672.92,Groceries,KwaZulu-Natal,EFT,1,11,Android,0,2023-01-13 18:43:00,Friday,0,AND_44723,0
+1797.39,Clothing,Mpumalanga,Online,1,10,Unknown,0,2023-01-13 19:40:00,Friday,0,UNK_45739,0
+4776.89,Clothing,Gauteng,ATM Withdrawal,1,7,Unknown,1,2023-01-05 13:57:00,Thursday,0,UNK_15539,0
+5326.39,Clothing,Western Cape,POS,1,6,Windows,0,2023-01-16 10:09:00,Monday,0,WIN_83029,0
+4177.56,Restaurants,Limpopo,Online,1,22,Unknown,0,2023-01-18 14:22:00,Wednesday,0,UNK_74509,0
+3311.6,Clothing,Mpumalanga,EFT,1,20,iPhone,0,2023-01-15 09:28:00,Sunday,1,IPH_31311,0
+2894.65,Groceries,Gauteng,POS,1,1,Windows,0,2023-01-11 00:14:00,Wednesday,0,WIN_79180,0
+2455.1,Electronics,Gauteng,Online,0,10,Android,0,2023-01-22 14:34:00,Sunday,1,AND_95981,0
+6508.11,Restaurants,Western Cape,POS,1,21,iPhone,0,2023-01-03 16:24:00,Tuesday,0,IPH_45934,0
+5817.72,Electronics,KwaZulu-Natal,POS,1,9,Android,0,2023-01-28 07:45:00,Saturday,1,AND_19511,0
+6755.89,Restaurants,Gauteng,Online,1,2,Android,0,2023-01-02 02:30:00,Monday,0,AND_10183,0
+887.59,Electronics,Limpopo,POS,1,19,Unknown,1,2023-01-29 19:25:00,Sunday,1,UNK_19475,0
+5121.45,Online Store,Gauteng,ATM Withdrawal,1,9,Unknown,0,2023-01-15 02:52:00,Sunday,1,UNK_94766,0
+6569.62,Electronics,Limpopo,Online,1,17,Windows,0,2023-01-13 16:10:00,Friday,0,WIN_73130,0
+1285.01,Clothing,Mpumalanga,ATM Withdrawal,1,13,Unknown,0,2023-01-09 01:49:00,Monday,0,UNK_69577,0
+484.14,Online Store,Mpumalanga,EFT,1,17,Android,0,2023-01-01 19:11:00,Sunday,1,AND_36008,0
+5193.02,Electronics,Eastern Cape,POS,1,23,Android,0,2023-01-09 15:24:00,Monday,0,AND_86868,0
+4029.82,Restaurants,Eastern Cape,EFT,1,7,iPhone,0,2023-01-04 17:57:00,Wednesday,0,IPH_57941,0
+5895.96,Restaurants,Limpopo,EFT,0,9,Android,0,2023-01-21 02:28:00,Saturday,1,AND_52756,0
+995.61,Restaurants,KwaZulu-Natal,POS,1,21,Windows,0,2023-01-10 23:53:00,Tuesday,0,WIN_80258,0
+5570.97,Fuel,Gauteng,Online,1,12,Windows,0,2023-01-24 08:33:00,Tuesday,0,WIN_90730,0
+1427.36,Groceries,Gauteng,POS,1,20,Unknown,0,2023-01-07 16:15:00,Saturday,1,UNK_37912,0
+1162.32,Restaurants,Eastern Cape,EFT,1,7,Unknown,0,2023-01-28 09:29:00,Saturday,1,UNK_92702,1
+1166.58,Online Store,Limpopo,EFT,1,3,Unknown,0,2023-01-17 03:34:00,Tuesday,0,UNK_60659,0
+5705.73,Restaurants,Gauteng,Online,1,3,Windows,0,2023-01-04 22:29:00,Wednesday,0,WIN_56840,0
+4663.08,Fuel,Gauteng,POS,0,4,Android,0,2023-01-13 12:43:00,Friday,0,AND_91512,0
+3671.0,Clothing,KwaZulu-Natal,EFT,1,0,Unknown,0,2023-01-07 17:14:00,Saturday,1,UNK_48623,0
+2524.64,Online Store,Western Cape,ATM Withdrawal,1,16,iPhone,0,2023-01-07 12:21:00,Saturday,1,IPH_73303,0
+6142.86,Fuel,Eastern Cape,EFT,0,1,Unknown,1,2023-01-16 18:13:00,Monday,0,UNK_56062,0
+2759.27,Clothing,Eastern Cape,EFT,0,7,Windows,0,2023-01-21 18:32:00,Saturday,1,WIN_66690,0
+5719.86,Online Store,Western Cape,Online,1,6,Unknown,0,2023-01-29 00:56:00,Sunday,1,UNK_87582,0
+3085.16,Electronics,Gauteng,ATM Withdrawal,1,14,Android,0,2023-01-16 16:43:00,Monday,0,AND_33634,0
+2651.07,Groceries,KwaZulu-Natal,EFT,0,4,Unknown,0,2023-01-30 18:10:00,Monday,0,UNK_14090,0
+3249.5,Groceries,KwaZulu-Natal,EFT,1,1,Windows,1,2023-01-30 01:31:00,Monday,0,WIN_55266,0
+2123.62,Fuel,Eastern Cape,ATM Withdrawal,1,6,Windows,0,2023-01-27 18:40:00,Friday,0,WIN_40008,0
+5238.31,Clothing,KwaZulu-Natal,POS,1,7,iPhone,0,2023-01-16 17:10:00,Monday,0,IPH_97643,0
+3528.99,Groceries,Mpumalanga,POS,1,6,Windows,0,2023-01-05 19:19:00,Thursday,0,WIN_68704,0
+1640.84,Clothing,Western Cape,EFT,1,6,iPhone,1,2023-01-08 03:49:00,Sunday,1,IPH_72866,0
+6299.03,Clothing,Gauteng,EFT,1,13,Android,1,2023-01-21 06:53:00,Saturday,1,AND_18382,0
+2699.56,Fuel,Mpumalanga,POS,1,20,Windows,0,2023-01-14 09:49:00,Saturday,1,WIN_57774,0
+3814.0,Fuel,Western Cape,Online,1,17,Unknown,0,2023-01-06 00:16:00,Friday,0,UNK_84570,0
+6347.18,Fuel,Limpopo,ATM Withdrawal,0,5,Android,0,2023-01-16 04:46:00,Monday,0,AND_84062,0
+4377.18,Groceries,Eastern Cape,ATM Withdrawal,1,3,Unknown,0,2023-01-02 01:19:00,Monday,0,UNK_99609,0
+835.95,Fuel,KwaZulu-Natal,Online,0,9,Unknown,0,2023-01-24 01:44:00,Tuesday,0,UNK_56698,0
+6580.03,Groceries,Limpopo,Online,0,17,Unknown,1,2023-01-03 18:51:00,Tuesday,0,UNK_11110,0
+4401.4,Fuel,KwaZulu-Natal,Online,0,11,Android,0,2023-01-20 21:44:00,Friday,0,AND_91981,0
+2357.64,Restaurants,Mpumalanga,Online,0,15,Android,1,2023-01-25 23:44:00,Wednesday,0,AND_10386,0
+992.12,Clothing,Gauteng,Online,1,6,Windows,0,2023-01-05 14:54:00,Thursday,0,WIN_68513,0
+5562.3,Fuel,Gauteng,Online,0,5,Unknown,0,2023-01-17 13:37:00,Tuesday,0,UNK_94120,0
+4348.11,Online Store,Gauteng,ATM Withdrawal,1,4,iPhone,0,2023-01-25 15:45:00,Wednesday,0,IPH_57801,0
+3743.56,Clothing,KwaZulu-Natal,Online,1,2,Windows,0,2023-01-09 14:37:00,Monday,0,WIN_81857,1
+6259.37,Clothing,Limpopo,POS,1,11,Android,0,2023-01-06 14:03:00,Friday,0,AND_99976,0
+5524.41,Fuel,Gauteng,Online,0,14,iPhone,0,2023-01-12 00:02:00,Thursday,0,IPH_41566,0
+1078.69,Electronics,Limpopo,Online,1,9,Android,1,2023-01-18 19:12:00,Wednesday,0,AND_42521,0
+2195.82,Fuel,KwaZulu-Natal,ATM Withdrawal,1,19,iPhone,0,2023-01-19 11:10:00,Thursday,0,IPH_33798,0
+1754.45,Clothing,Mpumalanga,ATM Withdrawal,1,18,Windows,0,2023-01-05 14:45:00,Thursday,0,WIN_23565,0
+5212.75,Online Store,Limpopo,Online,1,15,iPhone,0,2023-01-15 20:01:00,Sunday,1,IPH_33027,0
+254.06,Clothing,Mpumalanga,ATM Withdrawal,1,10,Windows,0,2023-01-09 22:17:00,Monday,0,WIN_15631,0
+3997.83,Online Store,KwaZulu-Natal,EFT,1,7,Android,0,2023-01-27 22:09:00,Friday,0,AND_99865,0
+5341.96,Groceries,KwaZulu-Natal,ATM Withdrawal,0,2,iPhone,0,2023-01-11 08:57:00,Wednesday,0,IPH_66878,0
+6139.82,Restaurants,Eastern Cape,ATM Withdrawal,1,22,Unknown,0,2023-01-27 21:20:00,Friday,0,UNK_55206,0
+2407.73,Clothing,KwaZulu-Natal,ATM Withdrawal,0,6,Unknown,0,2023-01-15 00:27:00,Sunday,1,UNK_68582,0
+5752.38,Fuel,KwaZulu-Natal,ATM Withdrawal,1,22,Android,0,2023-01-24 10:14:00,Tuesday,0,AND_68334,0
+792.21,Groceries,Western Cape,POS,0,6,iPhone,0,2023-01-17 15:02:00,Tuesday,0,IPH_82323,0
+5928.24,Restaurants,Gauteng,POS,0,13,Unknown,0,2023-01-21 04:23:00,Saturday,1,UNK_63619,0
+909.87,Fuel,Eastern Cape,POS,1,1,Windows,0,2023-01-14 00:59:00,Saturday,1,WIN_36875,0
+2793.07,Electronics,Eastern Cape,Online,1,9,iPhone,0,2023-01-25 20:48:00,Wednesday,0,IPH_34514,0
+5585.12,Fuel,Eastern Cape,Online,1,18,iPhone,0,2023-01-15 00:30:00,Sunday,1,IPH_32580,0
+1066.42,Online Store,Western Cape,EFT,1,8,Unknown,0,2023-01-16 01:32:00,Monday,0,UNK_95827,0
+1620.17,Online Store,Mpumalanga,POS,1,15,Windows,0,2023-01-17 23:57:00,Tuesday,0,WIN_14288,0
+5061.32,Electronics,KwaZulu-Natal,Online,0,18,Windows,0,2023-01-28 00:30:00,Saturday,1,WIN_16734,0
+5045.86,Groceries,Gauteng,ATM Withdrawal,1,17,Windows,0,2023-01-22 13:24:00,Sunday,1,WIN_93000,0
+4495.21,Restaurants,Limpopo,ATM Withdrawal,0,8,iPhone,0,2023-01-12 16:26:00,Thursday,0,IPH_49008,0
+4863.76,Fuel,Mpumalanga,POS,1,15,Android,0,2023-01-22 23:08:00,Sunday,1,AND_59349,0
+3808.22,Online Store,KwaZulu-Natal,EFT,1,12,iPhone,0,2023-01-22 02:23:00,Sunday,1,IPH_17814,0
+1777.56,Groceries,Western Cape,EFT,0,9,iPhone,0,2023-01-31 08:57:00,Tuesday,0,IPH_53154,0
+2432.96,Electronics,KwaZulu-Natal,ATM Withdrawal,1,19,Unknown,0,2023-01-28 12:53:00,Saturday,1,UNK_17851,0
+1287.55,Clothing,KwaZulu-Natal,EFT,0,13,Android,0,2023-01-22 08:12:00,Sunday,1,AND_11600,0
+6360.98,Online Store,Western Cape,POS,1,11,Windows,0,2023-01-12 12:41:00,Thursday,0,WIN_66614,0
+4092.07,Electronics,Eastern Cape,ATM Withdrawal,1,18,Unknown,0,2023-01-26 15:38:00,Thursday,0,UNK_82402,0
+2817.94,Fuel,Eastern Cape,Online,1,6,iPhone,0,2023-01-20 02:15:00,Friday,0,IPH_13692,1
+3244.8,Restaurants,Gauteng,Online,0,22,Android,1,2023-02-02 08:35:00,Thursday,0,AND_68027,0
+6632.04,Online Store,Gauteng,EFT,0,14,Windows,0,2023-01-09 13:10:00,Monday,0,WIN_30373,0
+1090.39,Online Store,Eastern Cape,ATM Withdrawal,0,15,Windows,0,2023-01-04 03:02:00,Wednesday,0,WIN_72805,0
+4111.88,Fuel,Mpumalanga,ATM Withdrawal,0,7,iPhone,0,2023-01-03 19:32:00,Tuesday,0,IPH_90383,0
+3551.1,Clothing,Limpopo,Online,1,9,Windows,0,2023-01-22 07:39:00,Sunday,1,WIN_24507,0
+4287.95,Groceries,KwaZulu-Natal,ATM Withdrawal,1,3,Windows,0,2023-02-01 01:38:00,Wednesday,0,WIN_72931,0
+146.41,Restaurants,Limpopo,ATM Withdrawal,1,18,Android,0,2023-01-01 14:44:00,Sunday,1,AND_85499,0
+6107.42,Online Store,KwaZulu-Natal,ATM Withdrawal,1,18,Unknown,0,2023-01-25 04:37:00,Wednesday,0,UNK_81642,0
+6526.19,Restaurants,Eastern Cape,EFT,1,20,Android,0,2023-01-22 23:34:00,Sunday,1,AND_82869,0
+3964.63,Online Store,Gauteng,ATM Withdrawal,1,14,Unknown,0,2023-01-25 11:12:00,Wednesday,0,UNK_49423,0
+4882.62,Restaurants,Mpumalanga,POS,1,13,Unknown,0,2023-01-13 04:11:00,Friday,0,UNK_96120,0
+6459.05,Electronics,Gauteng,EFT,1,0,Unknown,0,2023-01-28 09:58:00,Saturday,1,UNK_76600,1
+4956.53,Online Store,Limpopo,ATM Withdrawal,0,15,Windows,0,2023-01-03 00:30:00,Tuesday,0,WIN_51848,0
+1084.72,Restaurants,Gauteng,ATM Withdrawal,0,9,Android,0,2023-01-26 08:21:00,Thursday,0,AND_16820,0
+4042.49,Groceries,Eastern Cape,POS,1,18,Windows,0,2023-01-10 07:59:00,Tuesday,0,WIN_18512,0
+4254.87,Electronics,Mpumalanga,EFT,0,21,iPhone,0,2023-01-17 05:54:00,Tuesday,0,IPH_46725,0
+2980.43,Electronics,Limpopo,Online,0,2,Android,0,2023-01-28 15:46:00,Saturday,1,AND_61534,0
+5160.38,Groceries,Mpumalanga,Online,1,4,Unknown,0,2023-01-10 12:13:00,Tuesday,0,UNK_95151,0
+6541.88,Restaurants,KwaZulu-Natal,EFT,1,8,Windows,0,2023-01-07 16:13:00,Saturday,1,WIN_49776,0
+6480.47,Fuel,Gauteng,ATM Withdrawal,1,17,Windows,0,2023-01-24 02:06:00,Tuesday,0,WIN_70945,0
+3166.86,Groceries,Mpumalanga,ATM Withdrawal,0,10,Android,0,2023-01-19 05:16:00,Thursday,0,AND_93420,0
+810.4,Restaurants,Western Cape,Online,1,15,Android,0,2023-01-18 14:42:00,Wednesday,0,AND_57455,0
+6894.19,Groceries,Gauteng,Online,1,1,Unknown,0,2023-01-10 02:01:00,Tuesday,0,UNK_93488,0
+5875.51,Groceries,KwaZulu-Natal,Online,1,11,Unknown,0,2023-01-02 17:19:00,Monday,0,UNK_62433,0
+890.15,Online Store,Mpumalanga,POS,1,21,iPhone,0,2023-01-15 05:07:00,Sunday,1,IPH_19711,0
+6447.48,Restaurants,Limpopo,Online,1,5,Unknown,0,2023-01-05 02:44:00,Thursday,0,UNK_69262,0
+6091.88,Fuel,KwaZulu-Natal,POS,1,10,Windows,0,2023-01-31 18:45:00,Tuesday,0,WIN_96009,0
+3641.49,Online Store,Western Cape,EFT,1,7,iPhone,0,2023-01-02 22:38:00,Monday,0,IPH_93785,0
+4147.1,Groceries,Mpumalanga,ATM Withdrawal,0,11,iPhone,0,2023-01-15 23:57:00,Sunday,1,IPH_19597,0
+2805.04,Clothing,Eastern Cape,Online,1,1,iPhone,0,2023-01-03 07:35:00,Tuesday,0,IPH_70067,0
+402.24,Groceries,Gauteng,ATM Withdrawal,1,8,Android,0,2023-01-04 18:29:00,Wednesday,0,AND_97520,0
+2359.68,Groceries,Limpopo,ATM Withdrawal,1,14,Unknown,0,2023-01-23 16:16:00,Monday,0,UNK_58022,0
+5623.92,Restaurants,Eastern Cape,Online,1,1,iPhone,0,2023-01-23 07:27:00,Monday,0,IPH_91924,0
+52.33,Restaurants,Mpumalanga,Online,1,0,Android,0,2023-01-02 16:22:00,Monday,0,AND_28782,1
+2347.82,Online Store,Mpumalanga,EFT,0,9,Android,0,2023-01-01 14:36:00,Sunday,1,AND_61782,0
+2799.22,Fuel,KwaZulu-Natal,POS,1,1,iPhone,0,2023-01-04 05:30:00,Wednesday,0,IPH_82144,0
+3771.02,Online Store,Mpumalanga,POS,0,11,iPhone,0,2023-01-27 07:57:00,Friday,0,IPH_65013,0
+6440.59,Electronics,Limpopo,ATM Withdrawal,1,22,Windows,0,2023-01-21 07:59:00,Saturday,1,WIN_82036,0
+2437.5,Groceries,Eastern Cape,Online,0,7,iPhone,0,2023-01-02 20:43:00,Monday,0,IPH_45342,0
+2441.73,Clothing,Limpopo,EFT,0,4,Windows,0,2023-01-18 02:42:00,Wednesday,0,WIN_95745,0
+5167.76,Groceries,Western Cape,EFT,1,21,iPhone,0,2023-01-25 17:32:00,Wednesday,0,IPH_30977,0
+3176.48,Groceries,Western Cape,EFT,1,0,iPhone,0,2023-01-31 02:10:00,Tuesday,0,IPH_67396,0
+1587.74,Online Store,Gauteng,EFT,1,14,Unknown,1,2023-02-02 08:09:00,Thursday,0,UNK_60021,0
+3178.03,Clothing,Gauteng,EFT,0,5,iPhone,0,2023-01-12 17:25:00,Thursday,0,IPH_79057,0
+1003.18,Clothing,Western Cape,POS,1,11,iPhone,0,2023-01-06 04:59:00,Friday,0,IPH_76836,0
+1251.18,Clothing,Mpumalanga,POS,0,7,Windows,0,2023-01-09 15:57:00,Monday,0,WIN_37075,0
+3498.61,Online Store,Limpopo,POS,1,12,Windows,0,2023-01-28 02:26:00,Saturday,1,WIN_99515,0
+2944.1,Groceries,Western Cape,Online,1,18,Unknown,0,2023-02-03 19:35:00,Friday,0,UNK_40802,0
+6405.62,Online Store,Gauteng,ATM Withdrawal,1,0,iPhone,0,2023-01-17 13:20:00,Tuesday,0,IPH_87761,0
+2549.51,Restaurants,Western Cape,EFT,0,10,iPhone,0,2023-01-12 01:16:00,Thursday,0,IPH_87017,0
+4072.51,Restaurants,Mpumalanga,Online,1,19,Windows,0,2023-01-16 07:38:00,Monday,0,WIN_96753,0
+4433.2,Online Store,Western Cape,EFT,0,0,Android,0,2023-01-12 01:27:00,Thursday,0,AND_65822,0
+111.4,Clothing,Limpopo,POS,1,7,Android,1,2023-01-10 09:51:00,Tuesday,0,AND_61603,0
+4651.49,Groceries,Eastern Cape,Online,0,4,Android,0,2023-01-22 01:02:00,Sunday,1,AND_90291,0
+1262.69,Online Store,Mpumalanga,POS,1,16,Windows,0,2023-01-02 03:03:00,Monday,0,WIN_45592,0
+6728.27,Online Store,Gauteng,EFT,0,7,Windows,0,2023-01-10 13:12:00,Tuesday,0,WIN_66006,0
+1057.67,Online Store,Limpopo,EFT,1,9,Android,1,2023-01-24 10:58:00,Tuesday,0,AND_36269,0
+2914.08,Electronics,Western Cape,ATM Withdrawal,1,1,Android,0,2023-01-02 16:43:00,Monday,0,AND_60138,0
+615.74,Restaurants,Western Cape,EFT,1,8,iPhone,0,2023-01-04 11:18:00,Wednesday,0,IPH_72398,0
+6978.18,Clothing,Eastern Cape,POS,0,23,Windows,1,2023-01-11 18:28:00,Wednesday,0,WIN_29874,0
+3525.32,Fuel,Gauteng,EFT,1,22,Windows,1,2023-02-01 02:06:00,Wednesday,0,WIN_67228,0
+4175.79,Clothing,Gauteng,ATM Withdrawal,1,2,Android,0,2023-01-28 04:42:00,Saturday,1,AND_72670,0
+488.19,Fuel,KwaZulu-Natal,ATM Withdrawal,1,17,Android,0,2023-01-02 08:41:00,Monday,0,AND_17925,0
+5254.72,Electronics,Gauteng,POS,0,6,Unknown,0,2023-01-19 02:01:00,Thursday,0,UNK_13107,0
+1485.14,Online Store,Eastern Cape,Online,1,14,Windows,0,2023-01-11 04:19:00,Wednesday,0,WIN_96388,0
+6288.42,Electronics,KwaZulu-Natal,EFT,1,20,Unknown,0,2023-01-24 06:17:00,Tuesday,0,UNK_37617,0
+1451.87,Electronics,KwaZulu-Natal,ATM Withdrawal,0,21,iPhone,0,2023-01-26 20:10:00,Thursday,0,IPH_84258,0
+1351.0,Groceries,Western Cape,EFT,0,19,Unknown,0,2023-01-31 19:42:00,Tuesday,0,UNK_60075,0
+275.12,Restaurants,Western Cape,EFT,1,17,Android,0,2023-01-18 06:26:00,Wednesday,0,AND_32631,0
+3315.03,Fuel,Gauteng,Online,0,2,Windows,0,2023-02-05 12:19:00,Sunday,1,WIN_72444,0
+3962.59,Online Store,KwaZulu-Natal,ATM Withdrawal,0,22,Windows,0,2023-02-05 01:06:00,Sunday,1,WIN_17883,0
+478.65,Fuel,Western Cape,EFT,1,13,Unknown,0,2023-02-01 15:28:00,Wednesday,0,UNK_29708,0
+5433.18,Clothing,Eastern Cape,ATM Withdrawal,1,23,Unknown,0,2023-01-21 20:28:00,Saturday,1,UNK_56221,0
+3183.96,Fuel,Western Cape,POS,0,1,iPhone,0,2023-01-15 15:19:00,Sunday,1,IPH_27197,0
+3680.24,Clothing,Mpumalanga,POS,1,13,iPhone,0,2023-01-14 11:13:00,Saturday,1,IPH_31134,0
+3096.52,Restaurants,Mpumalanga,EFT,0,21,Android,0,2023-01-02 00:40:00,Monday,0,AND_43550,0
+2817.33,Clothing,Western Cape,ATM Withdrawal,0,10,Android,0,2023-01-10 10:05:00,Tuesday,0,AND_24642,0
+3926.29,Fuel,KwaZulu-Natal,EFT,0,15,Android,0,2023-01-27 01:49:00,Friday,0,AND_30439,0
+1103.58,Fuel,KwaZulu-Natal,ATM Withdrawal,1,7,Unknown,0,2023-01-23 00:27:00,Monday,0,UNK_34583,0
+1289.86,Clothing,Limpopo,ATM Withdrawal,0,6,Unknown,0,2023-02-03 03:44:00,Friday,0,UNK_89538,0
+6035.26,Electronics,Mpumalanga,Online,0,10,Windows,0,2023-01-03 09:09:00,Tuesday,0,WIN_72014,0
+6623.89,Restaurants,Eastern Cape,Online,1,2,Android,0,2023-01-07 03:10:00,Saturday,1,AND_29523,0
+2625.7,Groceries,KwaZulu-Natal,Online,1,16,Unknown,0,2023-01-29 17:41:00,Sunday,1,UNK_80543,0
+1909.8,Online Store,Gauteng,EFT,0,13,Windows,0,2023-01-14 09:34:00,Saturday,1,WIN_95971,0
+4515.12,Fuel,Mpumalanga,Online,1,5,Android,0,2023-01-05 20:00:00,Thursday,0,AND_86830,0
+2872.96,Online Store,Eastern Cape,Online,0,7,iPhone,0,2023-02-06 05:57:00,Monday,0,IPH_55538,0
+197.2,Groceries,Eastern Cape,POS,1,21,iPhone,0,2023-01-29 19:09:00,Sunday,1,IPH_57310,0
+1109.95,Online Store,KwaZulu-Natal,ATM Withdrawal,1,4,Unknown,0,2023-01-16 06:16:00,Monday,0,UNK_20908,0
+5017.49,Groceries,Eastern Cape,ATM Withdrawal,1,7,Windows,0,2023-01-31 03:49:00,Tuesday,0,WIN_67290,0
+4619.29,Clothing,KwaZulu-Natal,Online,0,1,iPhone,0,2023-01-26 01:33:00,Thursday,0,IPH_63634,0
+209.13,Electronics,Western Cape,ATM Withdrawal,0,14,Windows,0,2023-01-30 00:40:00,Monday,0,WIN_22699,0
+1569.37,Fuel,Mpumalanga,POS,0,11,Windows,0,2023-01-30 23:16:00,Monday,0,WIN_76912,0
+1632.9,Groceries,Limpopo,POS,1,16,iPhone,0,2023-01-04 15:59:00,Wednesday,0,IPH_24255,0
+4709.81,Online Store,Western Cape,Online,0,0,Windows,0,2023-01-24 02:22:00,Tuesday,0,WIN_89183,0
+157.58,Fuel,Mpumalanga,POS,1,14,iPhone,0,2023-01-01 20:35:00,Sunday,1,IPH_70282,0
+746.68,Electronics,KwaZulu-Natal,ATM Withdrawal,1,13,Unknown,0,2023-01-03 04:26:00,Tuesday,0,UNK_68249,0
+5603.41,Clothing,Mpumalanga,EFT,1,19,Android,1,2023-02-03 08:31:00,Friday,0,AND_48176,0
+1266.24,Fuel,KwaZulu-Natal,ATM Withdrawal,1,21,Android,0,2023-01-20 17:51:00,Friday,0,AND_18163,0
+4576.17,Groceries,Western Cape,EFT,1,15,Unknown,0,2023-01-28 07:54:00,Saturday,1,UNK_64210,0
+1682.52,Electronics,Gauteng,Online,1,8,iPhone,0,2023-02-01 02:08:00,Wednesday,0,IPH_81979,0
+714.1,Online Store,Gauteng,EFT,0,0,iPhone,0,2023-02-05 03:58:00,Sunday,1,IPH_88860,0
+1717.34,Electronics,Mpumalanga,POS,1,16,iPhone,0,2023-02-02 06:47:00,Thursday,0,IPH_31143,0
+5061.42,Electronics,Gauteng,ATM Withdrawal,1,12,iPhone,0,2023-01-19 05:48:00,Thursday,0,IPH_14920,0
+5992.76,Restaurants,KwaZulu-Natal,EFT,1,20,Unknown,0,2023-01-13 21:12:00,Friday,0,UNK_92911,0
+5814.93,Electronics,Eastern Cape,ATM Withdrawal,1,20,Android,0,2023-01-07 06:22:00,Saturday,1,AND_47996,0
+2792.34,Electronics,KwaZulu-Natal,Online,0,4,Windows,1,2023-01-16 06:24:00,Monday,0,WIN_21748,1
+4683.23,Fuel,Eastern Cape,Online,0,9,Windows,0,2023-01-15 01:05:00,Sunday,1,WIN_91251,0
+1450.79,Online Store,Western Cape,POS,1,5,Android,0,2023-01-22 03:23:00,Sunday,1,AND_57252,0
+2066.17,Fuel,Limpopo,Online,0,23,Unknown,0,2023-01-26 01:17:00,Thursday,0,UNK_73179,1
+6276.42,Fuel,Eastern Cape,EFT,1,18,Windows,0,2023-02-06 13:52:00,Monday,0,WIN_16450,0
+110.75,Groceries,Gauteng,Online,1,12,Android,0,2023-01-28 10:09:00,Saturday,1,AND_62756,0
+616.85,Fuel,KwaZulu-Natal,POS,1,0,Unknown,0,2023-01-25 08:04:00,Wednesday,0,UNK_60235,0
+1471.05,Restaurants,Western Cape,ATM Withdrawal,1,19,Windows,1,2023-01-13 23:33:00,Friday,0,WIN_10020,0
+205.19,Restaurants,Gauteng,ATM Withdrawal,0,14,iPhone,0,2023-01-02 21:35:00,Monday,0,IPH_90253,0
+1286.42,Groceries,Western Cape,Online,0,13,iPhone,0,2023-01-12 06:35:00,Thursday,0,IPH_19664,0
+4089.63,Clothing,Limpopo,EFT,1,7,Unknown,0,2023-01-30 01:23:00,Monday,0,UNK_76635,0
+2961.54,Online Store,KwaZulu-Natal,POS,1,9,iPhone,0,2023-01-09 05:32:00,Monday,0,IPH_33225,0
+6250.85,Online Store,Mpumalanga,EFT,1,8,Unknown,0,2023-01-28 00:52:00,Saturday,1,UNK_78173,1
+5725.76,Fuel,KwaZulu-Natal,POS,0,16,Android,0,2023-01-23 03:37:00,Monday,0,AND_95333,0
+2405.89,Fuel,Limpopo,Online,0,8,Android,0,2023-01-08 00:23:00,Sunday,1,AND_50225,0
+1830.78,Clothing,KwaZulu-Natal,POS,1,2,Windows,0,2023-01-11 08:43:00,Wednesday,0,WIN_20807,0
+2670.25,Fuel,Mpumalanga,POS,1,10,Unknown,0,2023-01-20 02:46:00,Friday,0,UNK_93274,0
+4140.26,Online Store,Eastern Cape,Online,1,11,Windows,0,2023-01-17 05:32:00,Tuesday,0,WIN_16402,0
+1891.08,Electronics,Western Cape,EFT,0,9,Windows,0,2023-01-30 16:38:00,Monday,0,WIN_14521,0
+4376.56,Restaurants,Mpumalanga,Online,1,16,Android,0,2023-01-29 01:48:00,Sunday,1,AND_73165,0
+2877.69,Electronics,Gauteng,POS,1,16,Windows,0,2023-01-23 03:03:00,Monday,0,WIN_18382,0
+3873.29,Electronics,Limpopo,Online,1,10,iPhone,0,2023-02-01 10:15:00,Wednesday,0,IPH_25065,0
+3064.16,Online Store,Eastern Cape,POS,0,21,Windows,0,2023-01-22 17:30:00,Sunday,1,WIN_95470,0
+2075.37,Electronics,Gauteng,Online,1,3,Unknown,0,2023-02-06 19:55:00,Monday,0,UNK_24425,0
+6640.2,Clothing,Gauteng,ATM Withdrawal,1,6,iPhone,0,2023-01-09 19:09:00,Monday,0,IPH_23111,0
+5349.97,Groceries,Limpopo,ATM Withdrawal,1,20,Android,0,2023-01-28 11:56:00,Saturday,1,AND_50799,0
+997.99,Fuel,Eastern Cape,Online,1,13,Unknown,0,2023-01-15 13:37:00,Sunday,1,UNK_63257,0
+6081.91,Groceries,Gauteng,EFT,1,6,iPhone,0,2023-01-12 03:42:00,Thursday,0,IPH_71177,0
+3422.27,Restaurants,Gauteng,POS,1,23,Unknown,0,2023-01-08 10:43:00,Sunday,1,UNK_91046,0
+6263.97,Fuel,Eastern Cape,ATM Withdrawal,1,7,iPhone,0,2023-01-22 12:17:00,Sunday,1,IPH_47851,0
+5602.99,Electronics,KwaZulu-Natal,EFT,0,0,Unknown,1,2023-01-09 18:56:00,Monday,0,UNK_18816,0
+2987.99,Restaurants,Gauteng,POS,0,23,Unknown,0,2023-01-09 05:26:00,Monday,0,UNK_87853,0
+176.84,Fuel,Western Cape,ATM Withdrawal,0,21,iPhone,1,2023-02-08 04:23:00,Wednesday,0,IPH_12175,0
+1895.37,Clothing,Eastern Cape,ATM Withdrawal,1,3,Android,0,2023-02-01 01:28:00,Wednesday,0,AND_21341,0
+3800.61,Clothing,Gauteng,Online,1,11,Android,0,2023-01-30 01:32:00,Monday,0,AND_73908,0
+4441.68,Clothing,Limpopo,POS,1,23,Unknown,0,2023-01-31 20:04:00,Tuesday,0,UNK_35654,0
+1820.06,Clothing,Mpumalanga,EFT,0,2,Unknown,0,2023-02-07 12:36:00,Tuesday,0,UNK_70895,0
+992.71,Electronics,Western Cape,EFT,0,12,Android,0,2023-01-23 11:45:00,Monday,0,AND_69696,0
+5847.81,Groceries,Mpumalanga,EFT,1,19,Android,0,2023-01-10 01:08:00,Tuesday,0,AND_67889,0
+6891.13,Fuel,Mpumalanga,POS,1,5,Windows,0,2023-02-03 13:43:00,Friday,0,WIN_97144,0
+3689.32,Electronics,Gauteng,EFT,0,10,Android,0,2023-01-30 00:58:00,Monday,0,AND_93115,0
+1218.32,Clothing,Western Cape,EFT,1,22,Unknown,0,2023-01-17 12:04:00,Tuesday,0,UNK_40194,0
+1920.71,Groceries,Western Cape,EFT,0,3,iPhone,0,2023-01-19 18:59:00,Thursday,0,IPH_44837,0
+148.37,Restaurants,KwaZulu-Natal,Online,0,19,Android,0,2023-01-17 10:07:00,Tuesday,0,AND_78894,0
+6401.81,Restaurants,Mpumalanga,Online,1,15,Windows,0,2023-02-06 08:26:00,Monday,0,WIN_94358,0
+841.9,Restaurants,Western Cape,POS,0,6,Windows,0,2023-01-14 20:29:00,Saturday,1,WIN_51576,0
+4044.08,Clothing,KwaZulu-Natal,POS,1,21,Windows,0,2023-02-07 17:16:00,Tuesday,0,WIN_29727,0
+1932.91,Restaurants,Eastern Cape,EFT,0,10,iPhone,0,2023-02-05 17:03:00,Sunday,1,IPH_44579,0
+3888.16,Online Store,KwaZulu-Natal,Online,0,23,Android,0,2023-01-25 23:06:00,Wednesday,0,AND_26555,0
+4566.91,Fuel,Limpopo,ATM Withdrawal,0,0,Android,0,2023-01-24 00:47:00,Tuesday,0,AND_63294,0
+5811.6,Fuel,Gauteng,ATM Withdrawal,1,6,Android,0,2023-01-15 22:53:00,Sunday,1,AND_59777,0
+1460.82,Clothing,Eastern Cape,EFT,1,11,iPhone,0,2023-01-02 08:45:00,Monday,0,IPH_15906,0
+96.75,Online Store,Eastern Cape,EFT,1,6,iPhone,1,2023-01-06 14:20:00,Friday,0,IPH_50751,0
+975.46,Electronics,Limpopo,Online,0,22,Unknown,0,2023-01-30 21:22:00,Monday,0,UNK_79599,0
+6302.13,Electronics,KwaZulu-Natal,Online,0,6,Windows,0,2023-01-19 22:53:00,Thursday,0,WIN_84180,0
+6119.75,Restaurants,Gauteng,Online,1,9,Windows,1,2023-01-07 11:28:00,Saturday,1,WIN_83678,0
+4189.94,Groceries,KwaZulu-Natal,POS,1,15,Android,0,2023-01-11 22:08:00,Wednesday,0,AND_41644,0
+4211.61,Electronics,Western Cape,POS,1,7,iPhone,0,2023-02-07 13:16:00,Tuesday,0,IPH_43521,0
+4661.96,Groceries,KwaZulu-Natal,EFT,0,8,iPhone,0,2023-01-15 23:10:00,Sunday,1,IPH_21564,0
+1244.09,Fuel,Eastern Cape,POS,1,8,Android,0,2023-02-06 01:34:00,Monday,0,AND_80640,0
+6402.6,Groceries,Gauteng,Online,1,1,Android,0,2023-01-13 13:21:00,Friday,0,AND_37299,0
+2943.02,Fuel,KwaZulu-Natal,Online,1,12,Unknown,0,2023-01-22 21:29:00,Sunday,1,UNK_57958,0
+2694.31,Online Store,Gauteng,POS,1,12,Windows,0,2023-01-02 11:08:00,Monday,0,WIN_66078,0
+3642.05,Online Store,Gauteng,ATM Withdrawal,0,22,Windows,0,2023-01-22 02:31:00,Sunday,1,WIN_23421,0
+347.82,Clothing,Western Cape,EFT,1,22,Windows,0,2023-01-26 15:20:00,Thursday,0,WIN_98747,0
+1180.66,Clothing,Western Cape,ATM Withdrawal,1,3,Unknown,0,2023-01-10 20:41:00,Tuesday,0,UNK_21202,0
+5171.47,Restaurants,Eastern Cape,EFT,1,23,Android,0,2023-01-24 09:55:00,Tuesday,0,AND_52185,0
+597.93,Electronics,Limpopo,ATM Withdrawal,1,11,Android,0,2023-01-27 02:55:00,Friday,0,AND_13685,0
+4230.0,Restaurants,Gauteng,POS,1,16,Windows,0,2023-01-28 17:06:00,Saturday,1,WIN_52637,0
+1732.54,Fuel,Limpopo,EFT,1,1,Windows,0,2023-02-01 06:29:00,Wednesday,0,WIN_28366,0
+2737.28,Restaurants,Eastern Cape,EFT,0,12,Unknown,0,2023-01-13 22:52:00,Friday,0,UNK_34276,0
+2035.08,Groceries,Gauteng,EFT,0,17,iPhone,0,2023-01-24 02:16:00,Tuesday,0,IPH_90946,0
+2502.6,Fuel,Gauteng,Online,1,14,iPhone,0,2023-02-09 11:31:00,Thursday,0,IPH_58239,0
+5038.94,Clothing,Mpumalanga,Online,1,7,Windows,0,2023-02-06 05:14:00,Monday,0,WIN_85214,0
+2093.91,Online Store,Limpopo,ATM Withdrawal,1,14,Unknown,0,2023-02-08 09:59:00,Wednesday,0,UNK_34575,0
+3973.5,Clothing,KwaZulu-Natal,POS,0,0,Windows,0,2023-01-16 23:41:00,Monday,0,WIN_51401,0
+3342.83,Electronics,Western Cape,Online,1,19,iPhone,0,2023-02-01 21:58:00,Wednesday,0,IPH_51230,0
+4652.42,Fuel,KwaZulu-Natal,EFT,1,9,Windows,0,2023-01-26 07:26:00,Thursday,0,WIN_89424,0
+6559.07,Fuel,Limpopo,Online,0,11,iPhone,0,2023-01-04 23:10:00,Wednesday,0,IPH_92263,0
+5133.35,Groceries,Western Cape,POS,1,4,iPhone,0,2023-02-03 11:45:00,Friday,0,IPH_78617,1
+1520.28,Electronics,KwaZulu-Natal,Online,0,8,iPhone,0,2023-01-28 16:03:00,Saturday,1,IPH_33021,0
+237.66,Online Store,Mpumalanga,EFT,0,22,Android,0,2023-01-09 14:44:00,Monday,0,AND_19449,0
+1850.6,Fuel,Western Cape,ATM Withdrawal,1,7,Android,0,2023-01-04 20:41:00,Wednesday,0,AND_25657,0
+4173.64,Fuel,Gauteng,EFT,1,15,Windows,0,2023-02-04 03:35:00,Saturday,1,WIN_45059,1
+378.95,Groceries,KwaZulu-Natal,POS,1,13,iPhone,0,2023-01-04 20:05:00,Wednesday,0,IPH_11532,0
+3484.64,Restaurants,Western Cape,ATM Withdrawal,1,12,Android,0,2023-01-05 08:09:00,Thursday,0,AND_60805,0
+4185.96,Online Store,Mpumalanga,Online,1,22,Windows,0,2023-01-18 19:46:00,Wednesday,0,WIN_91551,0
+2353.02,Clothing,Western Cape,Online,1,20,Windows,1,2023-01-07 02:14:00,Saturday,1,WIN_47756,0
+5400.97,Electronics,Western Cape,Online,1,12,Windows,0,2023-02-07 09:43:00,Tuesday,0,WIN_81880,0
+764.06,Fuel,Mpumalanga,ATM Withdrawal,1,4,Windows,0,2023-01-20 14:29:00,Friday,0,WIN_84642,0
+544.46,Fuel,KwaZulu-Natal,EFT,0,15,Windows,0,2023-01-24 14:32:00,Tuesday,0,WIN_44206,0
+5102.76,Clothing,Eastern Cape,ATM Withdrawal,1,10,Unknown,0,2023-02-08 02:26:00,Wednesday,0,UNK_62168,0
+3478.53,Online Store,KwaZulu-Natal,ATM Withdrawal,0,21,iPhone,0,2023-01-23 02:01:00,Monday,0,IPH_85188,0
+4825.05,Restaurants,Limpopo,POS,0,4,Windows,0,2023-01-15 23:15:00,Sunday,1,WIN_34550,0
+3055.09,Fuel,Mpumalanga,ATM Withdrawal,1,12,Unknown,0,2023-02-02 22:07:00,Thursday,0,UNK_16389,0
+1739.89,Online Store,KwaZulu-Natal,Online,1,10,iPhone,0,2023-01-19 14:42:00,Thursday,0,IPH_97897,0
+5737.33,Clothing,Western Cape,EFT,1,18,Android,0,2023-01-14 14:12:00,Saturday,1,AND_45847,0
+5599.92,Groceries,Mpumalanga,EFT,1,2,Windows,0,2023-01-31 00:33:00,Tuesday,0,WIN_89239,0
+4868.98,Restaurants,Gauteng,EFT,1,14,Unknown,0,2023-02-03 05:40:00,Friday,0,UNK_28642,0
+1919.57,Electronics,KwaZulu-Natal,Online,0,6,Android,0,2023-02-02 20:49:00,Thursday,0,AND_46509,0
+4139.81,Fuel,Mpumalanga,Online,0,6,Unknown,0,2023-02-10 11:12:00,Friday,0,UNK_89417,0
+2539.6,Online Store,KwaZulu-Natal,Online,0,5,iPhone,0,2023-02-02 17:28:00,Thursday,0,IPH_59237,0
+659.24,Groceries,Mpumalanga,Online,1,2,iPhone,0,2023-02-02 01:53:00,Thursday,0,IPH_25414,1
+6422.85,Electronics,Western Cape,Online,0,12,Android,0,2023-02-05 16:25:00,Sunday,1,AND_73176,0
+974.99,Online Store,Gauteng,ATM Withdrawal,1,6,Unknown,0,2023-01-01 16:47:00,Sunday,1,UNK_89865,0
+6652.66,Online Store,Gauteng,Online,1,4,Windows,1,2023-01-16 12:18:00,Monday,0,WIN_72059,0
+3133.12,Electronics,Limpopo,Online,0,22,Windows,0,2023-01-31 21:14:00,Tuesday,0,WIN_59150,0
+1312.23,Groceries,Mpumalanga,Online,1,17,Android,0,2023-01-26 06:23:00,Thursday,0,AND_98367,0
+3802.47,Clothing,KwaZulu-Natal,Online,1,21,Android,0,2023-01-08 23:28:00,Sunday,1,AND_51091,0
+6113.16,Groceries,Gauteng,EFT,0,7,Android,1,2023-01-14 03:58:00,Saturday,1,AND_83124,0
+5130.93,Restaurants,Gauteng,Online,1,16,Unknown,0,2023-01-15 12:53:00,Sunday,1,UNK_10903,0
+5649.8,Fuel,Eastern Cape,ATM Withdrawal,1,19,Windows,0,2023-01-25 01:19:00,Wednesday,0,WIN_64235,0
+4618.31,Electronics,Eastern Cape,ATM Withdrawal,1,0,Windows,0,2023-02-04 22:34:00,Saturday,1,WIN_68565,0
+4852.09,Clothing,Gauteng,ATM Withdrawal,1,13,Windows,0,2023-02-09 03:13:00,Thursday,0,WIN_65342,0
+5947.39,Electronics,Mpumalanga,POS,1,16,Android,0,2023-02-01 15:32:00,Wednesday,0,AND_52723,0
+1762.68,Electronics,Limpopo,EFT,1,9,Windows,0,2023-02-05 12:19:00,Sunday,1,WIN_45572,0
+3436.19,Groceries,Gauteng,Online,0,11,iPhone,0,2023-01-21 03:14:00,Saturday,1,IPH_27610,1
+1564.04,Fuel,Western Cape,POS,1,15,Android,0,2023-01-17 19:56:00,Tuesday,0,AND_44052,0
+6913.92,Restaurants,KwaZulu-Natal,Online,1,13,Windows,0,2023-01-17 23:15:00,Tuesday,0,WIN_97063,0
+6609.53,Online Store,Limpopo,POS,0,15,Unknown,0,2023-01-27 05:54:00,Friday,0,UNK_47550,0
+295.2,Online Store,Western Cape,POS,1,7,Android,0,2023-01-06 20:38:00,Friday,0,AND_64033,0
+4944.91,Electronics,Limpopo,ATM Withdrawal,1,22,iPhone,0,2023-01-25 18:42:00,Wednesday,0,IPH_39011,0
+6478.23,Fuel,Western Cape,ATM Withdrawal,1,9,iPhone,0,2023-01-29 08:46:00,Sunday,1,IPH_44764,0
+1280.42,Clothing,KwaZulu-Natal,POS,1,16,Unknown,0,2023-01-19 23:25:00,Thursday,0,UNK_63533,0
+3984.26,Groceries,KwaZulu-Natal,ATM Withdrawal,1,17,Unknown,0,2023-02-10 10:09:00,Friday,0,UNK_34064,0
+6410.11,Fuel,Eastern Cape,POS,1,19,Android,0,2023-01-27 01:48:00,Friday,0,AND_59581,0
+256.94,Fuel,Mpumalanga,EFT,1,15,Android,0,2023-01-10 21:25:00,Tuesday,0,AND_38702,0
+4887.99,Groceries,Western Cape,ATM Withdrawal,1,16,iPhone,0,2023-01-21 17:39:00,Saturday,1,IPH_95701,0
+2095.5,Electronics,Eastern Cape,ATM Withdrawal,1,15,Unknown,0,2023-01-29 23:06:00,Sunday,1,UNK_18631,0
+6472.29,Fuel,Western Cape,ATM Withdrawal,1,18,Android,1,2023-01-15 06:16:00,Sunday,1,AND_97388,0
+6797.99,Online Store,Eastern Cape,EFT,1,23,iPhone,0,2023-01-05 01:09:00,Thursday,0,IPH_80043,0
+6610.98,Groceries,KwaZulu-Natal,POS,1,23,Unknown,0,2023-01-26 04:32:00,Thursday,0,UNK_76063,0
+3330.02,Clothing,Limpopo,Online,1,7,iPhone,0,2023-02-10 12:27:00,Friday,0,IPH_38981,0
+6037.06,Restaurants,Eastern Cape,ATM Withdrawal,1,5,Windows,1,2023-01-22 02:29:00,Sunday,1,WIN_45764,0
+5914.95,Electronics,Western Cape,POS,0,5,Unknown,0,2023-02-08 20:10:00,Wednesday,0,UNK_60513,0
+2247.32,Groceries,Western Cape,EFT,1,20,Android,0,2023-02-05 21:13:00,Sunday,1,AND_76198,0
+5805.83,Restaurants,Mpumalanga,Online,1,8,Android,0,2023-01-07 22:18:00,Saturday,1,AND_34940,0
+278.31,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,3,Windows,0,2023-01-31 14:25:00,Tuesday,0,WIN_81792,0
+4181.96,Clothing,Western Cape,EFT,1,11,Unknown,0,2023-01-20 02:39:00,Friday,0,UNK_38432,0
+1625.46,Fuel,Gauteng,EFT,1,11,iPhone,0,2023-01-12 07:08:00,Thursday,0,IPH_18367,0
+861.56,Clothing,Limpopo,Online,1,22,Android,0,2023-01-30 18:59:00,Monday,0,AND_35511,0
+557.13,Fuel,Eastern Cape,POS,0,16,Windows,0,2023-02-02 04:20:00,Thursday,0,WIN_18573,0
+4880.1,Fuel,Mpumalanga,ATM Withdrawal,1,14,Windows,0,2023-01-09 08:20:00,Monday,0,WIN_25582,0
+2392.33,Groceries,Limpopo,ATM Withdrawal,1,8,Unknown,1,2023-02-09 12:50:00,Thursday,0,UNK_15378,0
+5078.87,Groceries,KwaZulu-Natal,POS,0,6,Unknown,0,2023-02-02 15:14:00,Thursday,0,UNK_75296,0
+476.19,Electronics,Mpumalanga,POS,1,9,Android,0,2023-02-10 09:59:00,Friday,0,AND_23500,0
+2220.73,Fuel,Eastern Cape,POS,1,15,Windows,0,2023-01-15 05:15:00,Sunday,1,WIN_75841,0
+3785.65,Restaurants,Eastern Cape,Online,0,11,iPhone,0,2023-02-10 17:57:00,Friday,0,IPH_31881,0
+5539.25,Online Store,Gauteng,Online,1,6,Windows,0,2023-01-17 10:34:00,Tuesday,0,WIN_80233,0
+2244.89,Electronics,KwaZulu-Natal,ATM Withdrawal,1,17,iPhone,1,2023-01-04 00:39:00,Wednesday,0,IPH_61542,0
+4388.72,Groceries,Mpumalanga,Online,0,14,iPhone,1,2023-02-03 07:53:00,Friday,0,IPH_75285,0
+6204.12,Clothing,Mpumalanga,EFT,0,5,Android,0,2023-01-31 19:37:00,Tuesday,0,AND_69547,0
+4318.73,Electronics,Western Cape,ATM Withdrawal,0,11,Windows,0,2023-01-27 07:49:00,Friday,0,WIN_72151,0
+1646.06,Electronics,Gauteng,Online,0,10,iPhone,0,2023-01-22 17:19:00,Sunday,1,IPH_17222,0
+190.32,Electronics,Gauteng,POS,1,19,Unknown,0,2023-01-03 02:33:00,Tuesday,0,UNK_17933,0
+6093.29,Electronics,Mpumalanga,EFT,1,2,iPhone,0,2023-01-28 13:08:00,Saturday,1,IPH_93385,0
+168.46,Online Store,Mpumalanga,POS,0,1,Unknown,0,2023-01-19 15:27:00,Thursday,0,UNK_99772,0
+6125.42,Clothing,Limpopo,ATM Withdrawal,0,5,Unknown,0,2023-01-25 19:54:00,Wednesday,0,UNK_88437,0
+3711.98,Clothing,Limpopo,POS,0,23,Windows,0,2023-01-20 05:12:00,Friday,0,WIN_16940,0
+6574.69,Clothing,Limpopo,Online,1,21,Unknown,0,2023-02-12 08:53:00,Sunday,1,UNK_94590,0
+5595.51,Fuel,Gauteng,Online,0,4,iPhone,0,2023-01-27 19:04:00,Friday,0,IPH_69145,0
+6985.58,Restaurants,Western Cape,ATM Withdrawal,1,17,Unknown,0,2023-02-03 02:06:00,Friday,0,UNK_53610,0
+2467.97,Clothing,Eastern Cape,POS,1,15,Windows,0,2023-02-11 04:57:00,Saturday,1,WIN_67520,0
+5374.97,Electronics,Limpopo,ATM Withdrawal,0,7,Android,0,2023-01-27 07:55:00,Friday,0,AND_14544,0
+2825.48,Electronics,Western Cape,POS,1,19,iPhone,0,2023-01-02 06:09:00,Monday,0,IPH_64812,0
+3369.53,Clothing,KwaZulu-Natal,EFT,1,21,iPhone,0,2023-01-03 05:18:00,Tuesday,0,IPH_81610,0
+4399.99,Clothing,Limpopo,Online,1,10,Windows,0,2023-02-01 05:01:00,Wednesday,0,WIN_61500,0
+6118.27,Electronics,Eastern Cape,ATM Withdrawal,1,9,Windows,0,2023-01-13 20:33:00,Friday,0,WIN_49618,1
+6888.9,Fuel,KwaZulu-Natal,EFT,0,23,Windows,0,2023-01-26 22:09:00,Thursday,0,WIN_35444,0
+5382.55,Groceries,KwaZulu-Natal,EFT,0,11,Windows,0,2023-01-10 12:56:00,Tuesday,0,WIN_95982,0
+2936.01,Groceries,Eastern Cape,ATM Withdrawal,1,20,iPhone,1,2023-01-13 12:12:00,Friday,0,IPH_66586,0
+2961.07,Clothing,Limpopo,ATM Withdrawal,0,5,Android,0,2023-01-23 17:43:00,Monday,0,AND_34789,0
+5168.32,Online Store,Gauteng,EFT,0,19,Unknown,0,2023-02-13 07:24:00,Monday,0,UNK_11617,0
+1686.66,Clothing,Eastern Cape,POS,0,4,Unknown,0,2023-01-28 15:45:00,Saturday,1,UNK_13333,0
+791.11,Clothing,Eastern Cape,EFT,0,22,Android,0,2023-02-11 16:00:00,Saturday,1,AND_50002,0
+2495.26,Groceries,Eastern Cape,ATM Withdrawal,1,8,Android,0,2023-02-12 17:20:00,Sunday,1,AND_73620,0
+2024.93,Electronics,KwaZulu-Natal,EFT,0,15,Android,0,2023-01-10 20:34:00,Tuesday,0,AND_97688,0
+2088.23,Clothing,Western Cape,POS,1,21,Windows,0,2023-01-15 09:15:00,Sunday,1,WIN_99627,0
+1650.58,Electronics,Gauteng,Online,1,13,iPhone,1,2023-02-04 12:46:00,Saturday,1,IPH_10511,0
+313.81,Electronics,Limpopo,Online,1,21,iPhone,0,2023-02-08 19:33:00,Wednesday,0,IPH_47850,0
+144.76,Online Store,Limpopo,EFT,0,7,iPhone,0,2023-01-24 13:43:00,Tuesday,0,IPH_92172,0
+6914.3,Electronics,Western Cape,POS,1,19,Windows,0,2023-02-14 10:50:00,Tuesday,0,WIN_96053,0
+3005.86,Groceries,Eastern Cape,Online,0,18,iPhone,0,2023-01-02 06:08:00,Monday,0,IPH_41786,0
+2702.6,Fuel,Gauteng,EFT,1,13,Windows,0,2023-01-14 22:55:00,Saturday,1,WIN_84356,0
+4763.94,Fuel,Limpopo,EFT,1,6,iPhone,0,2023-01-29 05:54:00,Sunday,1,IPH_46244,0
+1543.41,Restaurants,Mpumalanga,POS,1,4,Android,0,2023-01-22 11:25:00,Sunday,1,AND_84714,0
+6650.73,Clothing,Limpopo,ATM Withdrawal,1,17,Unknown,0,2023-01-06 21:42:00,Friday,0,UNK_77261,0
+5508.69,Groceries,Eastern Cape,EFT,1,1,Unknown,0,2023-01-18 00:35:00,Wednesday,0,UNK_28477,0
+644.09,Electronics,Mpumalanga,ATM Withdrawal,1,10,Windows,0,2023-01-02 21:03:00,Monday,0,WIN_56533,0
+2934.71,Fuel,Western Cape,ATM Withdrawal,1,21,iPhone,0,2023-01-30 05:53:00,Monday,0,IPH_44469,0
+6156.25,Groceries,Gauteng,Online,1,7,Unknown,1,2023-02-10 08:46:00,Friday,0,UNK_18496,0
+6614.23,Fuel,Western Cape,ATM Withdrawal,0,0,Android,1,2023-02-10 01:17:00,Friday,0,AND_22270,0
+3282.46,Electronics,Western Cape,POS,1,21,Android,0,2023-02-01 20:26:00,Wednesday,0,AND_86008,0
+4301.61,Fuel,Gauteng,Online,1,11,Android,0,2023-01-22 11:29:00,Sunday,1,AND_30724,1
+1185.9,Clothing,Gauteng,Online,1,1,Windows,0,2023-01-24 13:25:00,Tuesday,0,WIN_40416,0
+6938.36,Clothing,Limpopo,Online,1,17,Windows,1,2023-01-07 20:37:00,Saturday,1,WIN_45575,0
+1637.07,Restaurants,Limpopo,EFT,1,6,iPhone,0,2023-01-16 23:19:00,Monday,0,IPH_91190,0
+6600.27,Restaurants,Gauteng,EFT,0,16,Android,0,2023-01-10 03:22:00,Tuesday,0,AND_86614,0
+4554.53,Fuel,Mpumalanga,ATM Withdrawal,1,21,iPhone,0,2023-02-07 11:10:00,Tuesday,0,IPH_83108,0
+4262.0,Groceries,KwaZulu-Natal,Online,0,22,iPhone,0,2023-02-11 16:27:00,Saturday,1,IPH_27408,0
+3598.57,Clothing,Limpopo,Online,1,13,Android,0,2023-01-25 19:17:00,Wednesday,0,AND_29359,0
+1630.08,Groceries,KwaZulu-Natal,POS,0,23,iPhone,0,2023-02-03 09:08:00,Friday,0,IPH_18698,0
+1252.17,Groceries,Mpumalanga,ATM Withdrawal,0,6,Unknown,1,2023-01-07 05:02:00,Saturday,1,UNK_80392,0
+1558.99,Fuel,Gauteng,POS,1,21,Windows,0,2023-01-29 02:06:00,Sunday,1,WIN_49492,0
+1321.34,Groceries,Mpumalanga,ATM Withdrawal,1,2,iPhone,0,2023-02-02 08:23:00,Thursday,0,IPH_84781,0
+5461.5,Clothing,Limpopo,ATM Withdrawal,0,5,Android,0,2023-01-22 03:09:00,Sunday,1,AND_53634,0
+2463.87,Electronics,Western Cape,EFT,1,19,Windows,0,2023-01-12 17:13:00,Thursday,0,WIN_52864,0
+423.74,Restaurants,Gauteng,EFT,0,1,Windows,0,2023-02-10 07:21:00,Friday,0,WIN_47355,0
+6784.34,Electronics,Eastern Cape,POS,0,16,iPhone,0,2023-02-04 06:39:00,Saturday,1,IPH_47690,0
+6188.83,Groceries,KwaZulu-Natal,ATM Withdrawal,1,11,Unknown,0,2023-02-11 09:28:00,Saturday,1,UNK_47814,0
+6495.71,Electronics,Mpumalanga,Online,1,11,iPhone,1,2023-02-07 18:02:00,Tuesday,0,IPH_41645,0
+6964.46,Clothing,Gauteng,EFT,0,16,Unknown,0,2023-02-15 13:33:00,Wednesday,0,UNK_94814,0
+1233.79,Clothing,Mpumalanga,Online,0,9,Windows,0,2023-01-10 11:13:00,Tuesday,0,WIN_82739,0
+2785.77,Groceries,Gauteng,POS,0,2,iPhone,0,2023-01-05 16:46:00,Thursday,0,IPH_66630,0
+5312.5,Fuel,Limpopo,EFT,0,19,Android,0,2023-01-17 01:17:00,Tuesday,0,AND_58171,0
+4878.22,Electronics,Limpopo,EFT,1,17,iPhone,1,2023-01-07 15:01:00,Saturday,1,IPH_31658,0
+1094.19,Fuel,Limpopo,ATM Withdrawal,1,12,Unknown,0,2023-01-25 12:57:00,Wednesday,0,UNK_25797,0
+5714.52,Fuel,Mpumalanga,POS,0,11,Unknown,0,2023-01-30 13:27:00,Monday,0,UNK_68799,0
+1586.6,Online Store,Eastern Cape,ATM Withdrawal,1,16,iPhone,0,2023-01-28 02:17:00,Saturday,1,IPH_62236,0
+1582.25,Groceries,Limpopo,EFT,1,3,Unknown,0,2023-01-13 14:00:00,Friday,0,UNK_16265,0
+3768.08,Restaurants,Gauteng,POS,0,22,Windows,0,2023-02-12 05:12:00,Sunday,1,WIN_82134,0
+4158.72,Clothing,Limpopo,EFT,1,9,iPhone,0,2023-01-02 17:45:00,Monday,0,IPH_92678,0
+4069.0,Clothing,Western Cape,POS,1,10,Unknown,0,2023-01-17 16:09:00,Tuesday,0,UNK_63494,0
+658.58,Groceries,Limpopo,EFT,0,5,iPhone,0,2023-02-03 15:37:00,Friday,0,IPH_62268,0
+6144.68,Restaurants,Mpumalanga,Online,0,5,iPhone,0,2023-02-05 20:59:00,Sunday,1,IPH_36998,0
+1873.89,Clothing,Eastern Cape,Online,1,8,Android,0,2023-01-20 20:06:00,Friday,0,AND_71339,0
+924.01,Groceries,Western Cape,ATM Withdrawal,1,14,iPhone,0,2023-01-02 13:15:00,Monday,0,IPH_24306,0
+6223.46,Clothing,Mpumalanga,Online,0,1,Android,0,2023-01-30 03:20:00,Monday,0,AND_74006,0
+6690.45,Fuel,Mpumalanga,EFT,0,3,Unknown,0,2023-01-04 16:14:00,Wednesday,0,UNK_57345,0
+6037.65,Electronics,Mpumalanga,EFT,1,4,Android,0,2023-01-06 17:41:00,Friday,0,AND_21885,0
+5670.42,Electronics,Gauteng,Online,1,16,Android,0,2023-01-31 16:46:00,Tuesday,0,AND_53826,0
+4593.59,Clothing,Mpumalanga,ATM Withdrawal,1,7,Android,0,2023-01-16 04:06:00,Monday,0,AND_65597,0
+3864.98,Online Store,Gauteng,Online,1,7,Windows,0,2023-01-17 19:45:00,Tuesday,0,WIN_17443,0
+627.17,Restaurants,Mpumalanga,POS,0,21,Android,0,2023-01-24 05:46:00,Tuesday,0,AND_27084,0
+2871.0,Restaurants,KwaZulu-Natal,POS,1,11,iPhone,0,2023-02-15 23:15:00,Wednesday,0,IPH_99447,0
+2621.37,Restaurants,Western Cape,POS,1,20,Android,0,2023-02-15 09:40:00,Wednesday,0,AND_14383,0
+1833.08,Fuel,KwaZulu-Natal,Online,1,7,iPhone,1,2023-01-21 00:56:00,Saturday,1,IPH_44361,0
+5069.47,Restaurants,Mpumalanga,Online,0,18,Android,0,2023-01-14 01:50:00,Saturday,1,AND_90294,0
+3481.21,Electronics,Western Cape,Online,1,2,Windows,0,2023-01-15 19:22:00,Sunday,1,WIN_71331,0
+585.7,Fuel,Western Cape,POS,1,17,Unknown,0,2023-01-14 06:03:00,Saturday,1,UNK_30529,0
+1556.88,Groceries,Eastern Cape,ATM Withdrawal,1,20,Android,0,2023-01-26 11:52:00,Thursday,0,AND_68574,0
+4789.15,Restaurants,KwaZulu-Natal,EFT,1,18,Android,0,2023-01-29 23:36:00,Sunday,1,AND_98627,0
+551.39,Restaurants,Eastern Cape,Online,0,18,Windows,0,2023-01-24 12:26:00,Tuesday,0,WIN_40932,0
+5961.42,Groceries,Western Cape,ATM Withdrawal,1,14,Android,0,2023-01-20 18:41:00,Friday,0,AND_11908,0
+3476.12,Restaurants,Gauteng,EFT,1,5,iPhone,0,2023-01-11 15:10:00,Wednesday,0,IPH_40358,0
+3374.49,Groceries,Western Cape,EFT,1,15,Android,0,2023-01-24 06:54:00,Tuesday,0,AND_40412,0
+4155.01,Fuel,Eastern Cape,EFT,1,7,Android,0,2023-01-17 17:01:00,Tuesday,0,AND_93710,0
+5776.27,Electronics,KwaZulu-Natal,ATM Withdrawal,1,15,Unknown,0,2023-01-27 02:07:00,Friday,0,UNK_91032,0
+2447.71,Groceries,Mpumalanga,ATM Withdrawal,1,17,Unknown,0,2023-02-02 08:34:00,Thursday,0,UNK_12928,0
+4752.55,Online Store,Mpumalanga,POS,1,19,Android,0,2023-01-31 10:13:00,Tuesday,0,AND_75158,0
+3968.81,Groceries,KwaZulu-Natal,ATM Withdrawal,0,15,Windows,0,2023-01-23 10:51:00,Monday,0,WIN_40632,0
+1883.86,Restaurants,Mpumalanga,ATM Withdrawal,1,10,Unknown,0,2023-01-27 20:35:00,Friday,0,UNK_42309,0
+6152.84,Fuel,Mpumalanga,ATM Withdrawal,0,6,Android,0,2023-01-15 03:48:00,Sunday,1,AND_19280,0
+5586.03,Clothing,Eastern Cape,EFT,1,16,Unknown,0,2023-01-02 22:24:00,Monday,0,UNK_50449,0
+4615.99,Fuel,KwaZulu-Natal,Online,1,16,Android,0,2023-01-31 04:03:00,Tuesday,0,AND_97171,0
+5957.06,Clothing,Limpopo,POS,1,11,Unknown,0,2023-01-13 16:14:00,Friday,0,UNK_36957,0
+6073.71,Groceries,Gauteng,Online,1,12,Unknown,1,2023-02-02 06:58:00,Thursday,0,UNK_46895,0
+4964.37,Electronics,Gauteng,Online,1,9,iPhone,0,2023-02-05 23:54:00,Sunday,1,IPH_80499,0
+5862.35,Online Store,Mpumalanga,ATM Withdrawal,0,6,Android,0,2023-02-13 23:50:00,Monday,0,AND_31695,0
+4888.35,Fuel,Gauteng,POS,1,13,Android,0,2023-02-16 00:33:00,Thursday,0,AND_84893,0
+4767.38,Restaurants,KwaZulu-Natal,Online,0,22,Android,0,2023-01-02 07:09:00,Monday,0,AND_73123,0
+4337.91,Clothing,KwaZulu-Natal,Online,0,0,Android,0,2023-02-17 15:04:00,Friday,0,AND_35176,0
+5273.96,Restaurants,Western Cape,POS,1,16,Unknown,0,2023-02-03 02:59:00,Friday,0,UNK_28409,0
+1127.06,Electronics,Western Cape,ATM Withdrawal,0,3,iPhone,1,2023-02-01 06:46:00,Wednesday,0,IPH_66967,0
+6168.48,Clothing,Gauteng,Online,0,20,iPhone,0,2023-01-02 12:35:00,Monday,0,IPH_10987,0
+6105.47,Fuel,Limpopo,EFT,1,4,Windows,0,2023-02-11 15:59:00,Saturday,1,WIN_64462,0
+224.15,Groceries,Western Cape,Online,1,19,Android,0,2023-01-08 17:07:00,Sunday,1,AND_77501,0
+5784.2,Restaurants,Western Cape,EFT,1,23,Windows,0,2023-02-10 14:26:00,Friday,0,WIN_36015,0
+919.51,Electronics,KwaZulu-Natal,ATM Withdrawal,1,22,Unknown,0,2023-01-02 13:07:00,Monday,0,UNK_76404,0
+2359.13,Fuel,Limpopo,Online,1,6,Windows,0,2023-02-01 13:28:00,Wednesday,0,WIN_60281,0
+5209.69,Fuel,Mpumalanga,POS,1,9,Android,0,2023-01-22 12:37:00,Sunday,1,AND_47146,0
+1142.1,Fuel,Gauteng,POS,0,16,iPhone,0,2023-01-11 09:11:00,Wednesday,0,IPH_58231,0
+5729.41,Fuel,Western Cape,Online,1,6,iPhone,0,2023-01-06 22:38:00,Friday,0,IPH_39032,1
+5828.3,Clothing,Limpopo,ATM Withdrawal,1,0,Android,0,2023-01-22 20:04:00,Sunday,1,AND_38305,0
+3562.12,Fuel,Limpopo,ATM Withdrawal,1,6,Unknown,1,2023-01-07 16:56:00,Saturday,1,UNK_64306,0
+64.57,Restaurants,Gauteng,POS,1,23,Android,0,2023-01-25 02:10:00,Wednesday,0,AND_98176,0
+2023.53,Electronics,Limpopo,Online,1,10,Unknown,0,2023-01-31 18:10:00,Tuesday,0,UNK_28318,0
+4326.15,Clothing,Limpopo,ATM Withdrawal,0,8,iPhone,1,2023-02-10 11:24:00,Friday,0,IPH_23246,0
+6868.68,Fuel,Limpopo,POS,1,11,Unknown,0,2023-02-03 08:58:00,Friday,0,UNK_43844,0
+4430.06,Online Store,Western Cape,EFT,1,2,Android,0,2023-01-04 22:40:00,Wednesday,0,AND_42602,0
+1833.43,Online Store,Gauteng,Online,1,3,Android,0,2023-01-16 14:09:00,Monday,0,AND_31584,0
+4445.36,Electronics,Limpopo,EFT,0,3,Android,0,2023-01-15 16:01:00,Sunday,1,AND_25169,0
+3789.1,Groceries,Limpopo,EFT,1,12,Unknown,0,2023-02-14 20:49:00,Tuesday,0,UNK_35968,0
+5463.32,Groceries,Western Cape,ATM Withdrawal,1,22,Unknown,0,2023-02-12 15:06:00,Sunday,1,UNK_16385,0
+766.72,Clothing,Gauteng,ATM Withdrawal,0,18,Unknown,0,2023-01-19 16:01:00,Thursday,0,UNK_83758,0
+5331.97,Clothing,KwaZulu-Natal,ATM Withdrawal,0,9,iPhone,0,2023-01-05 06:03:00,Thursday,0,IPH_35444,0
+3798.04,Clothing,Western Cape,Online,1,4,Windows,0,2023-02-14 00:13:00,Tuesday,0,WIN_72497,0
+6741.68,Groceries,Gauteng,EFT,1,6,Windows,1,2023-02-13 18:15:00,Monday,0,WIN_15362,1
+2406.27,Online Store,Limpopo,Online,1,23,Android,0,2023-02-12 04:18:00,Sunday,1,AND_18250,0
+4435.7,Groceries,Gauteng,ATM Withdrawal,0,15,iPhone,0,2023-02-11 17:56:00,Saturday,1,IPH_78354,0
+6525.56,Restaurants,Gauteng,EFT,1,0,Unknown,0,2023-01-25 02:23:00,Wednesday,0,UNK_46368,0
+735.52,Fuel,Mpumalanga,Online,1,11,Android,0,2023-01-10 10:18:00,Tuesday,0,AND_54109,0
+6561.85,Clothing,Gauteng,Online,0,1,iPhone,1,2023-01-25 00:08:00,Wednesday,0,IPH_90589,0
+4821.44,Online Store,KwaZulu-Natal,POS,1,6,Android,0,2023-01-25 20:34:00,Wednesday,0,AND_67645,0
+493.5,Electronics,Gauteng,Online,0,10,iPhone,0,2023-01-25 15:38:00,Wednesday,0,IPH_66997,0
+2120.73,Electronics,KwaZulu-Natal,ATM Withdrawal,0,12,iPhone,0,2023-01-28 01:11:00,Saturday,1,IPH_37426,0
+4963.04,Fuel,Limpopo,Online,1,1,Windows,0,2023-01-14 09:03:00,Saturday,1,WIN_49023,0
+490.11,Online Store,KwaZulu-Natal,EFT,1,6,Android,0,2023-01-19 16:23:00,Thursday,0,AND_69267,0
+4083.55,Groceries,Limpopo,Online,0,14,Unknown,0,2023-01-23 00:20:00,Monday,0,UNK_34892,0
+2434.26,Groceries,Limpopo,POS,1,10,Windows,1,2023-01-08 05:33:00,Sunday,1,WIN_69232,0
+4353.99,Restaurants,KwaZulu-Natal,EFT,0,1,Windows,0,2023-01-24 02:04:00,Tuesday,0,WIN_69225,0
+339.28,Restaurants,Western Cape,EFT,0,6,Unknown,1,2023-02-10 11:28:00,Friday,0,UNK_26007,0
+6103.33,Groceries,Eastern Cape,POS,0,3,iPhone,0,2023-02-11 08:57:00,Saturday,1,IPH_89777,0
+6814.95,Electronics,Gauteng,ATM Withdrawal,1,10,Unknown,0,2023-01-21 23:57:00,Saturday,1,UNK_54858,0
+6782.77,Clothing,Mpumalanga,EFT,1,1,Android,1,2023-01-27 06:36:00,Friday,0,AND_55073,0
+5252.57,Electronics,Eastern Cape,ATM Withdrawal,1,15,Unknown,1,2023-01-03 11:36:00,Tuesday,0,UNK_99438,0
+928.0,Restaurants,Gauteng,EFT,1,6,iPhone,0,2023-02-03 23:09:00,Friday,0,IPH_93098,0
+5312.68,Fuel,Gauteng,EFT,1,12,Unknown,0,2023-01-21 17:26:00,Saturday,1,UNK_30239,0
+191.62,Groceries,Limpopo,ATM Withdrawal,0,4,iPhone,0,2023-01-23 18:07:00,Monday,0,IPH_72969,0
+174.42,Restaurants,Gauteng,EFT,1,16,iPhone,0,2023-02-13 20:41:00,Monday,0,IPH_23065,0
+2278.8,Restaurants,Mpumalanga,ATM Withdrawal,1,20,Android,0,2023-01-24 14:22:00,Tuesday,0,AND_51291,0
+3430.73,Clothing,Gauteng,POS,1,11,Unknown,0,2023-01-02 21:09:00,Monday,0,UNK_48805,0
+5397.44,Groceries,KwaZulu-Natal,ATM Withdrawal,0,18,Unknown,0,2023-01-13 01:38:00,Friday,0,UNK_28443,0
+4789.4,Clothing,Eastern Cape,POS,1,6,Android,0,2023-01-25 08:08:00,Wednesday,0,AND_19290,0
+3132.4,Groceries,KwaZulu-Natal,EFT,0,5,iPhone,0,2023-01-22 19:49:00,Sunday,1,IPH_10211,0
+1929.91,Clothing,Mpumalanga,ATM Withdrawal,1,7,Unknown,0,2023-02-13 10:08:00,Monday,0,UNK_93634,0
+6979.93,Electronics,Gauteng,EFT,1,12,Android,0,2023-01-28 16:40:00,Saturday,1,AND_29072,0
+2994.75,Fuel,Mpumalanga,ATM Withdrawal,0,4,iPhone,0,2023-02-05 00:43:00,Sunday,1,IPH_53290,0
+3170.68,Fuel,Limpopo,POS,1,1,Android,0,2023-01-25 03:03:00,Wednesday,0,AND_95186,0
+1162.09,Groceries,KwaZulu-Natal,POS,0,8,Unknown,0,2023-01-23 16:10:00,Monday,0,UNK_25115,0
+5567.77,Online Store,KwaZulu-Natal,ATM Withdrawal,1,10,Android,0,2023-01-24 00:32:00,Tuesday,0,AND_15149,0
+4861.9,Restaurants,Western Cape,POS,1,23,Windows,1,2023-01-22 06:46:00,Sunday,1,WIN_51992,0
+1560.97,Restaurants,Gauteng,EFT,0,5,iPhone,1,2023-01-28 15:43:00,Saturday,1,IPH_27716,0
+595.02,Groceries,Limpopo,EFT,0,6,Windows,0,2023-01-14 07:43:00,Saturday,1,WIN_23621,0
+4769.89,Clothing,KwaZulu-Natal,Online,1,6,Windows,0,2023-02-15 06:37:00,Wednesday,0,WIN_16820,0
+4588.49,Online Store,KwaZulu-Natal,POS,0,18,iPhone,0,2023-01-18 11:14:00,Wednesday,0,IPH_52800,0
+1927.35,Electronics,Limpopo,EFT,0,5,iPhone,0,2023-01-09 05:09:00,Monday,0,IPH_65043,0
+6657.03,Clothing,Mpumalanga,ATM Withdrawal,0,10,Android,0,2023-01-06 16:09:00,Friday,0,AND_40399,0
+1074.38,Clothing,Mpumalanga,POS,1,10,iPhone,0,2023-01-02 12:27:00,Monday,0,IPH_24002,0
+3037.7,Groceries,Gauteng,EFT,1,6,Windows,0,2023-01-23 00:29:00,Monday,0,WIN_53098,0
+6606.44,Groceries,Western Cape,POS,0,1,Windows,0,2023-01-11 06:00:00,Wednesday,0,WIN_55511,0
+2949.7,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,18,Unknown,0,2023-01-02 22:27:00,Monday,0,UNK_63243,0
+4476.91,Groceries,Western Cape,EFT,0,3,iPhone,0,2023-01-27 22:49:00,Friday,0,IPH_38750,0
+2795.21,Groceries,Mpumalanga,Online,0,5,Windows,0,2023-02-05 00:11:00,Sunday,1,WIN_27310,0
+1934.02,Groceries,Mpumalanga,Online,1,16,Unknown,0,2023-01-06 03:54:00,Friday,0,UNK_65398,0
+6888.16,Restaurants,Eastern Cape,POS,1,4,Unknown,0,2023-01-25 01:02:00,Wednesday,0,UNK_92542,0
+2877.15,Electronics,Gauteng,ATM Withdrawal,0,6,Android,0,2023-02-08 07:10:00,Wednesday,0,AND_85207,0
+6260.81,Electronics,Eastern Cape,EFT,1,8,Windows,0,2023-02-20 12:50:00,Monday,0,WIN_54345,0
+1625.08,Groceries,Eastern Cape,ATM Withdrawal,1,0,Android,0,2023-02-04 12:08:00,Saturday,1,AND_61843,0
+1507.47,Restaurants,Eastern Cape,EFT,1,0,Windows,0,2023-01-14 05:08:00,Saturday,1,WIN_20222,0
+237.32,Electronics,Gauteng,POS,1,18,Android,0,2023-02-07 01:20:00,Tuesday,0,AND_99322,0
+4568.63,Clothing,Gauteng,EFT,1,5,Android,0,2023-02-01 02:06:00,Wednesday,0,AND_41509,0
+2592.31,Electronics,Limpopo,ATM Withdrawal,0,17,iPhone,0,2023-01-12 13:47:00,Thursday,0,IPH_10386,0
+6053.22,Electronics,Western Cape,ATM Withdrawal,0,9,Android,0,2023-02-13 23:02:00,Monday,0,AND_74334,1
+3323.01,Restaurants,Western Cape,POS,0,10,iPhone,0,2023-01-23 12:30:00,Monday,0,IPH_77170,0
+6777.99,Clothing,Limpopo,ATM Withdrawal,0,0,Unknown,0,2023-02-19 15:42:00,Sunday,1,UNK_50878,0
+1314.97,Restaurants,Limpopo,EFT,1,0,Windows,0,2023-02-07 13:23:00,Tuesday,0,WIN_79669,0
+6082.99,Groceries,Mpumalanga,POS,1,12,Unknown,0,2023-02-03 14:36:00,Friday,0,UNK_48349,0
+5440.65,Fuel,Eastern Cape,EFT,1,4,Windows,0,2023-02-07 21:30:00,Tuesday,0,WIN_31952,0
+5401.03,Electronics,Limpopo,ATM Withdrawal,1,19,Unknown,0,2023-01-26 04:35:00,Thursday,0,UNK_31529,0
+5916.59,Fuel,KwaZulu-Natal,POS,1,0,Windows,0,2023-01-27 14:14:00,Friday,0,WIN_81303,0
+5331.95,Restaurants,Western Cape,EFT,1,19,Android,0,2023-02-14 05:59:00,Tuesday,0,AND_51521,0
+4391.02,Restaurants,Limpopo,ATM Withdrawal,0,2,Windows,0,2023-02-05 14:22:00,Sunday,1,WIN_28383,0
+936.09,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,17,Windows,0,2023-02-16 16:05:00,Thursday,0,WIN_14901,0
+247.03,Fuel,KwaZulu-Natal,Online,1,8,Unknown,0,2023-02-16 09:07:00,Thursday,0,UNK_52889,0
+6447.52,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,13,Unknown,0,2023-02-20 19:08:00,Monday,0,UNK_24633,0
+4324.22,Groceries,Mpumalanga,EFT,1,16,Unknown,0,2023-02-06 16:48:00,Monday,0,UNK_72244,0
+5579.83,Restaurants,Mpumalanga,POS,0,22,iPhone,0,2023-01-27 14:14:00,Friday,0,IPH_29163,0
+3381.03,Online Store,KwaZulu-Natal,Online,1,13,iPhone,0,2023-01-10 09:26:00,Tuesday,0,IPH_69019,0
+838.81,Fuel,Mpumalanga,ATM Withdrawal,1,3,Windows,0,2023-02-07 01:17:00,Tuesday,0,WIN_20707,0
+893.8,Online Store,Eastern Cape,ATM Withdrawal,0,4,Windows,0,2023-01-16 20:08:00,Monday,0,WIN_98112,0
+4805.25,Restaurants,KwaZulu-Natal,ATM Withdrawal,1,20,Android,0,2023-01-16 09:48:00,Monday,0,AND_93597,0
+3023.54,Groceries,Eastern Cape,EFT,0,16,Android,0,2023-01-14 02:59:00,Saturday,1,AND_55101,0
+1419.66,Electronics,Eastern Cape,Online,1,21,Windows,0,2023-02-15 21:46:00,Wednesday,0,WIN_54706,0
+3451.33,Clothing,KwaZulu-Natal,EFT,1,1,iPhone,1,2023-02-15 13:47:00,Wednesday,0,IPH_87084,0
+468.18,Clothing,Western Cape,Online,1,22,Windows,0,2023-02-03 09:29:00,Friday,0,WIN_25115,0
+4082.16,Restaurants,KwaZulu-Natal,POS,1,21,Android,0,2023-01-26 06:32:00,Thursday,0,AND_85379,0
+1897.57,Groceries,KwaZulu-Natal,EFT,0,4,iPhone,0,2023-02-05 13:44:00,Sunday,1,IPH_49979,0
+5586.96,Fuel,Mpumalanga,EFT,1,3,iPhone,0,2023-02-02 05:58:00,Thursday,0,IPH_50641,0
+2186.33,Online Store,KwaZulu-Natal,POS,1,3,Android,0,2023-01-23 08:56:00,Monday,0,AND_79377,0
+3197.44,Online Store,Western Cape,Online,1,5,Windows,0,2023-01-21 12:31:00,Saturday,1,WIN_16416,0
+101.11,Online Store,Mpumalanga,ATM Withdrawal,0,19,Unknown,0,2023-01-21 16:51:00,Saturday,1,UNK_20633,0
+525.68,Fuel,Gauteng,POS,1,20,Windows,0,2023-02-01 09:54:00,Wednesday,0,WIN_10594,0
+2759.61,Clothing,Gauteng,ATM Withdrawal,1,12,Windows,0,2023-02-04 11:23:00,Saturday,1,WIN_24393,0
+3369.97,Groceries,Eastern Cape,ATM Withdrawal,0,21,Android,1,2023-01-25 07:56:00,Wednesday,0,AND_45380,0
+4208.14,Fuel,Eastern Cape,POS,1,4,iPhone,0,2023-02-21 04:57:00,Tuesday,0,IPH_55056,0
+2055.8,Online Store,Western Cape,Online,0,22,Android,0,2023-01-06 05:46:00,Friday,0,AND_98279,0
+4870.97,Restaurants,Limpopo,ATM Withdrawal,1,22,Windows,0,2023-01-19 22:34:00,Thursday,0,WIN_14861,0
+6023.65,Electronics,Gauteng,POS,1,6,Unknown,0,2023-01-23 16:56:00,Monday,0,UNK_46126,0
+5463.36,Fuel,Eastern Cape,EFT,1,19,Unknown,0,2023-01-02 18:21:00,Monday,0,UNK_90382,0
+296.54,Fuel,Gauteng,EFT,1,0,Unknown,0,2023-01-20 22:03:00,Friday,0,UNK_43682,0
+3373.94,Groceries,Western Cape,EFT,1,13,Android,0,2023-01-16 04:07:00,Monday,0,AND_28228,0
+752.41,Groceries,Western Cape,POS,0,23,iPhone,0,2023-01-28 07:41:00,Saturday,1,IPH_34009,0
+1709.47,Fuel,Limpopo,EFT,0,3,Android,0,2023-01-19 11:22:00,Thursday,0,AND_10094,0
+6906.9,Online Store,Limpopo,ATM Withdrawal,1,16,Unknown,0,2023-02-08 21:09:00,Wednesday,0,UNK_90636,0
+1014.62,Electronics,Mpumalanga,EFT,0,20,Windows,0,2023-01-28 14:07:00,Saturday,1,WIN_62221,0
+3502.24,Groceries,Western Cape,EFT,0,13,iPhone,0,2023-01-08 16:30:00,Sunday,1,IPH_27430,0
+4334.73,Online Store,Eastern Cape,ATM Withdrawal,1,15,Android,0,2023-02-10 05:24:00,Friday,0,AND_45571,0
+4923.21,Restaurants,Gauteng,EFT,0,13,Android,0,2023-01-07 02:20:00,Saturday,1,AND_64486,0
+3926.35,Groceries,KwaZulu-Natal,ATM Withdrawal,0,15,iPhone,1,2023-02-14 23:06:00,Tuesday,0,IPH_72294,0
+88.2,Online Store,Limpopo,EFT,1,23,iPhone,0,2023-02-19 20:28:00,Sunday,1,IPH_30860,1
+2298.7,Online Store,KwaZulu-Natal,ATM Withdrawal,0,19,Windows,0,2023-01-18 20:31:00,Wednesday,0,WIN_82812,0
+3633.63,Electronics,Eastern Cape,EFT,1,7,iPhone,0,2023-02-19 15:40:00,Sunday,1,IPH_76087,0
+633.31,Electronics,Limpopo,ATM Withdrawal,1,23,Windows,0,2023-02-12 16:14:00,Sunday,1,WIN_18486,0
+2467.38,Restaurants,KwaZulu-Natal,POS,1,2,Unknown,0,2023-02-19 12:50:00,Sunday,1,UNK_93063,0
+251.76,Online Store,Eastern Cape,ATM Withdrawal,0,18,Unknown,0,2023-02-06 01:19:00,Monday,0,UNK_59607,1
+568.48,Clothing,Gauteng,EFT,1,0,Android,0,2023-01-14 08:09:00,Saturday,1,AND_19745,0
+2790.52,Online Store,Eastern Cape,EFT,1,1,Unknown,0,2023-02-18 04:12:00,Saturday,1,UNK_88533,0
+946.36,Electronics,Mpumalanga,Online,1,14,Unknown,0,2023-01-11 15:26:00,Wednesday,0,UNK_28330,0
+3981.44,Clothing,Limpopo,ATM Withdrawal,0,21,Windows,0,2023-01-13 04:13:00,Friday,0,WIN_50078,0
+4832.47,Groceries,Western Cape,POS,1,9,Android,0,2023-01-16 06:11:00,Monday,0,AND_65332,0
+5608.1,Groceries,Gauteng,ATM Withdrawal,1,17,iPhone,0,2023-01-18 00:41:00,Wednesday,0,IPH_64532,0
+1417.05,Fuel,KwaZulu-Natal,ATM Withdrawal,1,21,Android,0,2023-01-29 04:43:00,Sunday,1,AND_53336,0
+1189.03,Electronics,Limpopo,POS,1,13,Unknown,0,2023-02-08 18:49:00,Wednesday,0,UNK_18070,0
+749.88,Fuel,Western Cape,ATM Withdrawal,1,16,iPhone,0,2023-02-20 02:53:00,Monday,0,IPH_11320,0
+4462.28,Clothing,Eastern Cape,POS,1,12,Android,0,2023-01-06 14:30:00,Friday,0,AND_99043,0
+4951.2,Electronics,Western Cape,POS,0,0,Android,0,2023-02-21 16:42:00,Tuesday,0,AND_48921,0
+240.47,Restaurants,Limpopo,ATM Withdrawal,1,4,Android,0,2023-02-19 23:25:00,Sunday,1,AND_16589,0
+6554.76,Online Store,Limpopo,ATM Withdrawal,0,12,Android,0,2023-01-04 18:45:00,Wednesday,0,AND_74409,0
+382.76,Restaurants,Mpumalanga,EFT,1,13,Windows,0,2023-01-21 03:01:00,Saturday,1,WIN_25589,0
+3798.25,Clothing,Mpumalanga,EFT,0,23,Android,0,2023-02-14 07:35:00,Tuesday,0,AND_46375,0
+4969.24,Electronics,Western Cape,Online,1,2,Unknown,0,2023-02-03 13:56:00,Friday,0,UNK_53085,0
+6099.36,Clothing,Eastern Cape,Online,0,14,Unknown,0,2023-02-12 13:31:00,Sunday,1,UNK_70840,1
+5004.33,Online Store,Western Cape,ATM Withdrawal,1,18,Windows,0,2023-02-09 09:10:00,Thursday,0,WIN_53200,0
+5616.06,Groceries,Limpopo,POS,1,16,iPhone,0,2023-01-28 12:14:00,Saturday,1,IPH_36732,0
+2389.36,Groceries,Limpopo,Online,0,2,iPhone,0,2023-01-04 02:48:00,Wednesday,0,IPH_32426,0
+5707.48,Clothing,KwaZulu-Natal,ATM Withdrawal,0,15,Unknown,0,2023-02-02 05:52:00,Thursday,0,UNK_40982,0
+579.2,Fuel,Mpumalanga,Online,0,13,Unknown,0,2023-01-04 12:23:00,Wednesday,0,UNK_69720,0
+6265.82,Electronics,KwaZulu-Natal,POS,1,11,Windows,0,2023-02-03 08:08:00,Friday,0,WIN_26746,0
+3842.19,Electronics,Gauteng,ATM Withdrawal,1,11,iPhone,0,2023-02-13 22:30:00,Monday,0,IPH_38514,0
+5724.74,Groceries,Limpopo,POS,1,10,iPhone,0,2023-02-02 09:10:00,Thursday,0,IPH_74889,0
+3177.18,Restaurants,KwaZulu-Natal,ATM Withdrawal,0,16,Android,0,2023-02-24 14:09:00,Friday,0,AND_13851,0
+4512.17,Online Store,Western Cape,Online,1,7,Android,0,2023-01-26 11:23:00,Thursday,0,AND_29796,0
+3694.29,Restaurants,Mpumalanga,EFT,1,16,Android,0,2023-02-11 06:57:00,Saturday,1,AND_86034,0
+5126.49,Restaurants,Mpumalanga,Online,1,20,Windows,0,2023-02-06 22:01:00,Monday,0,WIN_72798,0
+589.78,Clothing,Eastern Cape,Online,1,22,Unknown,0,2023-02-24 10:53:00,Friday,0,UNK_72985,0
+441.26,Groceries,Western Cape,EFT,0,19,Windows,0,2023-02-09 11:02:00,Thursday,0,WIN_44592,0
+1744.78,Groceries,Eastern Cape,EFT,0,10,iPhone,0,2023-01-10 18:54:00,Tuesday,0,IPH_54845,0
+1133.62,Groceries,KwaZulu-Natal,ATM Withdrawal,0,1,Unknown,0,2023-02-22 15:13:00,Wednesday,0,UNK_25930,0
+6105.05,Clothing,Gauteng,ATM Withdrawal,0,9,Android,0,2023-02-07 02:07:00,Tuesday,0,AND_31159,0
+1550.11,Fuel,Western Cape,POS,0,9,Windows,0,2023-01-05 03:14:00,Thursday,0,WIN_99788,0
+6831.54,Restaurants,Western Cape,POS,0,10,Windows,1,2023-02-06 14:10:00,Monday,0,WIN_34003,0
+2371.53,Clothing,Western Cape,Online,1,5,Android,0,2023-02-18 20:42:00,Saturday,1,AND_45139,0
+1291.18,Electronics,Eastern Cape,EFT,1,3,Windows,0,2023-02-02 06:30:00,Thursday,0,WIN_62452,0
+5532.1,Online Store,KwaZulu-Natal,POS,1,23,Android,0,2023-01-21 04:04:00,Saturday,1,AND_32205,0
+4617.78,Fuel,Western Cape,Online,1,11,iPhone,0,2023-02-15 14:07:00,Wednesday,0,IPH_66955,0
+3497.41,Electronics,Western Cape,EFT,1,10,Unknown,0,2023-02-13 12:46:00,Monday,0,UNK_17464,0
+3896.44,Restaurants,Mpumalanga,ATM Withdrawal,0,22,iPhone,0,2023-01-31 13:51:00,Tuesday,0,IPH_92646,0
+5040.03,Groceries,Gauteng,Online,1,22,iPhone,0,2023-01-10 08:12:00,Tuesday,0,IPH_82657,0
+1614.61,Restaurants,Mpumalanga,ATM Withdrawal,0,12,Android,0,2023-01-15 14:56:00,Sunday,1,AND_19840,0
+6974.41,Clothing,Mpumalanga,POS,1,4,Windows,0,2023-02-11 06:12:00,Saturday,1,WIN_50768,0
+6824.06,Online Store,Gauteng,POS,0,5,iPhone,0,2023-02-14 23:37:00,Tuesday,0,IPH_19461,0
+4559.27,Clothing,KwaZulu-Natal,EFT,1,0,iPhone,0,2023-01-17 04:51:00,Tuesday,0,IPH_30927,0
+1412.81,Fuel,Mpumalanga,Online,0,5,iPhone,0,2023-01-22 01:42:00,Sunday,1,IPH_99934,0
+4767.99,Fuel,KwaZulu-Natal,ATM Withdrawal,0,17,Windows,0,2023-01-06 04:20:00,Friday,0,WIN_25329,0
+523.94,Online Store,Mpumalanga,EFT,1,21,Windows,0,2023-02-10 01:00:00,Friday,0,WIN_25791,0
+233.95,Electronics,Limpopo,POS,0,8,Android,0,2023-01-02 03:01:00,Monday,0,AND_62627,0
+1818.63,Electronics,Gauteng,POS,1,23,iPhone,0,2023-01-04 11:39:00,Wednesday,0,IPH_24372,0
+3249.11,Fuel,Mpumalanga,Online,1,14,Unknown,0,2023-01-02 04:04:00,Monday,0,UNK_58469,0
+6080.54,Fuel,Limpopo,ATM Withdrawal,1,7,Windows,0,2023-02-06 09:57:00,Monday,0,WIN_97073,0
+5095.64,Groceries,Eastern Cape,Online,1,18,Android,0,2023-01-24 21:35:00,Tuesday,0,AND_44370,0
+5204.09,Electronics,Limpopo,ATM Withdrawal,1,23,iPhone,0,2023-01-18 07:38:00,Wednesday,0,IPH_61408,0
+2989.94,Online Store,Western Cape,ATM Withdrawal,0,15,Unknown,0,2023-02-21 05:32:00,Tuesday,0,UNK_33703,0
+2434.63,Electronics,Mpumalanga,Online,1,5,Windows,0,2023-01-12 13:37:00,Thursday,0,WIN_25234,0
+2609.85,Groceries,Limpopo,EFT,1,5,Unknown,0,2023-01-23 10:11:00,Monday,0,UNK_17532,0
+6913.79,Clothing,KwaZulu-Natal,Online,1,21,Windows,0,2023-02-22 20:52:00,Wednesday,0,WIN_45416,0
+299.96,Fuel,Eastern Cape,Online,0,2,Android,0,2023-01-25 13:02:00,Wednesday,0,AND_82439,0
+6071.88,Fuel,Mpumalanga,POS,1,9,Unknown,0,2023-02-01 14:51:00,Wednesday,0,UNK_28242,0
+4059.15,Groceries,Western Cape,POS,1,0,iPhone,0,2023-01-06 09:14:00,Friday,0,IPH_60254,0
+3081.54,Online Store,Limpopo,Online,1,13,iPhone,0,2023-02-14 17:01:00,Tuesday,0,IPH_89324,0
+5082.3,Fuel,Eastern Cape,Online,1,3,Windows,0,2023-01-25 09:00:00,Wednesday,0,WIN_45249,0
+3416.95,Restaurants,Mpumalanga,POS,0,11,iPhone,0,2023-02-15 08:23:00,Wednesday,0,IPH_95078,0
+6116.49,Fuel,Eastern Cape,ATM Withdrawal,1,5,Unknown,0,2023-01-16 00:44:00,Monday,0,UNK_42294,0
+6306.9,Restaurants,Western Cape,Online,1,10,Android,1,2023-01-25 09:55:00,Wednesday,0,AND_69784,0
+2963.61,Groceries,Limpopo,EFT,1,11,Windows,0,2023-02-14 16:10:00,Tuesday,0,WIN_13684,0
+1952.26,Groceries,Eastern Cape,EFT,1,9,Unknown,0,2023-02-25 03:07:00,Saturday,1,UNK_33795,0
+4154.61,Fuel,Eastern Cape,EFT,0,17,Windows,0,2023-01-05 06:19:00,Thursday,0,WIN_70301,0
+6388.3,Electronics,Gauteng,Online,1,6,Android,0,2023-02-16 05:11:00,Thursday,0,AND_79187,0
+1490.42,Restaurants,Eastern Cape,ATM Withdrawal,1,6,Windows,0,2023-01-18 17:06:00,Wednesday,0,WIN_20431,0
+4368.31,Online Store,Gauteng,ATM Withdrawal,1,10,iPhone,0,2023-02-01 16:18:00,Wednesday,0,IPH_85667,0
+4428.29,Fuel,Limpopo,POS,1,3,iPhone,0,2023-01-18 03:31:00,Wednesday,0,IPH_99627,0
+5137.13,Online Store,Mpumalanga,Online,0,19,Windows,0,2023-02-05 05:31:00,Sunday,1,WIN_65372,0
+938.34,Fuel,Mpumalanga,ATM Withdrawal,1,0,Android,0,2023-01-21 17:38:00,Saturday,1,AND_80366,0
+5016.46,Electronics,Limpopo,Online,0,12,Android,0,2023-01-20 14:53:00,Friday,0,AND_82870,0
+6365.05,Electronics,Limpopo,POS,1,17,iPhone,0,2023-01-04 01:46:00,Wednesday,0,IPH_57387,0
+1274.19,Electronics,KwaZulu-Natal,POS,1,8,Android,0,2023-01-10 04:29:00,Tuesday,0,AND_62927,0
+1678.05,Clothing,Limpopo,POS,1,23,Windows,0,2023-02-22 09:22:00,Wednesday,0,WIN_19304,0
+6800.34,Electronics,Eastern Cape,EFT,1,23,Unknown,0,2023-02-26 23:40:00,Sunday,1,UNK_27032,0
+1283.22,Groceries,Mpumalanga,Online,1,8,Windows,0,2023-02-14 19:06:00,Tuesday,0,WIN_69486,0
+5983.61,Groceries,Western Cape,POS,1,22,iPhone,0,2023-01-18 01:48:00,Wednesday,0,IPH_75552,0
+3456.1,Clothing,Mpumalanga,Online,1,8,iPhone,0,2023-01-24 14:13:00,Tuesday,0,IPH_83844,0
+1745.67,Restaurants,Gauteng,EFT,0,9,iPhone,0,2023-02-12 14:02:00,Sunday,1,IPH_39654,0
+6097.83,Online Store,Mpumalanga,EFT,0,1,Android,0,2023-02-25 12:25:00,Saturday,1,AND_49244,0
+3128.23,Fuel,KwaZulu-Natal,POS,0,5,Windows,0,2023-01-27 15:12:00,Friday,0,WIN_15942,0
+3613.43,Fuel,Limpopo,POS,1,14,Unknown,0,2023-02-17 18:09:00,Friday,0,UNK_60697,0
+2527.45,Clothing,Limpopo,ATM Withdrawal,0,2,Windows,0,2023-02-26 00:13:00,Sunday,1,WIN_12693,0
+4158.8,Groceries,Mpumalanga,Online,1,10,Unknown,0,2023-02-20 07:25:00,Monday,0,UNK_66751,0
+1161.4,Fuel,Western Cape,POS,1,5,Windows,0,2023-01-14 19:14:00,Saturday,1,WIN_91098,0
+2749.75,Groceries,Western Cape,ATM Withdrawal,1,2,iPhone,1,2023-01-02 09:55:00,Monday,0,IPH_16259,0
+6786.5,Restaurants,KwaZulu-Natal,Online,1,23,Unknown,0,2023-01-29 19:45:00,Sunday,1,UNK_14942,0
+1821.77,Online Store,Gauteng,POS,1,10,Windows,0,2023-02-01 01:40:00,Wednesday,0,WIN_57419,0
+4604.02,Restaurants,Mpumalanga,ATM Withdrawal,0,14,Android,0,2023-01-13 08:57:00,Friday,0,AND_66105,0
+2289.83,Clothing,Limpopo,ATM Withdrawal,1,12,Android,0,2023-01-18 02:47:00,Wednesday,0,AND_75907,0
+5418.84,Electronics,Mpumalanga,Online,1,19,Windows,0,2023-02-14 09:55:00,Tuesday,0,WIN_37383,0
+933.5,Electronics,KwaZulu-Natal,ATM Withdrawal,0,9,iPhone,1,2023-01-28 16:36:00,Saturday,1,IPH_33404,0
+6789.35,Electronics,Eastern Cape,Online,1,5,Unknown,0,2023-01-20 00:16:00,Friday,0,UNK_82656,0
+3187.45,Restaurants,Eastern Cape,Online,1,14,Windows,1,2023-02-06 09:33:00,Monday,0,WIN_15702,0
+1667.63,Fuel,KwaZulu-Natal,Online,1,17,Android,0,2023-02-08 03:22:00,Wednesday,0,AND_83883,0
+533.01,Online Store,Limpopo,EFT,0,17,Unknown,0,2023-02-14 19:34:00,Tuesday,0,UNK_66332,0
+1204.91,Electronics,KwaZulu-Natal,ATM Withdrawal,1,6,Android,0,2023-01-10 21:42:00,Tuesday,0,AND_49419,0
+3648.02,Clothing,Limpopo,Online,0,14,Android,0,2023-02-13 06:56:00,Monday,0,AND_98078,0
+2372.28,Clothing,Western Cape,POS,0,17,Windows,0,2023-02-05 04:54:00,Sunday,1,WIN_83844,0
+5805.61,Electronics,KwaZulu-Natal,EFT,1,17,Android,0,2023-01-05 06:13:00,Thursday,0,AND_49242,0
+3027.59,Electronics,Limpopo,EFT,1,19,Unknown,0,2023-02-15 10:29:00,Wednesday,0,UNK_44142,0
+1756.03,Online Store,KwaZulu-Natal,ATM Withdrawal,1,8,iPhone,0,2023-01-23 21:31:00,Monday,0,IPH_17393,0
+4327.67,Electronics,KwaZulu-Natal,Online,0,23,Windows,0,2023-01-20 21:28:00,Friday,0,WIN_79939,0
+4953.3,Online Store,Limpopo,ATM Withdrawal,1,1,Unknown,0,2023-01-27 15:43:00,Friday,0,UNK_79082,0
+1185.95,Clothing,Limpopo,EFT,1,7,Windows,0,2023-01-21 19:54:00,Saturday,1,WIN_38893,0
+1189.98,Electronics,Gauteng,Online,0,19,Android,0,2023-01-21 09:23:00,Saturday,1,AND_19388,0
+275.97,Restaurants,KwaZulu-Natal,POS,1,1,Android,0,2023-02-17 09:24:00,Friday,0,AND_72969,0
+5160.09,Restaurants,Eastern Cape,Online,0,10,Unknown,0,2023-01-09 03:09:00,Monday,0,UNK_46660,0
+4653.36,Clothing,KwaZulu-Natal,EFT,1,6,Unknown,0,2023-02-26 19:24:00,Sunday,1,UNK_99244,0
+3332.92,Online Store,KwaZulu-Natal,POS,1,5,iPhone,0,2023-02-02 22:06:00,Thursday,0,IPH_34726,0
+5912.31,Restaurants,Limpopo,Online,0,9,Unknown,0,2023-01-12 12:20:00,Thursday,0,UNK_89544,0
+5643.58,Online Store,KwaZulu-Natal,POS,0,4,Unknown,0,2023-01-09 12:59:00,Monday,0,UNK_72996,0
+4105.77,Restaurants,Mpumalanga,POS,0,10,Windows,0,2023-02-05 02:25:00,Sunday,1,WIN_10111,0
+6080.53,Restaurants,KwaZulu-Natal,EFT,0,0,Android,0,2023-02-07 12:30:00,Tuesday,0,AND_27545,0
+1456.77,Online Store,Mpumalanga,POS,1,1,Unknown,0,2023-01-05 01:01:00,Thursday,0,UNK_50168,0
+801.2,Fuel,Eastern Cape,ATM Withdrawal,1,23,iPhone,0,2023-01-16 00:40:00,Monday,0,IPH_12379,0
+1902.85,Restaurants,Limpopo,EFT,0,0,Unknown,0,2023-02-17 00:00:00,Friday,0,UNK_97346,0
+418.47,Electronics,KwaZulu-Natal,ATM Withdrawal,0,18,Android,0,2023-01-04 20:30:00,Wednesday,0,AND_51120,0
+3727.56,Clothing,Mpumalanga,POS,1,1,Unknown,1,2023-02-20 12:30:00,Monday,0,UNK_27809,0
+6557.51,Fuel,Mpumalanga,ATM Withdrawal,1,20,Windows,1,2023-02-09 03:21:00,Thursday,0,WIN_62813,0
+294.62,Online Store,Mpumalanga,Online,0,19,Android,0,2023-01-27 04:29:00,Friday,0,AND_84005,0
+872.33,Fuel,Western Cape,POS,0,22,Unknown,0,2023-01-22 02:19:00,Sunday,1,UNK_37967,1
+3176.35,Groceries,Gauteng,Online,1,20,Windows,0,2023-01-03 02:28:00,Tuesday,0,WIN_19748,0
+6538.45,Groceries,Eastern Cape,ATM Withdrawal,0,23,Android,0,2023-02-18 23:06:00,Saturday,1,AND_33424,0
+2226.77,Restaurants,KwaZulu-Natal,Online,0,3,Unknown,0,2023-01-10 06:57:00,Tuesday,0,UNK_96512,0
+3560.5,Restaurants,Western Cape,POS,1,11,Windows,0,2023-01-20 00:12:00,Friday,0,WIN_33914,0
+310.18,Electronics,KwaZulu-Natal,Online,1,21,iPhone,0,2023-02-04 03:28:00,Saturday,1,IPH_88478,0
+1055.44,Clothing,KwaZulu-Natal,ATM Withdrawal,1,19,Windows,0,2023-01-16 07:55:00,Monday,0,WIN_29491,0
+6906.68,Fuel,Limpopo,ATM Withdrawal,1,17,iPhone,0,2023-01-30 23:51:00,Monday,0,IPH_59454,0
+6756.53,Groceries,Limpopo,ATM Withdrawal,1,0,Unknown,0,2023-02-18 05:50:00,Saturday,1,UNK_80069,0
+54.48,Restaurants,Limpopo,POS,0,0,Windows,0,2023-01-29 11:34:00,Sunday,1,WIN_61925,0
+6663.65,Clothing,Western Cape,ATM Withdrawal,1,23,iPhone,0,2023-02-26 11:24:00,Sunday,1,IPH_99119,0
+4481.06,Fuel,KwaZulu-Natal,POS,0,13,Android,0,2023-02-20 13:51:00,Monday,0,AND_47049,0
+6078.07,Restaurants,Gauteng,Online,0,3,Windows,0,2023-01-21 11:47:00,Saturday,1,WIN_37821,0
+3194.08,Restaurants,Eastern Cape,ATM Withdrawal,1,4,Unknown,0,2023-01-25 10:14:00,Wednesday,0,UNK_39945,0
+3618.86,Groceries,Limpopo,Online,1,10,Android,1,2023-01-26 19:32:00,Thursday,0,AND_27384,0
+3432.15,Groceries,Limpopo,EFT,1,23,iPhone,0,2023-02-07 17:36:00,Tuesday,0,IPH_38410,0
+4674.71,Restaurants,KwaZulu-Natal,Online,1,22,Windows,0,2023-01-18 20:00:00,Wednesday,0,WIN_87734,0
+994.77,Online Store,KwaZulu-Natal,EFT,0,12,Windows,0,2023-02-27 22:38:00,Monday,0,WIN_73766,0
+229.22,Restaurants,Western Cape,Online,0,15,Unknown,0,2023-02-06 18:49:00,Monday,0,UNK_17169,1
+2169.35,Clothing,Western Cape,POS,1,23,Android,0,2023-01-25 11:54:00,Wednesday,0,AND_50129,0
+4938.67,Restaurants,Limpopo,Online,1,12,Windows,0,2023-02-08 23:22:00,Wednesday,0,WIN_13830,0
+1428.94,Electronics,KwaZulu-Natal,POS,1,23,Windows,0,2023-01-25 07:04:00,Wednesday,0,WIN_66306,0
+4720.56,Electronics,Gauteng,POS,1,21,Android,0,2023-02-19 05:10:00,Sunday,1,AND_96940,0
+6789.99,Electronics,Eastern Cape,ATM Withdrawal,1,1,Windows,0,2023-02-04 12:03:00,Saturday,1,WIN_75267,0
+675.43,Online Store,KwaZulu-Natal,POS,1,15,Android,0,2023-01-04 11:29:00,Wednesday,0,AND_37757,0
+4714.76,Online Store,KwaZulu-Natal,EFT,0,5,Android,0,2023-01-12 10:40:00,Thursday,0,AND_73867,0
+3117.38,Restaurants,Mpumalanga,ATM Withdrawal,1,13,Android,0,2023-02-22 03:25:00,Wednesday,0,AND_45650,0
+6079.63,Electronics,Western Cape,ATM Withdrawal,1,0,Unknown,0,2023-02-04 07:20:00,Saturday,1,UNK_43766,0
+1256.51,Online Store,Eastern Cape,Online,0,16,Android,0,2023-02-27 06:26:00,Monday,0,AND_91478,0
+4854.53,Groceries,Limpopo,POS,1,10,Android,0,2023-01-06 07:04:00,Friday,0,AND_42419,0
+5870.04,Restaurants,KwaZulu-Natal,POS,0,18,iPhone,0,2023-01-19 12:14:00,Thursday,0,IPH_26668,0
+6613.41,Clothing,Limpopo,EFT,1,2,iPhone,0,2023-01-13 11:42:00,Friday,0,IPH_26246,0
+4789.07,Fuel,KwaZulu-Natal,Online,0,10,Unknown,0,2023-02-03 21:17:00,Friday,0,UNK_34996,0
+3490.28,Restaurants,Limpopo,Online,1,4,Android,1,2023-01-24 17:57:00,Tuesday,0,AND_61312,0
+4332.57,Fuel,Eastern Cape,ATM Withdrawal,0,16,iPhone,0,2023-01-11 08:35:00,Wednesday,0,IPH_13065,0
+6084.96,Electronics,Western Cape,ATM Withdrawal,1,21,iPhone,0,2023-02-09 05:55:00,Thursday,0,IPH_20467,0
+4002.86,Fuel,Eastern Cape,ATM Withdrawal,0,6,Windows,0,2023-02-02 22:28:00,Thursday,0,WIN_60646,0
+232.1,Electronics,Mpumalanga,EFT,0,9,Android,0,2023-01-18 09:02:00,Wednesday,0,AND_31007,0
+6518.02,Groceries,Gauteng,EFT,1,10,iPhone,0,2023-01-30 14:40:00,Monday,0,IPH_78079,0
+4832.9,Fuel,Western Cape,ATM Withdrawal,1,2,Unknown,0,2023-02-15 11:57:00,Wednesday,0,UNK_38702,0
+4742.06,Restaurants,Eastern Cape,Online,0,19,Windows,0,2023-01-14 06:22:00,Saturday,1,WIN_85569,0
+1525.41,Electronics,Mpumalanga,EFT,0,9,Windows,0,2023-01-19 12:14:00,Thursday,0,WIN_63952,0
+4619.02,Restaurants,Gauteng,Online,1,9,Android,0,2023-01-22 16:52:00,Sunday,1,AND_68065,0
+2769.17,Online Store,Mpumalanga,Online,1,13,Android,0,2023-02-15 16:23:00,Wednesday,0,AND_44169,0
+4565.61,Electronics,KwaZulu-Natal,POS,1,11,Windows,0,2023-02-21 17:04:00,Tuesday,0,WIN_26829,0
+764.02,Fuel,KwaZulu-Natal,ATM Withdrawal,0,14,Unknown,0,2023-01-24 13:28:00,Tuesday,0,UNK_70135,0
+4611.76,Electronics,Limpopo,POS,1,9,Android,0,2023-01-19 19:06:00,Thursday,0,AND_14522,0
+6995.91,Restaurants,Western Cape,ATM Withdrawal,0,9,Android,0,2023-02-24 08:50:00,Friday,0,AND_95687,0
+356.52,Groceries,KwaZulu-Natal,ATM Withdrawal,0,18,Windows,0,2023-03-03 00:05:00,Friday,0,WIN_45319,0
+6840.68,Electronics,Mpumalanga,Online,1,0,Windows,0,2023-02-11 06:47:00,Saturday,1,WIN_36543,1
+2860.22,Fuel,Western Cape,ATM Withdrawal,1,23,Android,0,2023-03-02 12:32:00,Thursday,0,AND_40473,0
+6097.86,Online Store,KwaZulu-Natal,Online,1,9,iPhone,0,2023-02-10 17:08:00,Friday,0,IPH_17699,0
+5481.05,Clothing,Limpopo,Online,0,1,Android,0,2023-02-15 03:58:00,Wednesday,0,AND_78165,0
+3977.77,Groceries,Eastern Cape,ATM Withdrawal,1,16,iPhone,0,2023-01-25 10:18:00,Wednesday,0,IPH_50455,0
+5174.38,Online Store,Limpopo,Online,1,23,Windows,0,2023-01-28 02:47:00,Saturday,1,WIN_85692,0
+6152.04,Electronics,Gauteng,Online,1,6,iPhone,0,2023-01-10 17:09:00,Tuesday,0,IPH_27441,0
+2840.9,Restaurants,KwaZulu-Natal,Online,0,6,Unknown,0,2023-02-20 16:15:00,Monday,0,UNK_40716,0
+2302.69,Restaurants,Gauteng,EFT,0,19,Windows,1,2023-02-27 06:04:00,Monday,0,WIN_72175,0
+4679.8,Fuel,Gauteng,Online,1,8,Android,0,2023-02-08 16:49:00,Wednesday,0,AND_16834,0
+5658.76,Restaurants,Mpumalanga,EFT,1,21,Android,0,2023-01-22 19:22:00,Sunday,1,AND_28179,0
+5340.75,Groceries,Western Cape,EFT,0,1,Windows,0,2023-01-11 08:18:00,Wednesday,0,WIN_36219,0
+5588.74,Restaurants,Mpumalanga,Online,1,13,Windows,0,2023-01-18 02:00:00,Wednesday,0,WIN_25782,0
+3060.37,Fuel,KwaZulu-Natal,Online,0,16,Unknown,0,2023-01-17 12:06:00,Tuesday,0,UNK_91363,0
+5728.48,Clothing,Gauteng,EFT,1,0,Windows,0,2023-02-08 05:33:00,Wednesday,0,WIN_84967,0
+859.06,Electronics,Eastern Cape,EFT,0,8,Android,1,2023-02-28 08:57:00,Tuesday,0,AND_19496,0
+3820.53,Electronics,Gauteng,Online,1,19,Unknown,0,2023-01-04 23:02:00,Wednesday,0,UNK_98867,0
+60.2,Restaurants,Eastern Cape,Online,1,20,Android,0,2023-01-02 02:12:00,Monday,0,AND_49238,0
+2285.61,Online Store,Mpumalanga,ATM Withdrawal,0,18,iPhone,0,2023-02-07 12:33:00,Tuesday,0,IPH_56025,0
+2577.9,Electronics,Mpumalanga,EFT,1,3,Windows,0,2023-01-19 07:32:00,Thursday,0,WIN_69886,0
+2785.29,Clothing,Western Cape,EFT,1,7,iPhone,0,2023-02-24 15:27:00,Friday,0,IPH_33563,0
+4874.36,Restaurants,Gauteng,ATM Withdrawal,1,12,Android,0,2023-01-21 23:17:00,Saturday,1,AND_13712,0
+2732.14,Fuel,Limpopo,EFT,1,3,iPhone,0,2023-01-19 16:44:00,Thursday,0,IPH_55489,0
+3151.88,Clothing,Mpumalanga,POS,0,8,iPhone,0,2023-01-18 11:25:00,Wednesday,0,IPH_42664,0
+1678.06,Restaurants,Mpumalanga,EFT,0,8,Android,0,2023-01-10 21:04:00,Tuesday,0,AND_22420,0
+2625.3,Clothing,Western Cape,ATM Withdrawal,0,21,Android,0,2023-02-06 13:27:00,Monday,0,AND_64610,0
+1606.34,Electronics,Eastern Cape,POS,0,17,Windows,0,2023-01-12 07:39:00,Thursday,0,WIN_15315,0
+530.91,Fuel,Western Cape,Online,0,11,iPhone,0,2023-01-28 00:17:00,Saturday,1,IPH_80917,0
+4232.07,Restaurants,Gauteng,ATM Withdrawal,0,9,Unknown,0,2023-01-30 06:06:00,Monday,0,UNK_85033,0
+4684.13,Groceries,KwaZulu-Natal,ATM Withdrawal,1,10,Unknown,0,2023-01-03 07:02:00,Tuesday,0,UNK_89030,0
+4344.04,Fuel,KwaZulu-Natal,Online,1,6,Android,0,2023-01-03 01:39:00,Tuesday,0,AND_73910,0
+3255.19,Groceries,Eastern Cape,ATM Withdrawal,0,8,Android,1,2023-02-02 22:43:00,Thursday,0,AND_70972,0
+2670.9,Clothing,Mpumalanga,EFT,0,5,iPhone,0,2023-02-13 18:14:00,Monday,0,IPH_65919,0
+6046.07,Online Store,Eastern Cape,Online,1,18,Android,0,2023-02-28 21:43:00,Tuesday,0,AND_92486,0
