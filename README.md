@@ -1,105 +1,91 @@
-South_African_Fraud_Detection Machine Learning Project
+South African Fraud Detection Project Using Machine Learning With EDA
 
-This project is a full end-to-end fraud detection pipeline designed for portfolio demonstration and junior data science applications. It includes data wrangling, preprocessing, class balancing, model training, evaluation, and explainability.
+✅ Project Overview
 
-1. Project Overview
+This project focuses on detecting fraudulent transactions using machine learning techniques. 
+The dataset is synthetic but adapted to reflect realistic transaction behaviour in the South African market. 
+The solution emphasises class imbalance handling, model performance, and explainability.
 
-Financial fraud is rare but costly, making fraud datasets highly imbalanced.
-This project builds a machine learning solution to detect fraudulent transactions using:
+✅ Objectives
+
+Detect fraudulent transactions with high recall
+
+Handle severe class imbalance appropriately
+
+Build an interpretable and business-ready model
+
+Simulate a realistic South African fraud detection use case
+
+✅ Methodology
+
+EDA: Transaction behaviour analysis, class imbalance inspection, correlation analysis
+
+Preprocessing: Encoding, scaling, stratified train-test split
+
+Imbalance Handling: SMOTENC
+
+Model: XGBoost with GridSearchCV
+
+Evaluation: Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
+
+Explainability: SHAP (global and local explanations)
+
+✅ Key Results
+
+Strong recall for fraud detection
+
+Good separation between fraud and non-fraud classes
+
+Model behaviour aligned with domain expectations
+
+Transparent explanations suitable for regulated environments
+
+✅ Limitations
+
+
+Synthetic dataset (used due to privacy and regulatory constraints)
+
+Fraud patterns may evolve in real-world environments
+
+✅ Future Improvements
+
+
+Cost-sensitive evaluation
+
+Real-time inference simulation
+
+Integration with rule-based fraud systems
+
+Model monitoring and drift detection
+
+
+✅ Tools used 
+
+Python
+
+Pandas
+
+Scikit-learn
 
 XGBoost
 
-SMOTENC oversampling
+imbalanced-learn (SMOTENC)
 
-Feature engineering
+SHAP
 
-Hyperparameter tuning (GridSearchCV)
+Matplotlib / Seaborn
 
-SHAP explainability
-
-The goal is to create a production-style pipeline that handles real-world data challenges.
-
-2. Data Wrangling & Preprocessing
-
-✔ Cleaned dataset and performed EDA
-✔ Identified categorical & numerical columns
-✔ Applied Label Encoding for SMOTENC compatibility
-✔ Train/test split with stratification
-✔ Balanced minority class using SMOTENC
-✔ Scaled numerical features after oversampling
-
-3. Exploratory Data Analysis (EDA)
-
-Key visualizations include:
-
-*Fraud class distribution
-
-*Transaction amount distribution
-
-*Boxplot of amount vs fraud class
-
-*Correlation matrix (numeric features)
-
-*Categorical frequency plots
-
-4. Modeling
-
-Model used: XGBoostClassifier
-
-Hyperparameter optimization with GridSearchCV using ROC-AUC scoring.
-
-Metrics reported:
-
-Confusion Matrix
-
-Classification Report
-
-ROC-AUC Score
-
-5. Explainability (SHAP)
-
-SHAP TreeExplainer was used to interpret:
-
-Global feature importance
-
-Contribution of features to predictions
-
-Fraud-driver insights
-
-This demonstrates understanding of model interpretability—highly fundamental analytics.
-
-6. Results
-
-✔ Improved fraud detection after SMOTENC
-✔ Balanced dataset improved recall for the minority class
-✔ Good ROC-AUC performance
-✔ SHAP plots showed the top influential features
-
-📂 Files Included
-
-South_African_Fraud_Detection_Notebook_with_EDA.ipynb
-
-Fraud_Detection_Summary.pdf
-
-Power BI dashboard
-
-Dataset (synthetic version)
-
-🎯 Skills Demonstrated
-
-Data wrangling & preprocessing
-
-Imbalanced data handling
-
-Model development & tuning
-
-Explainable AI (XAI)
-
-Visualization (matplotlib)
-
-Pipeline design for fraud detection
 
 👤 Author
 
 Kidima Medy Masuka
-Junior Data Scientist |  Operations & Supply Chain Professiona
+Operations & supply chain | Aspiring Data Scientist
+Focused on data-driven decision-making, risk analytics, and machine learning
+
+
+Usage & Attribution
+This project is shared for educational and portfolio purposes.  
+If reused or adapted, appropriate credit must be given to the author.
+
+📰This project is part of my personal data science portfolio ✅
+
