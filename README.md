@@ -1,69 +1,81 @@
-South African Fraud Detection Project Using Machine Learning With EDA
+South African Fraud Detection Project Using Machine Learning with EDA
 
 Author: Kidima Medy Masuka
-
 Date: 2026
 
 ✅ Project Overview
 
-This project focuses on detecting fraudulent transactions using machine learning techniques. 
-The dataset is synthetic but adapted to reflect realistic transaction behaviour in the South African market. 
-The solution emphasises class imbalance handling, model performance, and explainability.
+This project explores the application of machine learning techniques for detecting fraudulent transactions within a synthetic dataset designed to reflect realistic transaction behaviour in the South African financial context. The focus is on handling extreme class imbalance, evaluating model performance using appropriate metrics, and ensuring transparency through explainable AI techniques or Explainable AI  with tools like Shap.
 
 ✅ Objectives
 
-Detect fraudulent transactions with high recall
+Investigate the challenges of fraud detection under severe class imbalance
 
-Handle severe class imbalance appropriately
+Apply resampling techniques to mitigate minority-class underrepresentation
 
-Build an interpretable and business-ready model
+Evaluate model performance using imbalance-aware metrics
+
+Develop an interpretable, decision-support fraud detection model
 
 Simulate a realistic South African fraud detection use case
 
 ✅ Methodology
 
-EDA: Transaction behaviour analysis, class imbalance inspection, correlation analysis
+Exploratory Data Analysis (EDA):
+Transaction behaviour analysis, class imbalance inspection, and correlation analysis
 
-Preprocessing: Encoding, scaling, stratified train-test split
+Preprocessing:
+Encoding, feature scaling, and stratified train–test splitting
 
-Imbalance Handling: SMOTENC
+Imbalance Handling:
+SMOTENC for mixed numerical and categorical feature resampling
 
-Model: XGBoost with GridSearchCV
+Modeling:
+XGBoost classifier with hyperparameter optimisation using GridSearchCV
 
-Evaluation: Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
+Evaluation:
+Confusion Matrix, Precision, Recall, F1-score, ROC-AUC, and Precision–Recall AUC
 
-Explainability: SHAP (global and local explanations)
+Explainability:
+SHAP for global feature importance and local (transaction-level) explanations
 
 ✅ Key Results
 
-Strong recall for fraud detection
+Severe class imbalance (≈3% fraud) strongly constrains model performance
 
-Good separation between fraud and non-fraud classes
+High overall accuracy is driven by the correct classification of non-fraud transactions
 
-Model behaviour aligned with domain expectations
+Fraud recall remains low, even after threshold tuning, highlighting data limitations
 
-Transparent explanations suitable for regulated environments
+ROC-AUC shows limited discriminative power in this imbalanced setting
 
-✅ Limitations
+Precision–Recall AUC provides a more appropriate assessment of minority-class detection
 
+SHAP explanations enhance transparency without overstating predictive capability
 
-Synthetic dataset (used due to privacy and regulatory constraints)
+⚠️ Limitations
 
-Fraud patterns may evolve in real-world environments
+The dataset is synthetic and may not fully capture real-world fraud complexity
 
-✅ Future Improvements
+Extremely limited fraud samples restrict minority-class generalisation
 
-
-Cost-sensitive evaluation
-
-Real-time inference simulation
-
-Integration with rule-based fraud systems
-
-Model monitoring and drift detection
+Threshold tuning alone is insufficient to substantially improve fraud recall
 
 
-✅ Tools used 
+🚀 Future Improvements
+
+Incorporate cost-sensitive learning and business-driven evaluation metrics
+
+Expand feature engineering with behavioural and contextual attributes
+
+Combine machine learning predictions with rule-based fraud detection systems
+
+Implement model monitoring, drift detection, and continuous retraining
+
+Evaluate performance using real-world transaction data where feasible
+
+
+🛠 Tools Used
 
 Python
 
